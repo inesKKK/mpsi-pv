@@ -1,10 +1,8 @@
-name: mp2i-pv
+name: mpsi-pv
 
 channels:
   - QuantStack
   - conda-forge
 
 dependencies:
-  - cling
-  - xeus-cling
   - notebook
