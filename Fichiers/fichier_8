@@ -1,0 +1,2862 @@
+/usr/include/:
+total 1468
+drwxr-xr-x  3 root root   4096 Nov 23 19:50 X11
+-rw-r--r--  1 root root    932 Dec  7  2020 _G_config.h
+-rw-r--r--  1 root root   7456 Dec  7  2020 aio.h
+-rw-r--r--  1 root root   2031 Dec  7  2020 aliases.h
+-rw-r--r--  1 root root   1203 Dec  7  2020 alloca.h
+-rw-r--r--  1 root root   1730 Dec  7  2020 ar.h
+-rw-r--r--  1 root root  25414 Dec  7  2020 argp.h
+-rw-r--r--  1 root root   6050 Dec  7  2020 argz.h
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 arpa
+drwxr-xr-x  2 root root   4096 Jan  5 06:13 asm-generic
+-rw-r--r--  1 root root   4642 Dec  7  2020 assert.h
+drwxr-xr-x  2 root root   4096 May 26  2021 btrfs
+-rw-r--r--  1 root root   1404 Dec  7  2020 byteswap.h
+drwxr-xr-x  3 root root   4096 Sep 10 19:09 c++
+-rw-r--r--  1 root root   7163 Dec  7  2020 complex.h
+-rw-r--r--  1 root root   2267 Dec  7  2020 cpio.h
+-rw-r--r--  1 root root   2259 Dec  7  2020 crypt.h
+-rw-r--r--  1 root root  10963 Dec  7  2020 ctype.h
+-rw-r--r--  1 root root  12484 Dec  7  2020 dirent.h
+-rw-r--r--  1 root root   7018 Dec  7  2020 dlfcn.h
+drwxr-xr-x  2 root root   4096 Jan  5 06:13 drm
+-rw-r--r--  1 root root 170023 Dec  7  2020 elf.h
+-rw-r--r--  1 root root   3189 Dec  7  2020 endian.h
+-rw-r--r--  1 root root   2866 Dec  7  2020 envz.h
+-rw-r--r--  1 root root   2209 Dec  7  2020 err.h
+-rw-r--r--  1 root root   1832 Dec  7  2020 errno.h
+-rw-r--r--  1 root root   2039 Dec  7  2020 error.h
+-rw-r--r--  1 root root   1522 Dec  7  2020 execinfo.h
+-rw-r--r--  1 root root  43512 Sep 10  2019 expat.h
+-rw-r--r--  1 root root   5532 Sep 10  2019 expat_external.h
+-rw-r--r--  1 root root   9463 Dec  7  2020 fcntl.h
+-rw-r--r--  1 root root  15541 Dec  7  2020 features.h
+-rw-r--r--  1 root root   5857 Dec  7  2020 fenv.h
+-rw-r--r--  1 root root   3239 Dec  7  2020 fmtmsg.h
+-rw-r--r--  1 root root   2295 Dec  7  2020 fnmatch.h
+-rw-r--r--  1 root root   3111 Dec  7  2020 fstab.h
+-rw-r--r--  1 root root   8372 Dec  7  2020 fts.h
+-rw-r--r--  1 root root   5251 Dec  7  2020 ftw.h
+-rw-r--r--  1 root root  31038 Feb 11  2018 gawkapi.h
+-rw-r--r--  1 root root   4410 Dec  7  2020 gconv.h
+-rw-r--r--  1 root root   1468 Dec  7  2020 getopt.h
+-rw-r--r--  1 root root   6614 Dec  7  2020 glob.h
+-rw-r--r--  1 root root   2342 Dec  7  2020 gnu-versions.h
+-rw-r--r--  1 root root   2912 Apr 17  2018 gnumake.h
+-rw-r--r--  1 root root   6686 Dec  7  2020 grp.h
+-rw-r--r--  1 root root   4528 Dec  7  2020 gshadow.h
+-rw-r--r--  1 root root   1857 Dec  7  2020 iconv.h
+-rw-r--r--  1 root root   2840 Dec  7  2020 ifaddrs.h
+-rw-r--r--  1 root root  11892 Dec  7  2020 inttypes.h
+-rw-r--r--  1 root root  17848 Dec  7  2020 langinfo.h
+-rw-r--r--  1 root root    126 Dec  7  2020 lastlog.h
+-rw-r--r--  1 root root   1385 Dec  7  2020 libgen.h
+-rw-r--r--  1 root root   4579 Dec  7  2020 libintl.h
+-rw-r--r--  1 root root    918 Dec  7  2020 libio.h
+-rw-r--r--  1 root root   5412 Dec  7  2020 limits.h
+-rw-r--r--  1 root root   7206 Dec  7  2020 link.h
+drwxr-xr-x 28 root root  65536 Jan  5 06:13 linux
+-rw-r--r--  1 root root   7674 Dec  7  2020 locale.h
+-rw-r--r--  1 root root   6102 Dec  7  2020 malloc.h
+-rw-r--r--  1 root root  45394 Dec  7  2020 math.h
+-rw-r--r--  1 root root   2434 Dec  7  2020 mcheck.h
+-rw-r--r--  1 root root    955 Dec  7  2020 memory.h
+drwxr-xr-x  2 root root   4096 Jan  5 06:13 misc
+-rw-r--r--  1 root root   3358 Dec  7  2020 mntent.h
+-rw-r--r--  1 root root   1803 Dec  7  2020 monetary.h
+-rw-r--r--  1 root root   3759 Dec  7  2020 mqueue.h
+drwxr-xr-x  2 root root   4096 Jan  5 06:13 mtd
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 net
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 netash
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 netatalk
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 netax25
+-rw-r--r--  1 root root  28051 Dec  7  2020 netdb.h
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 neteconet
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 netinet
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 netipx
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 netiucv
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 netpacket
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 netrom
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 netrose
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 nfs
+-rw-r--r--  1 root root   1752 Dec  7  2020 nl_types.h
+-rw-r--r--  1 root root   1878 Dec  7  2020 nss.h
+-rw-r--r--  1 root root  21306 Dec  7  2020 obstack.h
+drwxr-xr-x  2 root root   4096 Sep 10 19:11 openssl
+-rw-r--r--  1 root root   2983 Dec  7  2020 paths.h
+-rw-r--r--  1 root root     22 Dec  7  2020 poll.h
+-rw-r--r--  1 root root   6800 Dec  7  2020 printf.h
+-rw-r--r--  1 root root   3476 Dec  7  2020 proc_service.h
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 protocols
+-rw-r--r--  1 root root  41269 Dec  7  2020 pthread.h
+-rw-r--r--  1 root root   1569 Dec  7  2020 pty.h
+-rw-r--r--  1 root root   6029 Dec  7  2020 pwd.h
+lrwxrwxrwx  1 root root     10 Jan 26  2021 python3.6 -> python3.6m
+drwxr-xr-x  2 root root  16384 Dec 16 06:38 python3.6m
+drwxr-xr-x  3 root root   4096 Jan  5 06:13 rdma
+-rw-r--r--  1 root root    962 Dec  7  2020 re_comp.h
+-rw-r--r--  1 root root  22050 Dec  7  2020 regex.h
+-rw-r--r--  1 root root   1447 Dec  7  2020 regexp.h
+-rw-r--r--  1 root root  12012 Dec  7  2020 resolv.h
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 rpc
+drwxr-xr-x  2 root root   4096 Sep 10 19:08 rpcsvc
+-rw-r--r--  1 root root   4732 Dec  7  2020 sched.h
+drwxr-xr-x  3 root root   4096 Jan  5 06:13 scsi
+-rw-r--r--  1 root root   5223 Dec  7  2020 search.h
+-rw-r--r--  1 root root   2399 Dec  7  2020 semaphore.h
+-rw-r--r--  1 root root   3669 Dec  7  2020 setjmp.h
+-rw-r--r--  1 root root   1343 Dec  7  2020 sgtty.h
+-rw-r--r--  1 root root   5197 Dec  7  2020 shadow.h
+-rw-r--r--  1 root root  12243 Dec  7  2020 signal.h
+drwxr-xr-x  2 root root   4096 Jan  5 06:13 sound
+-rw-r--r--  1 root root   6690 Dec  7  2020 spawn.h
+-rw-r--r--  1 root root    264 Dec  7  2020 stab.h
+-rw-r--r--  1 root root   2363 Dec  7  2020 stdc-predef.h
+-rw-r--r--  1 root root   8626 Dec  7  2020 stdint.h
+-rw-r--r--  1 root root  29665 Dec  7  2020 stdio.h
+-rw-r--r--  1 root root   2799 Dec  7  2020 stdio_ext.h
+-rw-r--r--  1 root root  35784 Dec  7  2020 stdlib.h
+-rw-r--r--  1 root root  17545 Dec  7  2020 string.h
+-rw-r--r--  1 root root   4752 Dec  7  2020 strings.h
+-rw-r--r--  1 root root   3047 Dec  7  2020 stropts.h
+-rw-r--r--  1 root root   8084 Jan 19  2021 sudo_plugin.h
+-rw-r--r--  1 root root     25 Dec  7  2020 syscall.h
+-rw-r--r--  1 root root   5232 Dec  7  2020 sysexits.h
+-rw-r--r--  1 root root     24 Dec  7  2020 syslog.h
+-rw-r--r--  1 root root   3785 Dec  7  2020 tar.h
+-rw-r--r--  1 root root    214 Dec  7  2020 termio.h
+-rw-r--r--  1 root root   3598 Dec  7  2020 termios.h
+-rw-r--r--  1 root root  31489 Dec  7  2020 tgmath.h
+-rw-r--r--  1 root root  16023 Dec  7  2020 thread_db.h
+-rw-r--r--  1 root root  10360 Dec  7  2020 time.h
+-rw-r--r--  1 root root   2494 Dec  7  2020 ttyent.h
+-rw-r--r--  1 root root   2312 Dec  7  2020 uchar.h
+-rw-r--r--  1 root root   1937 Dec  7  2020 ucontext.h
+-rw-r--r--  1 root root   1583 Dec  7  2020 ulimit.h
+-rw-r--r--  1 root root  42785 Dec  7  2020 unistd.h
+-rw-r--r--  1 root root     23 Dec  7  2020 ustat.h
+-rw-r--r--  1 root root   1501 Dec  7  2020 utime.h
+-rw-r--r--  1 root root   3222 Dec  7  2020 utmp.h
+-rw-r--r--  1 root root   4099 Dec  7  2020 utmpx.h
+-rw-r--r--  1 root root   1955 Dec  7  2020 values.h
+drwxr-xr-x  2 root root   4096 Jan  5 06:13 video
+-rw-r--r--  1 root root     22 Dec  7  2020 wait.h
+-rw-r--r--  1 root root  31111 Dec  7  2020 wchar.h
+-rw-r--r--  1 root root   5548 Dec  7  2020 wctype.h
+-rw-r--r--  1 root root   2501 Dec  7  2020 wordexp.h
+drwxr-xr-x 10 root root   4096 Sep 10 19:11 x86_64-linux-gnu
+drwxr-xr-x  2 root root   4096 Jan  5 06:13 xen
+drwxr-xr-x  2 root root   4096 Apr 18  2018 xfs
+
+/usr/include/X11:
+total 4
+drwxr-xr-x 2 root root 4096 Nov 23 19:50 bitmaps
+
+/usr/include/X11/bitmaps:
+total 416
+-rw-r--r-- 1 root root   272 Oct 29  2012 1x1
+-rw-r--r-- 1 root root   272 Oct 29  2012 2x2
+-rw-r--r-- 1 root root   278 Oct 29  2012 black
+-rw-r--r-- 1 root root   117 Oct 29  2012 black6
+-rw-r--r-- 1 root root   111 Oct 29  2012 box6
+-rw-r--r-- 1 root root   278 Oct 29  2012 boxes
+-rw-r--r-- 1 root root  1274 Oct 29  2012 calculator
+-rw-r--r-- 1 root root   337 Oct 29  2012 cntr_ptr
+-rw-r--r-- 1 root root   296 Oct 29  2012 cntr_ptrmsk
+-rw-r--r-- 1 root root   296 Oct 29  2012 cross_weave
+-rw-r--r-- 1 root root   284 Oct 29  2012 dimple1
+-rw-r--r-- 1 root root   284 Oct 29  2012 dimple3
+-rw-r--r-- 1 root root   272 Oct 29  2012 dot
+-rw-r--r-- 1 root root   117 Oct 29  2012 dropbar7
+-rw-r--r-- 1 root root   135 Oct 29  2012 dropbar8
+-rw-r--r-- 1 root root 34261 Oct 29  2012 escherknot
+-rw-r--r-- 1 root root  1886 Oct 29  2012 flagdown
+-rw-r--r-- 1 root root  1880 Oct 29  2012 flagup
+-rw-r--r-- 1 root root   111 Oct 29  2012 flipped_gray
+-rw-r--r-- 1 root root    87 Oct 29  2012 gray
+-rw-r--r-- 1 root root    90 Oct 29  2012 gray1
+-rw-r--r-- 1 root root   102 Oct 29  2012 gray3
+-rw-r--r-- 1 root root   281 Oct 29  2012 grid16
+-rw-r--r-- 1 root root    90 Oct 29  2012 grid2
+-rw-r--r-- 1 root root   102 Oct 29  2012 grid4
+-rw-r--r-- 1 root root   126 Oct 29  2012 grid8
+-rw-r--r-- 1 root root    96 Oct 29  2012 hlines2
+-rw-r--r-- 1 root root   102 Oct 29  2012 hlines3
+-rw-r--r-- 1 root root   275 Oct 29  2012 icon
+-rw-r--r-- 1 root root   293 Oct 29  2012 keyboard16
+-rw-r--r-- 1 root root   337 Oct 29  2012 left_ptr
+-rw-r--r-- 1 root root   296 Oct 29  2012 left_ptrmsk
+-rw-r--r-- 1 root root  1883 Oct 29  2012 letters
+-rw-r--r-- 1 root root   105 Oct 29  2012 light_gray
+-rw-r--r-- 1 root root  1898 Oct 29  2012 mailempty
+-rw-r--r-- 1 root root  1889 Oct 29  2012 mailemptymsk
+-rw-r--r-- 1 root root  1895 Oct 29  2012 mailfull
+-rw-r--r-- 1 root root  1895 Oct 29  2012 mailfullmsk
+-rw-r--r-- 1 root root 18623 Oct 29  2012 mensetmanus
+-rw-r--r-- 1 root root   206 Oct 29  2012 menu10
+-rw-r--r-- 1 root root   239 Oct 29  2012 menu12
+-rw-r--r-- 1 root root   281 Oct 29  2012 menu16
+-rw-r--r-- 1 root root   120 Oct 29  2012 menu6
+-rw-r--r-- 1 root root   126 Oct 29  2012 menu8
+-rw-r--r-- 1 root root  1889 Oct 29  2012 noletters
+-rw-r--r-- 1 root root   332 Oct 29  2012 opendot
+-rw-r--r-- 1 root root   352 Oct 29  2012 opendotMask
+-rw-r--r-- 1 root root   537 Oct 29  2012 plaid
+-rw-r--r-- 1 root root   343 Oct 29  2012 right_ptr
+-rw-r--r-- 1 root root   299 Oct 29  2012 right_ptrmsk
+-rw-r--r-- 1 root root   117 Oct 29  2012 root_weave
+-rw-r--r-- 1 root root   281 Oct 29  2012 scales
+-rw-r--r-- 1 root root   919 Oct 29  2012 sipb
+-rw-r--r-- 1 root root   317 Oct 29  2012 star
+-rw-r--r-- 1 root root   337 Oct 29  2012 starMask
+-rw-r--r-- 1 root root   133 Oct 29  2012 stipple
+-rw-r--r-- 1 root root   281 Oct 29  2012 target
+-rw-r--r-- 1 root root  3798 Oct 29  2012 terminal
+-rw-r--r-- 1 root root   296 Oct 29  2012 tie_fighter
+-rw-r--r-- 1 root root    90 Oct 29  2012 vlines2
+-rw-r--r-- 1 root root    90 Oct 29  2012 vlines3
+-rw-r--r-- 1 root root   175 Oct 29  2012 weird_size
+-rw-r--r-- 1 root root   293 Oct 29  2012 wide_weave
+-rw-r--r-- 1 root root   887 Oct 29  2012 wingdogs
+-rw-r--r-- 1 root root  4778 Oct 29  2012 woman
+-rw-r--r-- 1 root root  1886 Oct 29  2012 xfd_icon
+-rw-r--r-- 1 root root   219 Oct 29  2012 xlogo11
+-rw-r--r-- 1 root root   293 Oct 29  2012 xlogo16
+-rw-r--r-- 1 root root   884 Oct 29  2012 xlogo32
+-rw-r--r-- 1 root root  3293 Oct 29  2012 xlogo64
+-rw-r--r-- 1 root root 83206 Oct 29  2012 xsnow
+
+/usr/include/arpa:
+total 52
+-rw-r--r-- 1 root root  3432 Dec  7  2020 ftp.h
+-rw-r--r-- 1 root root  4276 Dec  7  2020 inet.h
+-rw-r--r-- 1 root root 14195 Dec  7  2020 nameser.h
+-rw-r--r-- 1 root root  7041 Dec  7  2020 nameser_compat.h
+-rw-r--r-- 1 root root 10263 Dec  7  2020 telnet.h
+-rw-r--r-- 1 root root  3051 Dec  7  2020 tftp.h
+
+/usr/include/asm-generic:
+total 196
+-rw-r--r-- 1 root root   218 Dec  8 17:15 auxvec.h
+-rw-r--r-- 1 root root   564 Dec  8 17:15 bitsperlong.h
+-rw-r--r-- 1 root root   238 Dec  8 17:15 bpf_perf_event.h
+-rw-r--r-- 1 root root  1612 Dec  8 17:15 errno-base.h
+-rw-r--r-- 1 root root  5648 Dec  8 17:15 errno.h
+-rw-r--r-- 1 root root  5423 Dec  8 17:15 fcntl.h
+-rw-r--r-- 1 root root  1605 Dec  8 17:15 hugetlb_encode.h
+-rw-r--r-- 1 root root   718 Dec  8 17:15 int-l64.h
+-rw-r--r-- 1 root root   864 Dec  8 17:15 int-ll64.h
+-rw-r--r-- 1 root root  3478 Dec  8 17:15 ioctl.h
+-rw-r--r-- 1 root root  3866 Dec  8 17:15 ioctls.h
+-rw-r--r-- 1 root root  1003 Dec  8 17:15 ipcbuf.h
+-rw-r--r-- 1 root root    96 Dec  8 17:15 kvm_para.h
+-rw-r--r-- 1 root root  3020 Dec  8 17:15 mman-common.h
+-rw-r--r-- 1 root root  1080 Dec  8 17:15 mman.h
+-rw-r--r-- 1 root root  1570 Dec  8 17:15 msgbuf.h
+-rw-r--r-- 1 root root   353 Dec  8 17:15 param.h
+-rw-r--r-- 1 root root   858 Dec  8 17:15 poll.h
+-rw-r--r-- 1 root root  2294 Dec  8 17:15 posix_types.h
+-rw-r--r-- 1 root root  1872 Dec  8 17:15 resource.h
+-rw-r--r-- 1 root root  1257 Dec  8 17:15 sembuf.h
+-rw-r--r-- 1 root root   190 Dec  8 17:15 setup.h
+-rw-r--r-- 1 root root  1798 Dec  8 17:15 shmbuf.h
+-rw-r--r-- 1 root root   231 Dec  8 17:15 shmparam.h
+-rw-r--r-- 1 root root  8627 Dec  8 17:15 siginfo.h
+-rw-r--r-- 1 root root   800 Dec  8 17:15 signal-defs.h
+-rw-r--r-- 1 root root  2709 Dec  8 17:15 signal.h
+-rw-r--r-- 1 root root  2292 Dec  8 17:15 socket.h
+-rw-r--r-- 1 root root   439 Dec  8 17:15 sockios.h
+-rw-r--r-- 1 root root  2633 Dec  8 17:15 stat.h
+-rw-r--r-- 1 root root  1839 Dec  8 17:15 statfs.h
+-rw-r--r-- 1 root root   502 Dec  8 17:15 swab.h
+-rw-r--r-- 1 root root  4716 Dec  8 17:15 termbits.h
+-rw-r--r-- 1 root root  1377 Dec  8 17:15 termios.h
+-rw-r--r-- 1 root root   233 Dec  8 17:15 types.h
+-rw-r--r-- 1 root root   357 Dec  8 17:15 ucontext.h
+-rw-r--r-- 1 root root 30244 Dec  8 17:15 unistd.h
+
+/usr/include/btrfs:
+total 212
+-rw-r--r-- 1 root root  4658 Mar 12  2018 btrfs-list.h
+-rw-r--r-- 1 root root  5035 Mar 12  2018 btrfsck.h
+-rw-r--r-- 1 root root  1095 Mar 12  2018 crc32c.h
+-rw-r--r-- 1 root root 91600 Mar 12  2018 ctree.h
+-rw-r--r-- 1 root root  3604 Mar 12  2018 extent-cache.h
+-rw-r--r-- 1 root root  6040 Mar 12  2018 extent_io.h
+-rw-r--r-- 1 root root 26509 Feb 16  2018 ioctl.h
+-rw-r--r-- 1 root root 10419 Mar 12  2018 kerncompat.h
+-rw-r--r-- 1 root root 14636 Mar 12  2018 list.h
+-rw-r--r-- 1 root root  3343 Mar 12  2018 radix-tree.h
+-rw-r--r-- 1 root root  2024 Mar 12  2018 raid56.h
+-rw-r--r-- 1 root root  3903 Mar 12  2018 rbtree.h
+-rw-r--r-- 1 root root  2803 Mar 12  2018 send-stream.h
+-rw-r--r-- 1 root root  3700 Mar 12  2018 send-utils.h
+-rw-r--r-- 1 root root  3090 Mar 12  2018 send.h
+-rw-r--r-- 1 root root  1223 Mar 12  2018 sizes.h
+-rw-r--r-- 1 root root   363 Mar 12  2018 version.h
+
+/usr/include/c++:
+total 4
+drwxr-xr-x 12 root root 4096 Sep 10 19:09 7
+lrwxrwxrwx  1 root root    1 Dec  4  2019 7.5.0 -> 7
+
+/usr/include/c++/7:
+total 1360
+-rw-r--r-- 1 root root  2518 Dec  4  2019 algorithm
+-rw-r--r-- 1 root root 18927 Dec  4  2019 any
+-rw-r--r-- 1 root root 11385 Dec  4  2019 array
+-rw-r--r-- 1 root root 40975 Dec  4  2019 atomic
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 backward
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 bits
+-rw-r--r-- 1 root root 45887 Dec  4  2019 bitset
+-rw-r--r-- 1 root root  1648 Dec  4  2019 cassert
+-rw-r--r-- 1 root root  1335 Dec  4  2019 ccomplex
+-rw-r--r-- 1 root root  2409 Dec  4  2019 cctype
+-rw-r--r-- 1 root root  1770 Dec  4  2019 cerrno
+-rw-r--r-- 1 root root  2051 Dec  4  2019 cfenv
+-rw-r--r-- 1 root root  1889 Dec  4  2019 cfloat
+-rw-r--r-- 1 root root 30089 Dec  4  2019 chrono
+-rw-r--r-- 1 root root  2157 Dec  4  2019 cinttypes
+-rw-r--r-- 1 root root  1464 Dec  4  2019 ciso646
+-rw-r--r-- 1 root root  1913 Dec  4  2019 climits
+-rw-r--r-- 1 root root  1905 Dec  4  2019 clocale
+-rw-r--r-- 1 root root 48484 Dec  4  2019 cmath
+-rw-r--r-- 1 root root  5341 Dec  4  2019 codecvt
+-rw-r--r-- 1 root root 54204 Dec  4  2019 complex
+-rw-r--r-- 1 root root  1461 Dec  4  2019 complex.h
+-rw-r--r-- 1 root root  8954 Dec  4  2019 condition_variable
+-rw-r--r-- 1 root root  1949 Dec  4  2019 csetjmp
+-rw-r--r-- 1 root root  1855 Dec  4  2019 csignal
+-rw-r--r-- 1 root root  1407 Dec  4  2019 cstdalign
+-rw-r--r-- 1 root root  1868 Dec  4  2019 cstdarg
+-rw-r--r-- 1 root root  1401 Dec  4  2019 cstdbool
+-rw-r--r-- 1 root root  6440 Dec  4  2019 cstddef
+-rw-r--r-- 1 root root  2167 Dec  4  2019 cstdint
+-rw-r--r-- 1 root root  4439 Dec  4  2019 cstdio
+-rw-r--r-- 1 root root  6325 Dec  4  2019 cstdlib
+-rw-r--r-- 1 root root  3123 Dec  4  2019 cstring
+-rw-r--r-- 1 root root  1360 Dec  4  2019 ctgmath
+-rw-r--r-- 1 root root  2125 Dec  4  2019 ctime
+-rw-r--r-- 1 root root  2210 Dec  4  2019 cuchar
+-rw-r--r-- 1 root root  6509 Dec  4  2019 cwchar
+-rw-r--r-- 1 root root  2793 Dec  4  2019 cwctype
+-rw-r--r-- 1 root root 21977 Dec  4  2019 cxxabi.h
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 debug
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 decimal
+-rw-r--r-- 1 root root  2665 Dec  4  2019 deque
+-rw-r--r-- 1 root root  4777 Dec  4  2019 exception
+drwxr-xr-x 3 root root  4096 Sep 10 19:09 experimental
+drwxr-xr-x 3 root root  4096 Sep 10 19:09 ext
+-rw-r--r-- 1 root root  2020 Dec  4  2019 fenv.h
+-rw-r--r-- 1 root root  1577 Dec  4  2019 forward_list
+-rw-r--r-- 1 root root 33845 Dec  4  2019 fstream
+-rw-r--r-- 1 root root 39570 Dec  4  2019 functional
+-rw-r--r-- 1 root root 50678 Dec  4  2019 future
+-rw-r--r-- 1 root root  2974 Dec  4  2019 initializer_list
+-rw-r--r-- 1 root root 16132 Dec  4  2019 iomanip
+-rw-r--r-- 1 root root  1601 Dec  4  2019 ios
+-rw-r--r-- 1 root root  6918 Dec  4  2019 iosfwd
+-rw-r--r-- 1 root root  2695 Dec  4  2019 iostream
+-rw-r--r-- 1 root root 32843 Dec  4  2019 istream
+-rw-r--r-- 1 root root  2644 Dec  4  2019 iterator
+-rw-r--r-- 1 root root 69181 Dec  4  2019 limits
+-rw-r--r-- 1 root root  2594 Dec  4  2019 list
+-rw-r--r-- 1 root root  1488 Dec  4  2019 locale
+-rw-r--r-- 1 root root  2559 Dec  4  2019 map
+-rw-r--r-- 1 root root  4380 Dec  4  2019 math.h
+-rw-r--r-- 1 root root  4711 Dec  4  2019 memory
+-rw-r--r-- 1 root root 18310 Dec  4  2019 mutex
+-rw-r--r-- 1 root root  7507 Dec  4  2019 new
+-rw-r--r-- 1 root root  5232 Dec  4  2019 numeric
+-rw-r--r-- 1 root root 31124 Dec  4  2019 optional
+-rw-r--r-- 1 root root 21977 Dec  4  2019 ostream
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 parallel
+drwxr-xr-x 3 root root  4096 Sep 10 19:09 profile
+-rw-r--r-- 1 root root  2467 Dec  4  2019 queue
+-rw-r--r-- 1 root root  1692 Dec  4  2019 random
+-rw-r--r-- 1 root root 19886 Dec  4  2019 ratio
+-rw-r--r-- 1 root root  1894 Dec  4  2019 regex
+-rw-r--r-- 1 root root 16221 Dec  4  2019 scoped_allocator
+-rw-r--r-- 1 root root  2559 Dec  4  2019 set
+-rw-r--r-- 1 root root 19409 Dec  4  2019 shared_mutex
+-rw-r--r-- 1 root root 26839 Dec  4  2019 sstream
+-rw-r--r-- 1 root root  2391 Dec  4  2019 stack
+-rw-r--r-- 1 root root  7975 Dec  4  2019 stdexcept
+-rw-r--r-- 1 root root  2248 Dec  4  2019 stdlib.h
+-rw-r--r-- 1 root root 29558 Dec  4  2019 streambuf
+-rw-r--r-- 1 root root  1940 Dec  4  2019 string
+-rw-r--r-- 1 root root 21299 Dec  4  2019 string_view
+-rw-r--r-- 1 root root 11522 Dec  4  2019 system_error
+-rw-r--r-- 1 root root  1360 Dec  4  2019 tgmath.h
+-rw-r--r-- 1 root root 10267 Dec  4  2019 thread
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 tr1
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 tr2
+-rw-r--r-- 1 root root 59617 Dec  4  2019 tuple
+-rw-r--r-- 1 root root 92445 Dec  4  2019 type_traits
+-rw-r--r-- 1 root root  3093 Dec  4  2019 typeindex
+-rw-r--r-- 1 root root  7692 Dec  4  2019 typeinfo
+-rw-r--r-- 1 root root  1857 Dec  4  2019 unordered_map
+-rw-r--r-- 1 root root  1856 Dec  4  2019 unordered_set
+-rw-r--r-- 1 root root 12447 Dec  4  2019 utility
+-rw-r--r-- 1 root root 40274 Dec  4  2019 valarray
+-rw-r--r-- 1 root root 43105 Dec  4  2019 variant
+-rw-r--r-- 1 root root  2747 Dec  4  2019 vector
+
+/usr/include/c++/7/backward:
+total 116
+-rw-r--r-- 1 root root 10689 Dec  4  2019 auto_ptr.h
+-rw-r--r-- 1 root root  2491 Dec  4  2019 backward_warning.h
+-rw-r--r-- 1 root root  7167 Dec  4  2019 binders.h
+-rw-r--r-- 1 root root  4248 Dec  4  2019 hash_fun.h
+-rw-r--r-- 1 root root 17775 Dec  4  2019 hash_map
+-rw-r--r-- 1 root root 17195 Dec  4  2019 hash_set
+-rw-r--r-- 1 root root 33719 Dec  4  2019 hashtable.h
+-rw-r--r-- 1 root root  5798 Dec  4  2019 strstream
+
+/usr/include/c++/7/bits:
+total 3436
+-rw-r--r-- 1 root root  21737 Dec  4  2019 algorithmfwd.h
+-rw-r--r-- 1 root root  19585 Dec  4  2019 alloc_traits.h
+-rw-r--r-- 1 root root   3516 Dec  4  2019 allocated_ptr.h
+-rw-r--r-- 1 root root   6888 Dec  4  2019 allocator.h
+-rw-r--r-- 1 root root  23842 Dec  4  2019 atomic_base.h
+-rw-r--r-- 1 root root   9576 Dec  4  2019 atomic_futex.h
+-rw-r--r-- 1 root root   2253 Dec  4  2019 atomic_lockfree_defines.h
+-rw-r--r-- 1 root root  16074 Dec  4  2019 basic_ios.h
+-rw-r--r-- 1 root root   6083 Dec  4  2019 basic_ios.tcc
+-rw-r--r-- 1 root root 240793 Dec  4  2019 basic_string.h
+-rw-r--r-- 1 root root  53755 Dec  4  2019 basic_string.tcc
+-rw-r--r-- 1 root root  27048 Dec  4  2019 boost_concept_check.h
+-rw-r--r-- 1 root root   1474 Dec  4  2019 c++0x_warning.h
+-rw-r--r-- 1 root root  20745 Dec  4  2019 char_traits.h
+-rw-r--r-- 1 root root  21297 Dec  4  2019 codecvt.h
+-rw-r--r-- 1 root root   3423 Dec  4  2019 concept_check.h
+-rw-r--r-- 1 root root   9594 Dec  4  2019 cpp_type_traits.h
+-rw-r--r-- 1 root root   1811 Dec  4  2019 cxxabi_forced.h
+-rw-r--r-- 1 root root   2220 Dec  4  2019 cxxabi_init_exception.h
+-rw-r--r-- 1 root root  34058 Dec  4  2019 deque.tcc
+-rw-r--r-- 1 root root  12387 Dec  4  2019 enable_special_members.h
+-rw-r--r-- 1 root root   2280 Dec  4  2019 exception.h
+-rw-r--r-- 1 root root   1645 Dec  4  2019 exception_defines.h
+-rw-r--r-- 1 root root   6464 Dec  4  2019 exception_ptr.h
+-rw-r--r-- 1 root root  48641 Dec  4  2019 forward_list.h
+-rw-r--r-- 1 root root  15030 Dec  4  2019 forward_list.tcc
+-rw-r--r-- 1 root root  32909 Dec  4  2019 fstream.tcc
+-rw-r--r-- 1 root root   3254 Dec  4  2019 functexcept.h
+-rw-r--r-- 1 root root   8194 Dec  4  2019 functional_hash.h
+-rw-r--r-- 1 root root   5518 Dec  4  2019 gslice.h
+-rw-r--r-- 1 root root   7769 Dec  4  2019 gslice_array.h
+-rw-r--r-- 1 root root   2146 Dec  4  2019 hash_bytes.h
+-rw-r--r-- 1 root root  73276 Dec  4  2019 hashtable.h
+-rw-r--r-- 1 root root  67045 Dec  4  2019 hashtable_policy.h
+-rw-r--r-- 1 root root   7861 Dec  4  2019 indirect_array.h
+-rw-r--r-- 1 root root   3657 Dec  4  2019 invoke.h
+-rw-r--r-- 1 root root  30944 Dec  4  2019 ios_base.h
+-rw-r--r-- 1 root root  31093 Dec  4  2019 istream.tcc
+-rw-r--r-- 1 root root  15912 Dec  4  2019 list.tcc
+-rw-r--r-- 1 root root  24897 Dec  4  2019 locale_classes.h
+-rw-r--r-- 1 root root   8375 Dec  4  2019 locale_classes.tcc
+-rw-r--r-- 1 root root  16077 Dec  4  2019 locale_conv.h
+-rw-r--r-- 1 root root  92142 Dec  4  2019 locale_facets.h
+-rw-r--r-- 1 root root  39568 Dec  4  2019 locale_facets.tcc
+-rw-r--r-- 1 root root  68941 Dec  4  2019 locale_facets_nonio.h
+-rw-r--r-- 1 root root  45522 Dec  4  2019 locale_facets_nonio.tcc
+-rw-r--r-- 1 root root   5646 Dec  4  2019 localefwd.h
+-rw-r--r-- 1 root root   7595 Dec  4  2019 mask_array.h
+-rw-r--r-- 1 root root   2419 Dec  4  2019 memoryfwd.h
+-rw-r--r-- 1 root root   6653 Dec  4  2019 move.h
+-rw-r--r-- 1 root root   4768 Dec  4  2019 nested_exception.h
+-rw-r--r-- 1 root root   8165 Dec  4  2019 node_handle.h
+-rw-r--r-- 1 root root  12315 Dec  4  2019 ostream.tcc
+-rw-r--r-- 1 root root   4002 Dec  4  2019 ostream_insert.h
+-rw-r--r-- 1 root root   8027 Dec  4  2019 parse_numbers.h
+-rw-r--r-- 1 root root   8208 Dec  4  2019 postypes.h
+-rw-r--r-- 1 root root   9083 Dec  4  2019 predefined_ops.h
+-rw-r--r-- 1 root root   4860 Dec  4  2019 ptr_traits.h
+-rw-r--r-- 1 root root   4581 Dec  4  2019 quoted_string.h
+-rw-r--r-- 1 root root 175294 Dec  4  2019 random.h
+-rw-r--r-- 1 root root 105554 Dec  4  2019 random.tcc
+-rw-r--r-- 1 root root   9988 Dec  4  2019 range_access.h
+-rw-r--r-- 1 root root  13807 Dec  4  2019 refwrap.h
+-rw-r--r-- 1 root root  98206 Dec  4  2019 regex.h
+-rw-r--r-- 1 root root  16486 Dec  4  2019 regex.tcc
+-rw-r--r-- 1 root root  10721 Dec  4  2019 regex_automaton.h
+-rw-r--r-- 1 root root   7838 Dec  4  2019 regex_automaton.tcc
+-rw-r--r-- 1 root root  17196 Dec  4  2019 regex_compiler.h
+-rw-r--r-- 1 root root  18901 Dec  4  2019 regex_compiler.tcc
+-rw-r--r-- 1 root root  14709 Dec  4  2019 regex_constants.h
+-rw-r--r-- 1 root root   4969 Dec  4  2019 regex_error.h
+-rw-r--r-- 1 root root   7488 Dec  4  2019 regex_executor.h
+-rw-r--r-- 1 root root  17319 Dec  4  2019 regex_executor.tcc
+-rw-r--r-- 1 root root   7088 Dec  4  2019 regex_scanner.h
+-rw-r--r-- 1 root root  15009 Dec  4  2019 regex_scanner.tcc
+-rw-r--r-- 1 root root  22909 Dec  4  2019 shared_ptr.h
+-rw-r--r-- 1 root root   9769 Dec  4  2019 shared_ptr_atomic.h
+-rw-r--r-- 1 root root  53803 Dec  4  2019 shared_ptr_base.h
+-rw-r--r-- 1 root root   9348 Dec  4  2019 slice_array.h
+-rw-r--r-- 1 root root  45086 Dec  4  2019 specfun.h
+-rw-r--r-- 1 root root  10115 Dec  4  2019 sstream.tcc
+-rw-r--r-- 1 root root   3290 Dec  4  2019 std_abs.h
+-rw-r--r-- 1 root root  23974 Dec  4  2019 std_function.h
+-rw-r--r-- 1 root root   9298 Dec  4  2019 std_mutex.h
+-rw-r--r-- 1 root root 213859 Dec  4  2019 stl_algo.h
+-rw-r--r-- 1 root root  50403 Dec  4  2019 stl_algobase.h
+-rw-r--r-- 1 root root  33821 Dec  4  2019 stl_bvector.h
+-rw-r--r-- 1 root root   7397 Dec  4  2019 stl_construct.h
+-rw-r--r-- 1 root root  77771 Dec  4  2019 stl_deque.h
+-rw-r--r-- 1 root root  33276 Dec  4  2019 stl_function.h
+-rw-r--r-- 1 root root  20206 Dec  4  2019 stl_heap.h
+-rw-r--r-- 1 root root  41744 Dec  4  2019 stl_iterator.h
+-rw-r--r-- 1 root root   8071 Dec  4  2019 stl_iterator_base_funcs.h
+-rw-r--r-- 1 root root   8680 Dec  4  2019 stl_iterator_base_types.h
+-rw-r--r-- 1 root root  65181 Dec  4  2019 stl_list.h
+-rw-r--r-- 1 root root  51221 Dec  4  2019 stl_map.h
+-rw-r--r-- 1 root root  39940 Dec  4  2019 stl_multimap.h
+-rw-r--r-- 1 root root  34056 Dec  4  2019 stl_multiset.h
+-rw-r--r-- 1 root root  13832 Dec  4  2019 stl_numeric.h
+-rw-r--r-- 1 root root  18642 Dec  4  2019 stl_pair.h
+-rw-r--r-- 1 root root  22125 Dec  4  2019 stl_queue.h
+-rw-r--r-- 1 root root   3830 Dec  4  2019 stl_raw_storage_iter.h
+-rw-r--r-- 1 root root   4599 Dec  4  2019 stl_relops.h
+-rw-r--r-- 1 root root  34432 Dec  4  2019 stl_set.h
+-rw-r--r-- 1 root root  11446 Dec  4  2019 stl_stack.h
+-rw-r--r-- 1 root root   8344 Dec  4  2019 stl_tempbuf.h
+-rw-r--r-- 1 root root  74820 Dec  4  2019 stl_tree.h
+-rw-r--r-- 1 root root  27650 Dec  4  2019 stl_uninitialized.h
+-rw-r--r-- 1 root root  55637 Dec  4  2019 stl_vector.h
+-rw-r--r-- 1 root root   6654 Dec  4  2019 stream_iterator.h
+-rw-r--r-- 1 root root   4929 Dec  4  2019 streambuf.tcc
+-rw-r--r-- 1 root root  12624 Dec  4  2019 streambuf_iterator.h
+-rw-r--r-- 1 root root   6632 Dec  4  2019 string_view.tcc
+-rw-r--r-- 1 root root   2607 Dec  4  2019 stringfwd.h
+-rw-r--r-- 1 root root  10147 Dec  4  2019 uniform_int_dist.h
+-rw-r--r-- 1 root root  25472 Dec  4  2019 unique_ptr.h
+-rw-r--r-- 1 root root  68650 Dec  4  2019 unordered_map.h
+-rw-r--r-- 1 root root  53824 Dec  4  2019 unordered_set.h
+-rw-r--r-- 1 root root   6383 Dec  4  2019 uses_allocator.h
+-rw-r--r-- 1 root root  22655 Dec  4  2019 valarray_after.h
+-rw-r--r-- 1 root root  21807 Dec  4  2019 valarray_array.h
+-rw-r--r-- 1 root root   7254 Dec  4  2019 valarray_array.tcc
+-rw-r--r-- 1 root root  18513 Dec  4  2019 valarray_before.h
+-rw-r--r-- 1 root root  27598 Dec  4  2019 vector.tcc
+
+/usr/include/c++/7/debug:
+total 504
+-rw-r--r-- 1 root root 10122 Dec  4  2019 array
+-rw-r--r-- 1 root root  2411 Dec  4  2019 assertions.h
+-rw-r--r-- 1 root root 11903 Dec  4  2019 bitset
+-rw-r--r-- 1 root root  5221 Dec  4  2019 debug.h
+-rw-r--r-- 1 root root 17004 Dec  4  2019 deque
+-rw-r--r-- 1 root root 14169 Dec  4  2019 formatter.h
+-rw-r--r-- 1 root root 25253 Dec  4  2019 forward_list
+-rw-r--r-- 1 root root 16601 Dec  4  2019 functions.h
+-rw-r--r-- 1 root root  6813 Dec  4  2019 helper_functions.h
+-rw-r--r-- 1 root root 22406 Dec  4  2019 list
+-rw-r--r-- 1 root root 17872 Dec  4  2019 macros.h
+-rw-r--r-- 1 root root  1345 Dec  4  2019 map
+-rw-r--r-- 1 root root 21145 Dec  4  2019 map.h
+-rw-r--r-- 1 root root 18244 Dec  4  2019 multimap.h
+-rw-r--r-- 1 root root 17168 Dec  4  2019 multiset.h
+-rw-r--r-- 1 root root  9279 Dec  4  2019 safe_base.h
+-rw-r--r-- 1 root root  3413 Dec  4  2019 safe_container.h
+-rw-r--r-- 1 root root 30248 Dec  4  2019 safe_iterator.h
+-rw-r--r-- 1 root root  2959 Dec  4  2019 safe_iterator.tcc
+-rw-r--r-- 1 root root 16229 Dec  4  2019 safe_local_iterator.h
+-rw-r--r-- 1 root root  2118 Dec  4  2019 safe_local_iterator.tcc
+-rw-r--r-- 1 root root  5096 Dec  4  2019 safe_sequence.h
+-rw-r--r-- 1 root root  4989 Dec  4  2019 safe_sequence.tcc
+-rw-r--r-- 1 root root  6895 Dec  4  2019 safe_unordered_base.h
+-rw-r--r-- 1 root root  3897 Dec  4  2019 safe_unordered_container.h
+-rw-r--r-- 1 root root  3263 Dec  4  2019 safe_unordered_container.tcc
+-rw-r--r-- 1 root root  1345 Dec  4  2019 set
+-rw-r--r-- 1 root root 17328 Dec  4  2019 set.h
+-rw-r--r-- 1 root root  4276 Dec  4  2019 stl_iterator.h
+-rw-r--r-- 1 root root 33653 Dec  4  2019 string
+-rw-r--r-- 1 root root 35411 Dec  4  2019 unordered_map
+-rw-r--r-- 1 root root 30522 Dec  4  2019 unordered_set
+-rw-r--r-- 1 root root 21862 Dec  4  2019 vector
+
+/usr/include/c++/7/decimal:
+total 40
+-rw-r--r-- 1 root root 17640 Dec  4  2019 decimal
+-rw-r--r-- 1 root root 17002 Dec  4  2019 decimal.h
+
+/usr/include/c++/7/experimental:
+total 232
+-rw-r--r-- 1 root root  3089 Dec  4  2019 algorithm
+-rw-r--r-- 1 root root 15928 Dec  4  2019 any
+-rw-r--r-- 1 root root  3232 Dec  4  2019 array
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 bits
+-rw-r--r-- 1 root root  1937 Dec  4  2019 chrono
+-rw-r--r-- 1 root root  2317 Dec  4  2019 deque
+-rw-r--r-- 1 root root  2195 Dec  4  2019 filesystem
+-rw-r--r-- 1 root root  2373 Dec  4  2019 forward_list
+-rw-r--r-- 1 root root 12553 Dec  4  2019 functional
+-rw-r--r-- 1 root root  3510 Dec  4  2019 iterator
+-rw-r--r-- 1 root root  2284 Dec  4  2019 list
+-rw-r--r-- 1 root root  2628 Dec  4  2019 map
+-rw-r--r-- 1 root root  6040 Dec  4  2019 memory
+-rw-r--r-- 1 root root 12803 Dec  4  2019 memory_resource
+-rw-r--r-- 1 root root  2798 Dec  4  2019 numeric
+-rw-r--r-- 1 root root 28849 Dec  4  2019 optional
+-rw-r--r-- 1 root root 15312 Dec  4  2019 propagate_const
+-rw-r--r-- 1 root root  2475 Dec  4  2019 random
+-rw-r--r-- 1 root root  2416 Dec  4  2019 ratio
+-rw-r--r-- 1 root root  2097 Dec  4  2019 regex
+-rw-r--r-- 1 root root  2502 Dec  4  2019 set
+-rw-r--r-- 1 root root  2670 Dec  4  2019 source_location
+-rw-r--r-- 1 root root  2861 Dec  4  2019 string
+-rw-r--r-- 1 root root 21790 Dec  4  2019 string_view
+-rw-r--r-- 1 root root  2023 Dec  4  2019 system_error
+-rw-r--r-- 1 root root  2450 Dec  4  2019 tuple
+-rw-r--r-- 1 root root 11022 Dec  4  2019 type_traits
+-rw-r--r-- 1 root root  2874 Dec  4  2019 unordered_map
+-rw-r--r-- 1 root root  2757 Dec  4  2019 unordered_set
+-rw-r--r-- 1 root root  1633 Dec  4  2019 utility
+-rw-r--r-- 1 root root  2389 Dec  4  2019 vector
+
+/usr/include/c++/7/experimental/bits:
+total 104
+-rw-r--r-- 1 root root  2079 Dec  4  2019 erase_if.h
+-rw-r--r-- 1 root root 10789 Dec  4  2019 fs_dir.h
+-rw-r--r-- 1 root root  8507 Dec  4  2019 fs_fwd.h
+-rw-r--r-- 1 root root  9330 Dec  4  2019 fs_ops.h
+-rw-r--r-- 1 root root 30820 Dec  4  2019 fs_path.h
+-rw-r--r-- 1 root root  2144 Dec  4  2019 lfts_config.h
+-rw-r--r-- 1 root root 20301 Dec  4  2019 shared_ptr.h
+-rw-r--r-- 1 root root  6816 Dec  4  2019 string_view.tcc
+
+/usr/include/c++/7/ext:
+total 908
+-rw-r--r-- 1 root root  19290 Dec  4  2019 algorithm
+-rw-r--r-- 1 root root   3742 Dec  4  2019 aligned_buffer.h
+-rw-r--r-- 1 root root   5658 Dec  4  2019 alloc_traits.h
+-rw-r--r-- 1 root root   5386 Dec  4  2019 array_allocator.h
+-rw-r--r-- 1 root root   3509 Dec  4  2019 atomicity.h
+-rw-r--r-- 1 root root  31892 Dec  4  2019 bitmap_allocator.h
+-rw-r--r-- 1 root root   4447 Dec  4  2019 cast.h
+-rw-r--r-- 1 root root   6570 Dec  4  2019 cmath
+-rw-r--r-- 1 root root  16353 Dec  4  2019 codecvt_specializations.h
+-rw-r--r-- 1 root root   7611 Dec  4  2019 concurrence.h
+-rw-r--r-- 1 root root   5716 Dec  4  2019 debug_allocator.h
+-rw-r--r-- 1 root root   2247 Dec  4  2019 enc_filebuf.h
+-rw-r--r-- 1 root root   6189 Dec  4  2019 extptr_allocator.h
+-rw-r--r-- 1 root root  14292 Dec  4  2019 functional
+-rw-r--r-- 1 root root  17775 Dec  4  2019 hash_map
+-rw-r--r-- 1 root root  17195 Dec  4  2019 hash_set
+-rw-r--r-- 1 root root   4031 Dec  4  2019 iterator
+-rw-r--r-- 1 root root   5086 Dec  4  2019 malloc_allocator.h
+-rw-r--r-- 1 root root   7156 Dec  4  2019 memory
+-rw-r--r-- 1 root root  23523 Dec  4  2019 mt_allocator.h
+-rw-r--r-- 1 root root   4805 Dec  4  2019 new_allocator.h
+-rw-r--r-- 1 root root   4731 Dec  4  2019 numeric
+-rw-r--r-- 1 root root   4575 Dec  4  2019 numeric_traits.h
+drwxr-xr-x 3 root root   4096 Sep 10 19:09 pb_ds
+-rw-r--r-- 1 root root   5556 Dec  4  2019 pod_char_traits.h
+-rw-r--r-- 1 root root  19827 Dec  4  2019 pointer.h
+-rw-r--r-- 1 root root   8821 Dec  4  2019 pool_allocator.h
+-rw-r--r-- 1 root root 111392 Dec  4  2019 random
+-rw-r--r-- 1 root root  60247 Dec  4  2019 random.tcc
+-rw-r--r-- 1 root root   3311 Dec  4  2019 rb_tree
+-rw-r--r-- 1 root root  23735 Dec  4  2019 rc_string_base.h
+-rw-r--r-- 1 root root  87643 Dec  4  2019 rope
+-rw-r--r-- 1 root root  48434 Dec  4  2019 ropeimpl.h
+-rw-r--r-- 1 root root  29603 Dec  4  2019 slist
+-rw-r--r-- 1 root root  16314 Dec  4  2019 sso_string_base.h
+-rw-r--r-- 1 root root   5670 Dec  4  2019 stdio_filebuf.h
+-rw-r--r-- 1 root root   8782 Dec  4  2019 stdio_sync_filebuf.h
+-rw-r--r-- 1 root root   3597 Dec  4  2019 string_conversions.h
+-rw-r--r-- 1 root root  24537 Dec  4  2019 throw_allocator.h
+-rw-r--r-- 1 root root   5914 Dec  4  2019 type_traits.h
+-rw-r--r-- 1 root root  16835 Dec  4  2019 typelist.h
+-rw-r--r-- 1 root root 110573 Dec  4  2019 vstring.h
+-rw-r--r-- 1 root root  23614 Dec  4  2019 vstring.tcc
+-rw-r--r-- 1 root root   3222 Dec  4  2019 vstring_fwd.h
+-rw-r--r-- 1 root root   5767 Dec  4  2019 vstring_util.h
+
+/usr/include/c++/7/ext/pb_ds:
+total 108
+-rw-r--r--  1 root root 30110 Dec  4  2019 assoc_container.hpp
+drwxr-xr-x 25 root root  4096 Sep 10 19:09 detail
+-rw-r--r--  1 root root  2988 Dec  4  2019 exception.hpp
+-rw-r--r--  1 root root 16815 Dec  4  2019 hash_policy.hpp
+-rw-r--r--  1 root root  4368 Dec  4  2019 list_update_policy.hpp
+-rw-r--r--  1 root root  5502 Dec  4  2019 priority_queue.hpp
+-rw-r--r--  1 root root 12268 Dec  4  2019 tag_and_trait.hpp
+-rw-r--r--  1 root root  5577 Dec  4  2019 tree_policy.hpp
+-rw-r--r--  1 root root 12225 Dec  4  2019 trie_policy.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail:
+total 168
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 bin_search_tree_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 binary_heap_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 binomial_heap_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 binomial_heap_base_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 branch_policy
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 cc_hash_table_map_
+-rw-r--r-- 1 root root  2724 Dec  4  2019 cond_dealtor.hpp
+-rw-r--r-- 1 root root 13120 Dec  4  2019 container_base_dispatch.hpp
+-rw-r--r-- 1 root root  8697 Dec  4  2019 debug_map_base.hpp
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 eq_fn
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 gp_hash_table_map_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 hash_fn
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 left_child_next_sibling_heap_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 list_update_map_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 list_update_policy
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 ov_tree_map_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 pairing_heap_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 pat_trie_
+-rw-r--r-- 1 root root  4140 Dec  4  2019 priority_queue_base_dispatch.hpp
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 rb_tree_map_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 rc_binomial_heap_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 resize_policy
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 splay_tree_
+-rw-r--r-- 1 root root  5031 Dec  4  2019 standard_policies.hpp
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 thin_heap_
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 tree_policy
+-rw-r--r-- 1 root root  5134 Dec  4  2019 tree_trace_base.hpp
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 trie_policy
+-rw-r--r-- 1 root root  4319 Dec  4  2019 type_utils.hpp
+-rw-r--r-- 1 root root  9998 Dec  4  2019 types_traits.hpp
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 unordered_iterator
+
+/usr/include/c++/7/ext/pb_ds/detail/bin_search_tree_:
+total 108
+-rw-r--r-- 1 root root 12419 Dec  4  2019 bin_search_tree_.hpp
+-rw-r--r-- 1 root root  5507 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root  8071 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root  2919 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root  4679 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root  2080 Dec  4  2019 info_fn_imps.hpp
+-rw-r--r-- 1 root root  5481 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root  3515 Dec  4  2019 iterators_fn_imps.hpp
+-rw-r--r-- 1 root root  5997 Dec  4  2019 node_iterators.hpp
+-rw-r--r-- 1 root root  8961 Dec  4  2019 point_iterators.hpp
+-rw-r--r-- 1 root root  1905 Dec  4  2019 policy_access_fn_imps.hpp
+-rw-r--r-- 1 root root  2909 Dec  4  2019 r_erase_fn_imps.hpp
+-rw-r--r-- 1 root root  4190 Dec  4  2019 rotate_fn_imps.hpp
+-rw-r--r-- 1 root root  4007 Dec  4  2019 split_join_fn_imps.hpp
+-rw-r--r-- 1 root root  6378 Dec  4  2019 traits.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/binary_heap_:
+total 100
+-rw-r--r-- 1 root root 9010 Dec  4  2019 binary_heap_.hpp
+-rw-r--r-- 1 root root 4338 Dec  4  2019 const_iterator.hpp
+-rw-r--r-- 1 root root 4189 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root 2541 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root 2820 Dec  4  2019 entry_cmp.hpp
+-rw-r--r-- 1 root root 2785 Dec  4  2019 entry_pred.hpp
+-rw-r--r-- 1 root root 5504 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root 2597 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root 2062 Dec  4  2019 info_fn_imps.hpp
+-rw-r--r-- 1 root root 4978 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root 2270 Dec  4  2019 iterators_fn_imps.hpp
+-rw-r--r-- 1 root root 4447 Dec  4  2019 point_const_iterator.hpp
+-rw-r--r-- 1 root root 1902 Dec  4  2019 policy_access_fn_imps.hpp
+-rw-r--r-- 1 root root 6133 Dec  4  2019 resize_policy.hpp
+-rw-r--r-- 1 root root 4923 Dec  4  2019 split_join_fn_imps.hpp
+-rw-r--r-- 1 root root 2447 Dec  4  2019 trace_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/binomial_heap_:
+total 12
+-rw-r--r-- 1 root root 3922 Dec  4  2019 binomial_heap_.hpp
+-rw-r--r-- 1 root root 2151 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root 1897 Dec  4  2019 debug_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/binomial_heap_base_:
+total 44
+-rw-r--r-- 1 root root 6202 Dec  4  2019 binomial_heap_base_.hpp
+-rw-r--r-- 1 root root 2688 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root 3468 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root 4482 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root 2345 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root 5271 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root 5365 Dec  4  2019 split_join_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/branch_policy:
+total 12
+-rw-r--r-- 1 root root 4031 Dec  4  2019 branch_policy.hpp
+-rw-r--r-- 1 root root 2379 Dec  4  2019 null_node_metadata.hpp
+-rw-r--r-- 1 root root 3254 Dec  4  2019 traits.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/cc_hash_table_map_:
+total 124
+-rw-r--r-- 1 root root 19953 Dec  4  2019 cc_ht_map_.hpp
+-rw-r--r-- 1 root root  2765 Dec  4  2019 cmp_fn_imps.hpp
+-rw-r--r-- 1 root root  2874 Dec  4  2019 cond_key_dtor_entry_dealtor.hpp
+-rw-r--r-- 1 root root  5791 Dec  4  2019 constructor_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root  2226 Dec  4  2019 constructor_destructor_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2306 Dec  4  2019 constructor_destructor_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2693 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root  2000 Dec  4  2019 debug_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2148 Dec  4  2019 debug_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2954 Dec  4  2019 entry_list_fn_imps.hpp
+-rw-r--r-- 1 root root  3245 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root  3264 Dec  4  2019 erase_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  3225 Dec  4  2019 erase_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2485 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root  1779 Dec  4  2019 find_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  3111 Dec  4  2019 info_fn_imps.hpp
+-rw-r--r-- 1 root root  1896 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root  2618 Dec  4  2019 insert_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2674 Dec  4  2019 insert_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2664 Dec  4  2019 iterators_fn_imps.hpp
+-rw-r--r-- 1 root root  2481 Dec  4  2019 policy_access_fn_imps.hpp
+-rw-r--r-- 1 root root  4062 Dec  4  2019 resize_fn_imps.hpp
+-rw-r--r-- 1 root root  2242 Dec  4  2019 resize_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2274 Dec  4  2019 resize_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2109 Dec  4  2019 size_fn_imps.hpp
+-rw-r--r-- 1 root root  2363 Dec  4  2019 trace_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/eq_fn:
+total 8
+-rw-r--r-- 1 root root 2330 Dec  4  2019 eq_by_less.hpp
+-rw-r--r-- 1 root root 3821 Dec  4  2019 hash_eq_fn.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/gp_hash_table_map_:
+total 116
+-rw-r--r-- 1 root root  6606 Dec  4  2019 constructor_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root  2202 Dec  4  2019 constructor_destructor_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2269 Dec  4  2019 constructor_destructor_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2174 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root  2505 Dec  4  2019 debug_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2645 Dec  4  2019 debug_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  3204 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root  2885 Dec  4  2019 erase_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2919 Dec  4  2019 erase_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2478 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root  1924 Dec  4  2019 find_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  1780 Dec  4  2019 find_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root 20398 Dec  4  2019 gp_ht_map_.hpp
+-rw-r--r-- 1 root root  2108 Dec  4  2019 info_fn_imps.hpp
+-rw-r--r-- 1 root root  1896 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root  3777 Dec  4  2019 insert_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  4085 Dec  4  2019 insert_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2619 Dec  4  2019 iterator_fn_imps.hpp
+-rw-r--r-- 1 root root  2660 Dec  4  2019 policy_access_fn_imps.hpp
+-rw-r--r-- 1 root root  4157 Dec  4  2019 resize_fn_imps.hpp
+-rw-r--r-- 1 root root  2618 Dec  4  2019 resize_no_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2651 Dec  4  2019 resize_store_hash_fn_imps.hpp
+-rw-r--r-- 1 root root  2424 Dec  4  2019 trace_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/hash_fn:
+total 68
+-rw-r--r-- 1 root root  2104 Dec  4  2019 direct_mask_range_hashing_imp.hpp
+-rw-r--r-- 1 root root  2094 Dec  4  2019 direct_mod_range_hashing_imp.hpp
+-rw-r--r-- 1 root root  1913 Dec  4  2019 linear_probe_fn_imp.hpp
+-rw-r--r-- 1 root root  3290 Dec  4  2019 mask_based_range_hashing.hpp
+-rw-r--r-- 1 root root  2391 Dec  4  2019 mod_based_range_hashing.hpp
+-rw-r--r-- 1 root root  2009 Dec  4  2019 probe_fn_base.hpp
+-rw-r--r-- 1 root root  1920 Dec  4  2019 quadratic_probe_fn_imp.hpp
+-rw-r--r-- 1 root root 10619 Dec  4  2019 ranged_hash_fn.hpp
+-rw-r--r-- 1 root root 10436 Dec  4  2019 ranged_probe_fn.hpp
+-rw-r--r-- 1 root root  2291 Dec  4  2019 sample_probe_fn.hpp
+-rw-r--r-- 1 root root  2487 Dec  4  2019 sample_range_hashing.hpp
+-rw-r--r-- 1 root root  2469 Dec  4  2019 sample_ranged_hash_fn.hpp
+-rw-r--r-- 1 root root  2598 Dec  4  2019 sample_ranged_probe_fn.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/left_child_next_sibling_heap_:
+total 64
+-rw-r--r-- 1 root root 4924 Dec  4  2019 const_iterator.hpp
+-rw-r--r-- 1 root root 4055 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root 4075 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root 3959 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root 2106 Dec  4  2019 info_fn_imps.hpp
+-rw-r--r-- 1 root root 5201 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root 2555 Dec  4  2019 iterators_fn_imps.hpp
+-rw-r--r-- 1 root root 8175 Dec  4  2019 left_child_next_sibling_heap_.hpp
+-rw-r--r-- 1 root root 3212 Dec  4  2019 node.hpp
+-rw-r--r-- 1 root root 4496 Dec  4  2019 point_const_iterator.hpp
+-rw-r--r-- 1 root root 1927 Dec  4  2019 policy_access_fn_imps.hpp
+-rw-r--r-- 1 root root 2815 Dec  4  2019 trace_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/list_update_map_:
+total 48
+-rw-r--r-- 1 root root  3584 Dec  4  2019 constructor_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root  2095 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root  2117 Dec  4  2019 entry_metadata_base.hpp
+-rw-r--r-- 1 root root  3482 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root  2861 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root  2074 Dec  4  2019 info_fn_imps.hpp
+-rw-r--r-- 1 root root  3510 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root  2520 Dec  4  2019 iterators_fn_imps.hpp
+-rw-r--r-- 1 root root 10393 Dec  4  2019 lu_map_.hpp
+-rw-r--r-- 1 root root  2028 Dec  4  2019 trace_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/list_update_policy:
+total 8
+-rw-r--r-- 1 root root 2850 Dec  4  2019 lu_counter_metadata.hpp
+-rw-r--r-- 1 root root 2672 Dec  4  2019 sample_update_policy.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/ov_tree_map_:
+total 76
+-rw-r--r-- 1 root root  6869 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root  2818 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root  4981 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root  2084 Dec  4  2019 info_fn_imps.hpp
+-rw-r--r-- 1 root root  2273 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root  3361 Dec  4  2019 iterators_fn_imps.hpp
+-rw-r--r-- 1 root root  8811 Dec  4  2019 node_iterators.hpp
+-rw-r--r-- 1 root root 15366 Dec  4  2019 ov_tree_map_.hpp
+-rw-r--r-- 1 root root  1887 Dec  4  2019 policy_access_fn_imps.hpp
+-rw-r--r-- 1 root root  3774 Dec  4  2019 split_join_fn_imps.hpp
+-rw-r--r-- 1 root root  4562 Dec  4  2019 traits.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/pairing_heap_:
+total 36
+-rw-r--r-- 1 root root 2506 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root 1996 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root 7191 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root 1937 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root 2947 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root 5517 Dec  4  2019 pairing_heap_.hpp
+-rw-r--r-- 1 root root 3706 Dec  4  2019 split_join_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/pat_trie_:
+total 160
+-rw-r--r-- 1 root root  5712 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root  3791 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root  7945 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root  7875 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root  2056 Dec  4  2019 info_fn_imps.hpp
+-rw-r--r-- 1 root root 14475 Dec  4  2019 insert_join_fn_imps.hpp
+-rw-r--r-- 1 root root  3480 Dec  4  2019 iterators_fn_imps.hpp
+-rw-r--r-- 1 root root 16869 Dec  4  2019 pat_trie_.hpp
+-rw-r--r-- 1 root root 37633 Dec  4  2019 pat_trie_base.hpp
+-rw-r--r-- 1 root root  2215 Dec  4  2019 policy_access_fn_imps.hpp
+-rw-r--r-- 1 root root  2920 Dec  4  2019 r_erase_fn_imps.hpp
+-rw-r--r-- 1 root root  4330 Dec  4  2019 rotate_fn_imps.hpp
+-rw-r--r-- 1 root root  7725 Dec  4  2019 split_fn_imps.hpp
+-rw-r--r-- 1 root root  6718 Dec  4  2019 synth_access_traits.hpp
+-rw-r--r-- 1 root root  3401 Dec  4  2019 trace_fn_imps.hpp
+-rw-r--r-- 1 root root  6305 Dec  4  2019 traits.hpp
+-rw-r--r-- 1 root root  2042 Dec  4  2019 update_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/rb_tree_map_:
+total 52
+-rw-r--r-- 1 root root 2783 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root 2761 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root 7051 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root 1703 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root 1841 Dec  4  2019 info_fn_imps.hpp
+-rw-r--r-- 1 root root 3867 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root 3870 Dec  4  2019 node.hpp
+-rw-r--r-- 1 root root 7962 Dec  4  2019 rb_tree_.hpp
+-rw-r--r-- 1 root root 7861 Dec  4  2019 split_join_fn_imps.hpp
+-rw-r--r-- 1 root root 3283 Dec  4  2019 traits.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/rc_binomial_heap_:
+total 44
+-rw-r--r-- 1 root root 2467 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root 3538 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root 2889 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root 4237 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root 6265 Dec  4  2019 rc.hpp
+-rw-r--r-- 1 root root 5303 Dec  4  2019 rc_binomial_heap_.hpp
+-rw-r--r-- 1 root root 2418 Dec  4  2019 split_join_fn_imps.hpp
+-rw-r--r-- 1 root root 1904 Dec  4  2019 trace_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/resize_policy:
+total 52
+-rw-r--r-- 1 root root 4899 Dec  4  2019 cc_hash_max_collision_check_resize_trigger_imp.hpp
+-rw-r--r-- 1 root root 2772 Dec  4  2019 hash_exponential_size_policy_imp.hpp
+-rw-r--r-- 1 root root 7752 Dec  4  2019 hash_load_check_resize_trigger_imp.hpp
+-rw-r--r-- 1 root root 2970 Dec  4  2019 hash_load_check_resize_trigger_size_base.hpp
+-rw-r--r-- 1 root root 6139 Dec  4  2019 hash_prime_size_policy_imp.hpp
+-rw-r--r-- 1 root root 6283 Dec  4  2019 hash_standard_resize_policy_imp.hpp
+-rw-r--r-- 1 root root 3578 Dec  4  2019 sample_resize_policy.hpp
+-rw-r--r-- 1 root root 3914 Dec  4  2019 sample_resize_trigger.hpp
+-rw-r--r-- 1 root root 2427 Dec  4  2019 sample_size_policy.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/splay_tree_:
+total 60
+-rw-r--r-- 1 root root 2847 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root 2463 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root 4269 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root 3319 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root 1689 Dec  4  2019 info_fn_imps.hpp
+-rw-r--r-- 1 root root 3353 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root 3744 Dec  4  2019 node.hpp
+-rw-r--r-- 1 root root 8049 Dec  4  2019 splay_fn_imps.hpp
+-rw-r--r-- 1 root root 9307 Dec  4  2019 splay_tree_.hpp
+-rw-r--r-- 1 root root 3634 Dec  4  2019 split_join_fn_imps.hpp
+-rw-r--r-- 1 root root 3351 Dec  4  2019 traits.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/thin_heap_:
+total 48
+-rw-r--r-- 1 root root 2946 Dec  4  2019 constructors_destructor_fn_imps.hpp
+-rw-r--r-- 1 root root 3866 Dec  4  2019 debug_fn_imps.hpp
+-rw-r--r-- 1 root root 6055 Dec  4  2019 erase_fn_imps.hpp
+-rw-r--r-- 1 root root 1952 Dec  4  2019 find_fn_imps.hpp
+-rw-r--r-- 1 root root 7483 Dec  4  2019 insert_fn_imps.hpp
+-rw-r--r-- 1 root root 3155 Dec  4  2019 split_join_fn_imps.hpp
+-rw-r--r-- 1 root root 8404 Dec  4  2019 thin_heap_.hpp
+-rw-r--r-- 1 root root 1962 Dec  4  2019 trace_fn_imps.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/tree_policy:
+total 12
+-rw-r--r-- 1 root root 3338 Dec  4  2019 node_metadata_selector.hpp
+-rw-r--r-- 1 root root 3723 Dec  4  2019 order_statistics_imp.hpp
+-rw-r--r-- 1 root root 2346 Dec  4  2019 sample_tree_node_update.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/trie_policy:
+total 40
+-rw-r--r-- 1 root root 3338 Dec  4  2019 node_metadata_selector.hpp
+-rw-r--r-- 1 root root 4701 Dec  4  2019 order_statistics_imp.hpp
+-rw-r--r-- 1 root root 4511 Dec  4  2019 prefix_search_node_update_imp.hpp
+-rw-r--r-- 1 root root 2713 Dec  4  2019 sample_trie_access_traits.hpp
+-rw-r--r-- 1 root root 2348 Dec  4  2019 sample_trie_node_update.hpp
+-rw-r--r-- 1 root root 5847 Dec  4  2019 trie_policy_base.hpp
+-rw-r--r-- 1 root root 3051 Dec  4  2019 trie_string_access_traits_imp.hpp
+
+/usr/include/c++/7/ext/pb_ds/detail/unordered_iterator:
+total 16
+-rw-r--r-- 1 root root 3345 Dec  4  2019 const_iterator.hpp
+-rw-r--r-- 1 root root 3797 Dec  4  2019 iterator.hpp
+-rw-r--r-- 1 root root 3806 Dec  4  2019 point_const_iterator.hpp
+-rw-r--r-- 1 root root 3574 Dec  4  2019 point_iterator.hpp
+
+/usr/include/c++/7/parallel:
+total 608
+-rw-r--r-- 1 root root 80030 Dec  4  2019 algo.h
+-rw-r--r-- 1 root root 17155 Dec  4  2019 algobase.h
+-rw-r--r-- 1 root root  1381 Dec  4  2019 algorithm
+-rw-r--r-- 1 root root 32206 Dec  4  2019 algorithmfwd.h
+-rw-r--r-- 1 root root 16952 Dec  4  2019 balanced_quicksort.h
+-rw-r--r-- 1 root root 12373 Dec  4  2019 base.h
+-rw-r--r-- 1 root root  1586 Dec  4  2019 basic_iterator.h
+-rw-r--r-- 1 root root  2300 Dec  4  2019 checkers.h
+-rw-r--r-- 1 root root  3790 Dec  4  2019 compatibility.h
+-rw-r--r-- 1 root root  2871 Dec  4  2019 compiletime_settings.h
+-rw-r--r-- 1 root root  3356 Dec  4  2019 equally_split.h
+-rw-r--r-- 1 root root  3543 Dec  4  2019 features.h
+-rw-r--r-- 1 root root 13591 Dec  4  2019 find.h
+-rw-r--r-- 1 root root  6992 Dec  4  2019 find_selectors.h
+-rw-r--r-- 1 root root  3947 Dec  4  2019 for_each.h
+-rw-r--r-- 1 root root 10565 Dec  4  2019 for_each_selectors.h
+-rw-r--r-- 1 root root  5678 Dec  4  2019 iterator.h
+-rw-r--r-- 1 root root  6542 Dec  4  2019 list_partition.h
+-rw-r--r-- 1 root root 28592 Dec  4  2019 losertree.h
+-rw-r--r-- 1 root root  9578 Dec  4  2019 merge.h
+-rw-r--r-- 1 root root 22075 Dec  4  2019 multiseq_selection.h
+-rw-r--r-- 1 root root 70535 Dec  4  2019 multiway_merge.h
+-rw-r--r-- 1 root root 15271 Dec  4  2019 multiway_mergesort.h
+-rw-r--r-- 1 root root 20717 Dec  4  2019 numeric
+-rw-r--r-- 1 root root  7500 Dec  4  2019 numericfwd.h
+-rw-r--r-- 1 root root  4031 Dec  4  2019 omp_loop.h
+-rw-r--r-- 1 root root  4104 Dec  4  2019 omp_loop_static.h
+-rw-r--r-- 1 root root  4552 Dec  4  2019 par_loop.h
+-rw-r--r-- 1 root root  1576 Dec  4  2019 parallel.h
+-rw-r--r-- 1 root root  7474 Dec  4  2019 partial_sum.h
+-rw-r--r-- 1 root root 14961 Dec  4  2019 partition.h
+-rw-r--r-- 1 root root  5542 Dec  4  2019 queue.h
+-rw-r--r-- 1 root root  6126 Dec  4  2019 quicksort.h
+-rw-r--r-- 1 root root  4227 Dec  4  2019 random_number.h
+-rw-r--r-- 1 root root 18675 Dec  4  2019 random_shuffle.h
+-rw-r--r-- 1 root root  5391 Dec  4  2019 search.h
+-rw-r--r-- 1 root root 14590 Dec  4  2019 set_operations.h
+-rw-r--r-- 1 root root 12458 Dec  4  2019 settings.h
+-rw-r--r-- 1 root root  7709 Dec  4  2019 sort.h
+-rw-r--r-- 1 root root  5982 Dec  4  2019 tags.h
+-rw-r--r-- 1 root root  3716 Dec  4  2019 types.h
+-rw-r--r-- 1 root root  6165 Dec  4  2019 unique_copy.h
+-rw-r--r-- 1 root root  9612 Dec  4  2019 workstealing.h
+
+/usr/include/c++/7/profile:
+total 232
+-rw-r--r-- 1 root root  8796 Dec  4  2019 array
+-rw-r--r-- 1 root root  1709 Dec  4  2019 base.h
+-rw-r--r-- 1 root root  6607 Dec  4  2019 bitset
+-rw-r--r-- 1 root root  5273 Dec  4  2019 deque
+-rw-r--r-- 1 root root  6390 Dec  4  2019 forward_list
+drwxr-xr-x 2 root root  4096 Sep 10 19:09 impl
+-rw-r--r-- 1 root root  9554 Dec  4  2019 iterator_tracker.h
+-rw-r--r-- 1 root root 16862 Dec  4  2019 list
+-rw-r--r-- 1 root root  1246 Dec  4  2019 map
+-rw-r--r-- 1 root root 20100 Dec  4  2019 map.h
+-rw-r--r-- 1 root root 19334 Dec  4  2019 multimap.h
+-rw-r--r-- 1 root root 18913 Dec  4  2019 multiset.h
+-rw-r--r-- 1 root root  2776 Dec  4  2019 ordered_base.h
+-rw-r--r-- 1 root root  1246 Dec  4  2019 set
+-rw-r--r-- 1 root root 18121 Dec  4  2019 set.h
+-rw-r--r-- 1 root root  9116 Dec  4  2019 unordered_base.h
+-rw-r--r-- 1 root root 17544 Dec  4  2019 unordered_map
+-rw-r--r-- 1 root root 16291 Dec  4  2019 unordered_set
+-rw-r--r-- 1 root root 15882 Dec  4  2019 vector
+
+/usr/include/c++/7/profile/impl:
+total 108
+-rw-r--r-- 1 root root 13924 Dec  4  2019 profiler.h
+-rw-r--r-- 1 root root  3429 Dec  4  2019 profiler_algos.h
+-rw-r--r-- 1 root root  5403 Dec  4  2019 profiler_container_size.h
+-rw-r--r-- 1 root root  4412 Dec  4  2019 profiler_hash_func.h
+-rw-r--r-- 1 root root  2982 Dec  4  2019 profiler_hashtable_size.h
+-rw-r--r-- 1 root root  4438 Dec  4  2019 profiler_list_to_slist.h
+-rw-r--r-- 1 root root  6843 Dec  4  2019 profiler_list_to_vector.h
+-rw-r--r-- 1 root root  7081 Dec  4  2019 profiler_map_to_unordered_map.h
+-rw-r--r-- 1 root root  3801 Dec  4  2019 profiler_node.h
+-rw-r--r-- 1 root root  2004 Dec  4  2019 profiler_state.h
+-rw-r--r-- 1 root root 20875 Dec  4  2019 profiler_trace.h
+-rw-r--r-- 1 root root  2928 Dec  4  2019 profiler_vector_size.h
+-rw-r--r-- 1 root root  6877 Dec  4  2019 profiler_vector_to_list.h
+
+/usr/include/c++/7/tr1:
+total 860
+-rw-r--r-- 1 root root  6964 Dec  4  2019 array
+-rw-r--r-- 1 root root 22477 Dec  4  2019 bessel_function.tcc
+-rw-r--r-- 1 root root  5999 Dec  4  2019 beta_function.tcc
+-rw-r--r-- 1 root root  1255 Dec  4  2019 ccomplex
+-rw-r--r-- 1 root root  1412 Dec  4  2019 cctype
+-rw-r--r-- 1 root root  2004 Dec  4  2019 cfenv
+-rw-r--r-- 1 root root  1380 Dec  4  2019 cfloat
+-rw-r--r-- 1 root root  2256 Dec  4  2019 cinttypes
+-rw-r--r-- 1 root root  1454 Dec  4  2019 climits
+-rw-r--r-- 1 root root 43357 Dec  4  2019 cmath
+-rw-r--r-- 1 root root 12384 Dec  4  2019 complex
+-rw-r--r-- 1 root root  1261 Dec  4  2019 complex.h
+-rw-r--r-- 1 root root  1246 Dec  4  2019 cstdarg
+-rw-r--r-- 1 root root  1344 Dec  4  2019 cstdbool
+-rw-r--r-- 1 root root  2623 Dec  4  2019 cstdint
+-rw-r--r-- 1 root root  1482 Dec  4  2019 cstdio
+-rw-r--r-- 1 root root  1796 Dec  4  2019 cstdlib
+-rw-r--r-- 1 root root  1248 Dec  4  2019 ctgmath
+-rw-r--r-- 1 root root  1234 Dec  4  2019 ctime
+-rw-r--r-- 1 root root  1209 Dec  4  2019 ctype.h
+-rw-r--r-- 1 root root  1718 Dec  4  2019 cwchar
+-rw-r--r-- 1 root root  1459 Dec  4  2019 cwctype
+-rw-r--r-- 1 root root 27728 Dec  4  2019 ell_integral.tcc
+-rw-r--r-- 1 root root 16013 Dec  4  2019 exp_integral.tcc
+-rw-r--r-- 1 root root  1204 Dec  4  2019 fenv.h
+-rw-r--r-- 1 root root  1209 Dec  4  2019 float.h
+-rw-r--r-- 1 root root 70799 Dec  4  2019 functional
+-rw-r--r-- 1 root root  6043 Dec  4  2019 functional_hash.h
+-rw-r--r-- 1 root root 14686 Dec  4  2019 gamma.tcc
+-rw-r--r-- 1 root root 41537 Dec  4  2019 hashtable.h
+-rw-r--r-- 1 root root 25085 Dec  4  2019 hashtable_policy.h
+-rw-r--r-- 1 root root 28070 Dec  4  2019 hypergeometric.tcc
+-rw-r--r-- 1 root root  1267 Dec  4  2019 inttypes.h
+-rw-r--r-- 1 root root 10913 Dec  4  2019 legendre_function.tcc
+-rw-r--r-- 1 root root  1214 Dec  4  2019 limits.h
+-rw-r--r-- 1 root root  4553 Dec  4  2019 math.h
+-rw-r--r-- 1 root root  1791 Dec  4  2019 memory
+-rw-r--r-- 1 root root 15926 Dec  4  2019 modified_bessel_func.tcc
+-rw-r--r-- 1 root root  3929 Dec  4  2019 poly_hermite.tcc
+-rw-r--r-- 1 root root 11680 Dec  4  2019 poly_laguerre.tcc
+-rw-r--r-- 1 root root  1589 Dec  4  2019 random
+-rw-r--r-- 1 root root 73193 Dec  4  2019 random.h
+-rw-r--r-- 1 root root 53996 Dec  4  2019 random.tcc
+-rw-r--r-- 1 root root 92945 Dec  4  2019 regex
+-rw-r--r-- 1 root root 14067 Dec  4  2019 riemann_zeta.tcc
+-rw-r--r-- 1 root root 32608 Dec  4  2019 shared_ptr.h
+-rw-r--r-- 1 root root  5059 Dec  4  2019 special_function_util.h
+-rw-r--r-- 1 root root  1214 Dec  4  2019 stdarg.h
+-rw-r--r-- 1 root root  1219 Dec  4  2019 stdbool.h
+-rw-r--r-- 1 root root  1214 Dec  4  2019 stdint.h
+-rw-r--r-- 1 root root  1209 Dec  4  2019 stdio.h
+-rw-r--r-- 1 root root  1487 Dec  4  2019 stdlib.h
+-rw-r--r-- 1 root root  1255 Dec  4  2019 tgmath.h
+-rw-r--r-- 1 root root 12119 Dec  4  2019 tuple
+-rw-r--r-- 1 root root 19019 Dec  4  2019 type_traits
+-rw-r--r-- 1 root root  1574 Dec  4  2019 unordered_map
+-rw-r--r-- 1 root root 10216 Dec  4  2019 unordered_map.h
+-rw-r--r-- 1 root root  1574 Dec  4  2019 unordered_set
+-rw-r--r-- 1 root root  9540 Dec  4  2019 unordered_set.h
+-rw-r--r-- 1 root root  3225 Dec  4  2019 utility
+-rw-r--r-- 1 root root  1249 Dec  4  2019 wchar.h
+-rw-r--r-- 1 root root  1255 Dec  4  2019 wctype.h
+
+/usr/include/c++/7/tr2:
+total 76
+-rw-r--r-- 1 root root  7370 Dec  4  2019 bool_set
+-rw-r--r-- 1 root root  8319 Dec  4  2019 bool_set.tcc
+-rw-r--r-- 1 root root 34144 Dec  4  2019 dynamic_bitset
+-rw-r--r-- 1 root root  8925 Dec  4  2019 dynamic_bitset.tcc
+-rw-r--r-- 1 root root  2130 Dec  4  2019 ratio
+-rw-r--r-- 1 root root  2699 Dec  4  2019 type_traits
+
+/usr/include/drm:
+total 392
+-rw-r--r-- 1 root root 26729 Dec  8 17:15 amdgpu_drm.h
+-rw-r--r-- 1 root root  1212 Dec  8 17:15 armada_drm.h
+-rw-r--r-- 1 root root 30656 Dec  8 17:15 drm.h
+-rw-r--r-- 1 root root 18067 Dec  8 17:15 drm_fourcc.h
+-rw-r--r-- 1 root root 22905 Dec  8 17:15 drm_mode.h
+-rw-r--r-- 1 root root  2782 Dec  8 17:15 drm_sarea.h
+-rw-r--r-- 1 root root 11005 Dec  8 17:15 etnaviv_drm.h
+-rw-r--r-- 1 root root  8954 Dec  8 17:15 exynos_drm.h
+-rw-r--r-- 1 root root 10061 Dec  8 17:15 i810_drm.h
+-rw-r--r-- 1 root root 52055 Dec  8 17:15 i915_drm.h
+-rw-r--r-- 1 root root 13010 Dec  8 17:15 mga_drm.h
+-rw-r--r-- 1 root root 11997 Dec  8 17:15 msm_drm.h
+-rw-r--r-- 1 root root  4847 Dec  8 17:15 nouveau_drm.h
+-rw-r--r-- 1 root root  4141 Dec  8 17:15 omap_drm.h
+-rw-r--r-- 1 root root  4131 Dec  8 17:15 qxl_drm.h
+-rw-r--r-- 1 root root 10000 Dec  8 17:15 r128_drm.h
+-rw-r--r-- 1 root root 38236 Dec  8 17:15 radeon_drm.h
+-rw-r--r-- 1 root root  7170 Dec  8 17:15 savage_drm.h
+-rw-r--r-- 1 root root  2637 Dec  8 17:15 sis_drm.h
+-rw-r--r-- 1 root root  5597 Dec  8 17:15 tegra_drm.h
+-rw-r--r-- 1 root root 11472 Dec  8 17:15 vc4_drm.h
+-rw-r--r-- 1 root root  1971 Dec  8 17:15 vgem_drm.h
+-rw-r--r-- 1 root root  8345 Dec  8 17:15 via_drm.h
+-rw-r--r-- 1 root root  4777 Dec  8 17:15 virtgpu_drm.h
+-rw-r--r-- 1 root root 32084 Dec  8 17:15 vmwgfx_drm.h
+
+/usr/include/linux:
+total 4152
+-rw-r--r-- 1 root root   6892 Dec  8 17:15 a.out.h
+-rw-r--r-- 1 root root   3733 Dec  8 17:15 acct.h
+-rw-r--r-- 1 root root   1140 Dec  8 17:15 adb.h
+-rw-r--r-- 1 root root    936 Dec  8 17:15 adfs_fs.h
+-rw-r--r-- 1 root root   1544 Dec  8 17:15 affs_hardblocks.h
+-rw-r--r-- 1 root root   3940 Dec  8 17:15 agpgart.h
+-rw-r--r-- 1 root root   3276 Dec  8 17:15 aio_abi.h
+-rw-r--r-- 1 root root   3681 Dec  8 17:15 am437x-vpfe.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 android
+-rw-r--r-- 1 root root   3683 Dec  8 17:15 apm_bios.h
+-rw-r--r-- 1 root root    213 Dec  8 17:15 arcfb.h
+-rw-r--r-- 1 root root   2751 Dec  8 17:15 arm_sdei.h
+-rw-r--r-- 1 root root   1780 Dec  8 17:15 aspeed-lpc-ctrl.h
+-rw-r--r-- 1 root root   1023 Dec  8 17:15 atalk.h
+-rw-r--r-- 1 root root   7888 Dec  8 17:15 atm.h
+-rw-r--r-- 1 root root    648 Dec  8 17:15 atm_eni.h
+-rw-r--r-- 1 root root    406 Dec  8 17:15 atm_he.h
+-rw-r--r-- 1 root root    955 Dec  8 17:15 atm_idt77105.h
+-rw-r--r-- 1 root root   1278 Dec  8 17:15 atm_nicstar.h
+-rw-r--r-- 1 root root   1622 Dec  8 17:15 atm_tcp.h
+-rw-r--r-- 1 root root   1540 Dec  8 17:15 atm_zatm.h
+-rw-r--r-- 1 root root    952 Dec  8 17:15 atmapi.h
+-rw-r--r-- 1 root root   1296 Dec  8 17:15 atmarp.h
+-rw-r--r-- 1 root root   3271 Dec  8 17:15 atmbr2684.h
+-rw-r--r-- 1 root root    576 Dec  8 17:15 atmclip.h
+-rw-r--r-- 1 root root   7677 Dec  8 17:15 atmdev.h
+-rw-r--r-- 1 root root   1646 Dec  8 17:15 atmioc.h
+-rw-r--r-- 1 root root   2381 Dec  8 17:15 atmlec.h
+-rw-r--r-- 1 root root   4226 Dec  8 17:15 atmmpc.h
+-rw-r--r-- 1 root root    639 Dec  8 17:15 atmppp.h
+-rw-r--r-- 1 root root   4970 Dec  8 17:15 atmsap.h
+-rw-r--r-- 1 root root   1853 Dec  8 17:15 atmsvc.h
+-rw-r--r-- 1 root root  19552 Dec  8 17:15 audit.h
+-rw-r--r-- 1 root root  11370 Dec  8 17:15 aufs_type.h
+-rw-r--r-- 1 root root   4986 Dec  8 17:15 auto_dev-ioctl.h
+-rw-r--r-- 1 root root   2658 Dec  8 17:15 auto_fs.h
+-rw-r--r-- 1 root root   4275 Dec  8 17:15 auto_fs4.h
+-rw-r--r-- 1 root root   1496 Dec  8 17:15 auxvec.h
+-rw-r--r-- 1 root root   2824 Dec  8 17:15 ax25.h
+-rw-r--r-- 1 root root   1717 Dec  8 17:15 b1lli.h
+-rw-r--r-- 1 root root   9447 Dec  8 17:15 batman_adv.h
+-rw-r--r-- 1 root root    883 Dec  8 17:15 baycom.h
+-rw-r--r-- 1 root root   8366 Dec  8 17:15 bcache.h
+-rw-r--r-- 1 root root    419 Dec  8 17:15 bcm933xx_hcs.h
+-rw-r--r-- 1 root root   1893 Dec  8 17:15 bfs_fs.h
+-rw-r--r-- 1 root root    628 Dec  8 17:15 binfmts.h
+-rw-r--r-- 1 root root   1634 Dec  8 17:15 blkpg.h
+-rw-r--r-- 1 root root   4702 Dec  8 17:15 blktrace_api.h
+-rw-r--r-- 1 root root   5168 Dec  8 17:15 blkzoned.h
+-rw-r--r-- 1 root root  31050 Dec  8 17:15 bpf.h
+-rw-r--r-- 1 root root   1293 Dec  8 17:15 bpf_common.h
+-rw-r--r-- 1 root root    516 Dec  8 17:15 bpf_perf_event.h
+-rw-r--r-- 1 root root    981 Dec  8 17:15 bpqether.h
+-rw-r--r-- 1 root root   2494 Dec  8 17:15 bsg.h
+-rw-r--r-- 1 root root    572 Dec  8 17:15 bt-bmc.h
+-rw-r--r-- 1 root root  26368 Dec  8 17:15 btrfs.h
+-rw-r--r-- 1 root root  25233 Dec  8 17:15 btrfs_tree.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 byteorder
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 caif
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 can
+-rw-r--r-- 1 root root   7881 Dec  8 17:15 can.h
+-rw-r--r-- 1 root root  11780 Dec  8 17:15 capability.h
+-rw-r--r-- 1 root root   3124 Dec  8 17:15 capi.h
+-rw-r--r-- 1 root root   3281 Dec  8 17:15 cciss_defs.h
+-rw-r--r-- 1 root root   2761 Dec  8 17:15 cciss_ioctl.h
+-rw-r--r-- 1 root root  28859 Dec  8 17:15 cdrom.h
+-rw-r--r-- 1 root root  55109 Dec  8 17:15 cec-funcs.h
+-rw-r--r-- 1 root root  37654 Dec  8 17:15 cec.h
+-rw-r--r-- 1 root root   2219 Dec  8 17:15 cgroupstats.h
+-rw-r--r-- 1 root root   5344 Dec  8 17:15 chio.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 cifs
+-rw-r--r-- 1 root root   1806 Dec  8 17:15 cm4000_cs.h
+-rw-r--r-- 1 root root   3334 Dec  8 17:15 cn_proc.h
+-rw-r--r-- 1 root root  17505 Dec  8 17:15 coda.h
+-rw-r--r-- 1 root root    360 Dec  8 17:15 coda_psdev.h
+-rw-r--r-- 1 root root  12476 Dec  8 17:15 coff.h
+-rw-r--r-- 1 root root   2253 Dec  8 17:15 connector.h
+-rw-r--r-- 1 root root    935 Dec  8 17:15 const.h
+-rw-r--r-- 1 root root    706 Dec  8 17:15 coresight-stm.h
+-rw-r--r-- 1 root root   3555 Dec  8 17:15 cramfs_fs.h
+-rw-r--r-- 1 root root   3392 Dec  8 17:15 cryptouser.h
+-rw-r--r-- 1 root root    905 Dec  8 17:15 cuda.h
+-rw-r--r-- 1 root root  17108 Dec  8 17:15 cyclades.h
+-rw-r--r-- 1 root root   2990 Dec  8 17:15 cycx_cfm.h
+-rw-r--r-- 1 root root  24954 Dec  8 17:15 dcbnl.h
+-rw-r--r-- 1 root root   6436 Dec  8 17:15 dccp.h
+-rw-r--r-- 1 root root   7324 Dec  8 17:15 devlink.h
+-rw-r--r-- 1 root root   2553 Dec  8 17:15 dlm.h
+-rw-r--r-- 1 root root   2543 Dec  8 17:15 dlm_device.h
+-rw-r--r-- 1 root root   1159 Dec  8 17:15 dlm_netlink.h
+-rw-r--r-- 1 root root    894 Dec  8 17:15 dlm_plock.h
+-rw-r--r-- 1 root root   5080 Dec  8 17:15 dlmconstants.h
+-rw-r--r-- 1 root root  10870 Dec  8 17:15 dm-ioctl.h
+-rw-r--r-- 1 root root  15191 Dec  8 17:15 dm-log-userspace.h
+-rw-r--r-- 1 root root   1358 Dec  8 17:15 dma-buf.h
+-rw-r--r-- 1 root root   4642 Dec  8 17:15 dn.h
+-rw-r--r-- 1 root root   8999 Dec  8 17:15 dqblk_xfs.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 dvb
+-rw-r--r-- 1 root root   5604 Dec  8 17:15 edd.h
+-rw-r--r-- 1 root root   2227 Dec  8 17:15 efs_fs_sb.h
+-rw-r--r-- 1 root root   2187 Dec  8 17:15 elf-em.h
+-rw-r--r-- 1 root root   1124 Dec  8 17:15 elf-fdpic.h
+-rw-r--r-- 1 root root  13298 Dec  8 17:15 elf.h
+-rw-r--r-- 1 root root   2995 Dec  8 17:15 elfcore.h
+-rw-r--r-- 1 root root     23 Dec  8 17:15 errno.h
+-rw-r--r-- 1 root root   1369 Dec  8 17:15 errqueue.h
+-rw-r--r-- 1 root root  71484 Dec  8 17:15 ethtool.h
+-rw-r--r-- 1 root root   2542 Dec  8 17:15 eventpoll.h
+-rw-r--r-- 1 root root    842 Dec  8 17:15 fadvise.h
+-rw-r--r-- 1 root root   3584 Dec  8 17:15 falloc.h
+-rw-r--r-- 1 root root   3672 Dec  8 17:15 fanotify.h
+-rw-r--r-- 1 root root  16446 Dec  8 17:15 fb.h
+-rw-r--r-- 1 root root   3297 Dec  8 17:15 fcntl.h
+-rw-r--r-- 1 root root  11672 Dec  8 17:15 fd.h
+-rw-r--r-- 1 root root   5420 Dec  8 17:15 fdreg.h
+-rw-r--r-- 1 root root   1837 Dec  8 17:15 fib_rules.h
+-rw-r--r-- 1 root root   2775 Dec  8 17:15 fiemap.h
+-rw-r--r-- 1 root root   2216 Dec  8 17:15 filter.h
+-rw-r--r-- 1 root root  43886 Dec  8 17:15 firewire-cdev.h
+-rw-r--r-- 1 root root   3231 Dec  8 17:15 firewire-constants.h
+-rw-r--r-- 1 root root   2148 Dec  8 17:15 flat.h
+-rw-r--r-- 1 root root    694 Dec  8 17:15 fou.h
+-rw-r--r-- 1 root root  14818 Dec  8 17:15 fs.h
+-rw-r--r-- 1 root root   7301 Dec  8 17:15 fsl_hypervisor.h
+-rw-r--r-- 1 root root   4393 Dec  8 17:15 fsmap.h
+-rw-r--r-- 1 root root  17468 Dec  8 17:15 fuse.h
+-rw-r--r-- 1 root root   4993 Dec  8 17:15 futex.h
+-rw-r--r-- 1 root root    897 Dec  8 17:15 gameport.h
+-rw-r--r-- 1 root root   1578 Dec  8 17:15 gen_stats.h
+-rw-r--r-- 1 root root   1923 Dec  8 17:15 genetlink.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 genwqe
+-rw-r--r-- 1 root root  12355 Dec  8 17:15 gfs2_ondisk.h
+-rw-r--r-- 1 root root   1442 Dec  8 17:15 gigaset_dev.h
+-rw-r--r-- 1 root root   5750 Dec  8 17:15 gpio.h
+-rw-r--r-- 1 root root   1041 Dec  8 17:15 gsmmux.h
+-rw-r--r-- 1 root root    681 Dec  8 17:15 gtp.h
+-rw-r--r-- 1 root root    921 Dec  8 17:15 hash_info.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 hdlc
+-rw-r--r-- 1 root root    637 Dec  8 17:15 hdlc.h
+-rw-r--r-- 1 root root   2908 Dec  8 17:15 hdlcdrv.h
+-rw-r--r-- 1 root root  22703 Dec  8 17:15 hdreg.h
+-rw-r--r-- 1 root root   1901 Dec  8 17:15 hid.h
+-rw-r--r-- 1 root root   6345 Dec  8 17:15 hiddev.h
+-rw-r--r-- 1 root root   1511 Dec  8 17:15 hidraw.h
+-rw-r--r-- 1 root root    743 Dec  8 17:15 hpet.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 hsi
+-rw-r--r-- 1 root root   1081 Dec  8 17:15 hsr_netlink.h
+-rw-r--r-- 1 root root    742 Dec  8 17:15 hw_breakpoint.h
+-rw-r--r-- 1 root root  10569 Dec  8 17:15 hyperv.h
+-rw-r--r-- 1 root root   1382 Dec  8 17:15 hysdn_if.h
+-rw-r--r-- 1 root root   2612 Dec  8 17:15 i2c-dev.h
+-rw-r--r-- 1 root root   7132 Dec  8 17:15 i2c.h
+-rw-r--r-- 1 root root  11555 Dec  8 17:15 i2o-dev.h
+-rw-r--r-- 1 root root   1528 Dec  8 17:15 i8k.h
+-rw-r--r-- 1 root root   2975 Dec  8 17:15 icmp.h
+-rw-r--r-- 1 root root   3977 Dec  8 17:15 icmpv6.h
+-rw-r--r-- 1 root root  10813 Dec  8 17:15 if.h
+-rw-r--r-- 1 root root   1802 Dec  8 17:15 if_addr.h
+-rw-r--r-- 1 root root    721 Dec  8 17:15 if_addrlabel.h
+-rw-r--r-- 1 root root   1534 Dec  8 17:15 if_alg.h
+-rw-r--r-- 1 root root   3717 Dec  8 17:15 if_arcnet.h
+-rw-r--r-- 1 root root   6577 Dec  8 17:15 if_arp.h
+-rw-r--r-- 1 root root   4268 Dec  8 17:15 if_bonding.h
+-rw-r--r-- 1 root root   6709 Dec  8 17:15 if_bridge.h
+-rw-r--r-- 1 root root    986 Dec  8 17:15 if_cablemodem.h
+-rw-r--r-- 1 root root   1349 Dec  8 17:15 if_eql.h
+-rw-r--r-- 1 root root   7940 Dec  8 17:15 if_ether.h
+-rw-r--r-- 1 root root   1738 Dec  8 17:15 if_fc.h
+-rw-r--r-- 1 root root   3748 Dec  8 17:15 if_fddi.h
+-rw-r--r-- 1 root root   3019 Dec  8 17:15 if_frad.h
+-rw-r--r-- 1 root root   4235 Dec  8 17:15 if_hippi.h
+-rw-r--r-- 1 root root   1245 Dec  8 17:15 if_infiniband.h
+-rw-r--r-- 1 root root  21954 Dec  8 17:15 if_link.h
+-rw-r--r-- 1 root root    210 Dec  8 17:15 if_ltalk.h
+-rw-r--r-- 1 root root   5616 Dec  8 17:15 if_macsec.h
+-rw-r--r-- 1 root root   7919 Dec  8 17:15 if_packet.h
+-rw-r--r-- 1 root root    424 Dec  8 17:15 if_phonet.h
+-rw-r--r-- 1 root root    660 Dec  8 17:15 if_plip.h
+-rw-r--r-- 1 root root     29 Dec  8 17:15 if_ppp.h
+-rw-r--r-- 1 root root   3292 Dec  8 17:15 if_pppol2tp.h
+-rw-r--r-- 1 root root   4879 Dec  8 17:15 if_pppox.h
+-rw-r--r-- 1 root root    872 Dec  8 17:15 if_slip.h
+-rw-r--r-- 1 root root   2600 Dec  8 17:15 if_team.h
+-rw-r--r-- 1 root root   3969 Dec  8 17:15 if_tun.h
+-rw-r--r-- 1 root root   4005 Dec  8 17:15 if_tunnel.h
+-rw-r--r-- 1 root root   1793 Dec  8 17:15 if_vlan.h
+-rw-r--r-- 1 root root    881 Dec  8 17:15 if_x25.h
+-rw-r--r-- 1 root root    351 Dec  8 17:15 ife.h
+-rw-r--r-- 1 root root   3014 Dec  8 17:15 igmp.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 iio
+-rw-r--r-- 1 root root   1230 Dec  8 17:15 ila.h
+-rw-r--r-- 1 root root   9835 Dec  8 17:15 in.h
+-rw-r--r-- 1 root root   7438 Dec  8 17:15 in6.h
+-rw-r--r-- 1 root root    936 Dec  8 17:15 in_route.h
+-rw-r--r-- 1 root root   4330 Dec  8 17:15 inet_diag.h
+-rw-r--r-- 1 root root   2977 Dec  8 17:15 inotify.h
+-rw-r--r-- 1 root root  24623 Dec  8 17:15 input-event-codes.h
+-rw-r--r-- 1 root root  15454 Dec  8 17:15 input.h
+-rw-r--r-- 1 root root    163 Dec  8 17:15 ioctl.h
+-rw-r--r-- 1 root root   4699 Dec  8 17:15 ip.h
+-rw-r--r-- 1 root root   1953 Dec  8 17:15 ip6_tunnel.h
+-rw-r--r-- 1 root root  13631 Dec  8 17:15 ip_vs.h
+-rw-r--r-- 1 root root   2101 Dec  8 17:15 ipc.h
+-rw-r--r-- 1 root root  16240 Dec  8 17:15 ipmi.h
+-rw-r--r-- 1 root root   4541 Dec  8 17:15 ipmi_msgdefs.h
+-rw-r--r-- 1 root root    947 Dec  8 17:15 ipsec.h
+-rw-r--r-- 1 root root   3967 Dec  8 17:15 ipv6.h
+-rw-r--r-- 1 root root   1908 Dec  8 17:15 ipv6_route.h
+-rw-r--r-- 1 root root   2347 Dec  8 17:15 ipx.h
+-rw-r--r-- 1 root root   7554 Dec  8 17:15 irda.h
+-rw-r--r-- 1 root root    104 Dec  8 17:15 irqnr.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 isdn
+-rw-r--r-- 1 root root   5774 Dec  8 17:15 isdn.h
+-rw-r--r-- 1 root root   1200 Dec  8 17:15 isdn_divertif.h
+-rw-r--r-- 1 root root   1923 Dec  8 17:15 isdn_ppp.h
+-rw-r--r-- 1 root root   2370 Dec  8 17:15 isdnif.h
+-rw-r--r-- 1 root root   6485 Dec  8 17:15 iso_fs.h
+-rw-r--r-- 1 root root   3022 Dec  8 17:15 ivtv.h
+-rw-r--r-- 1 root root   1207 Dec  8 17:15 ivtvfb.h
+-rw-r--r-- 1 root root  25181 Dec  8 17:15 ixjuser.h
+-rw-r--r-- 1 root root   7018 Dec  8 17:15 jffs2.h
+-rw-r--r-- 1 root root   3645 Dec  8 17:15 joystick.h
+-rw-r--r-- 1 root root    822 Dec  8 17:15 kcm.h
+-rw-r--r-- 1 root root    522 Dec  8 17:15 kcmp.h
+-rw-r--r-- 1 root root   1099 Dec  8 17:15 kcov.h
+-rw-r--r-- 1 root root   6283 Dec  8 17:15 kd.h
+-rw-r--r-- 1 root root    383 Dec  8 17:15 kdev_t.h
+-rw-r--r-- 1 root root    877 Dec  8 17:15 kernel-page-flags.h
+-rw-r--r-- 1 root root    194 Dec  8 17:15 kernel.h
+-rw-r--r-- 1 root root   1019 Dec  8 17:15 kernelcapi.h
+-rw-r--r-- 1 root root   1835 Dec  8 17:15 kexec.h
+-rw-r--r-- 1 root root  12783 Dec  8 17:15 keyboard.h
+-rw-r--r-- 1 root root   3555 Dec  8 17:15 keyctl.h
+-rw-r--r-- 1 root root   9591 Dec  8 17:15 kfd_ioctl.h
+-rw-r--r-- 1 root root  41149 Dec  8 17:15 kvm.h
+-rw-r--r-- 1 root root    882 Dec  8 17:15 kvm_para.h
+-rw-r--r-- 1 root root   5635 Dec  8 17:15 l2tp.h
+-rw-r--r-- 1 root root   8289 Dec  8 17:15 libc-compat.h
+-rw-r--r-- 1 root root   4877 Dec  8 17:15 lightnvm.h
+-rw-r--r-- 1 root root    937 Dec  8 17:15 limits.h
+-rw-r--r-- 1 root root   5062 Dec  8 17:15 lirc.h
+-rw-r--r-- 1 root root   3164 Dec  8 17:15 llc.h
+-rw-r--r-- 1 root root   2520 Dec  8 17:15 loop.h
+-rw-r--r-- 1 root root   3875 Dec  8 17:15 lp.h
+-rw-r--r-- 1 root root   1273 Dec  8 17:15 lwtunnel.h
+-rw-r--r-- 1 root root   3401 Dec  8 17:15 magic.h
+-rw-r--r-- 1 root root   4713 Dec  8 17:15 major.h
+-rw-r--r-- 1 root root   7251 Dec  8 17:15 map_to_7segment.h
+-rw-r--r-- 1 root root   1464 Dec  8 17:15 matroxfb.h
+-rw-r--r-- 1 root root   1035 Dec  8 17:15 max2175.h
+-rw-r--r-- 1 root root  14131 Dec  8 17:15 mdio.h
+-rw-r--r-- 1 root root   6411 Dec  8 17:15 media-bus-format.h
+-rw-r--r-- 1 root root  12534 Dec  8 17:15 media.h
+-rw-r--r-- 1 root root   4815 Dec  8 17:15 mei.h
+-rw-r--r-- 1 root root   4221 Dec  8 17:15 membarrier.h
+-rw-r--r-- 1 root root   1228 Dec  8 17:15 memfd.h
+-rw-r--r-- 1 root root   2154 Dec  8 17:15 mempolicy.h
+-rw-r--r-- 1 root root   2529 Dec  8 17:15 meye.h
+-rw-r--r-- 1 root root   6519 Dec  8 17:15 mic_common.h
+-rw-r--r-- 1 root root   2252 Dec  8 17:15 mic_ioctl.h
+-rw-r--r-- 1 root root   8076 Dec  8 17:15 mii.h
+-rw-r--r-- 1 root root   2122 Dec  8 17:15 minix_fs.h
+-rw-r--r-- 1 root root   1242 Dec  8 17:15 mman.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 mmc
+-rw-r--r-- 1 root root   2117 Dec  8 17:15 mmtimer.h
+-rw-r--r-- 1 root root    255 Dec  8 17:15 module.h
+-rw-r--r-- 1 root root   2302 Dec  8 17:15 mpls.h
+-rw-r--r-- 1 root root    761 Dec  8 17:15 mpls_iptunnel.h
+-rw-r--r-- 1 root root   2201 Dec  8 17:15 mqueue.h
+-rw-r--r-- 1 root root   5427 Dec  8 17:15 mroute.h
+-rw-r--r-- 1 root root   4576 Dec  8 17:15 mroute6.h
+-rw-r--r-- 1 root root   6963 Dec  8 17:15 msdos_fs.h
+-rw-r--r-- 1 root root   3350 Dec  8 17:15 msg.h
+-rw-r--r-- 1 root root   8175 Dec  8 17:15 mtio.h
+-rw-r--r-- 1 root root   2410 Dec  8 17:15 n_r3964.h
+-rw-r--r-- 1 root root   2378 Dec  8 17:15 nbd-netlink.h
+-rw-r--r-- 1 root root   3024 Dec  8 17:15 nbd.h
+-rw-r--r-- 1 root root   5118 Dec  8 17:15 ncp.h
+-rw-r--r-- 1 root root   3416 Dec  8 17:15 ncp_fs.h
+-rw-r--r-- 1 root root   2174 Dec  8 17:15 ncp_mount.h
+-rw-r--r-- 1 root root    714 Dec  8 17:15 ncp_no.h
+-rw-r--r-- 1 root root   3880 Dec  8 17:15 ncsi.h
+-rw-r--r-- 1 root root   8173 Dec  8 17:15 ndctl.h
+-rw-r--r-- 1 root root   4340 Dec  8 17:15 neighbour.h
+-rw-r--r-- 1 root root   2085 Dec  8 17:15 net.h
+-rw-r--r-- 1 root root   1154 Dec  8 17:15 net_dropmon.h
+-rw-r--r-- 1 root root    672 Dec  8 17:15 net_namespace.h
+-rw-r--r-- 1 root root   4435 Dec  8 17:15 net_tstamp.h
+-rw-r--r-- 1 root root    589 Dec  8 17:15 netconf.h
+-rw-r--r-- 1 root root   2253 Dec  8 17:15 netdevice.h
+drwxr-xr-x 3 root root  12288 Jan  5 06:13 netfilter
+-rw-r--r-- 1 root root   1820 Dec  8 17:15 netfilter.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 netfilter_arp
+-rw-r--r-- 1 root root    444 Dec  8 17:15 netfilter_arp.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 netfilter_bridge
+-rw-r--r-- 1 root root    901 Dec  8 17:15 netfilter_bridge.h
+-rw-r--r-- 1 root root   1935 Dec  8 17:15 netfilter_decnet.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 netfilter_ipv4
+-rw-r--r-- 1 root root   2132 Dec  8 17:15 netfilter_ipv4.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 netfilter_ipv6
+-rw-r--r-- 1 root root   2151 Dec  8 17:15 netfilter_ipv6.h
+-rw-r--r-- 1 root root   7789 Dec  8 17:15 netlink.h
+-rw-r--r-- 1 root root   1524 Dec  8 17:15 netlink_diag.h
+-rw-r--r-- 1 root root    807 Dec  8 17:15 netrom.h
+-rw-r--r-- 1 root root  11209 Dec  8 17:15 nfc.h
+-rw-r--r-- 1 root root   4472 Dec  8 17:15 nfs.h
+-rw-r--r-- 1 root root   1468 Dec  8 17:15 nfs2.h
+-rw-r--r-- 1 root root   2359 Dec  8 17:15 nfs3.h
+-rw-r--r-- 1 root root   6432 Dec  8 17:15 nfs4.h
+-rw-r--r-- 1 root root   1932 Dec  8 17:15 nfs4_mount.h
+-rw-r--r-- 1 root root   1608 Dec  8 17:15 nfs_fs.h
+-rw-r--r-- 1 root root   2243 Dec  8 17:15 nfs_idmap.h
+-rw-r--r-- 1 root root   2438 Dec  8 17:15 nfs_mount.h
+-rw-r--r-- 1 root root    668 Dec  8 17:15 nfsacl.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 nfsd
+-rw-r--r-- 1 root root   7589 Dec  8 17:15 nilfs2_api.h
+-rw-r--r-- 1 root root  18085 Dec  8 17:15 nilfs2_ondisk.h
+-rw-r--r-- 1 root root 234260 Dec  8 17:15 nl80211.h
+-rw-r--r-- 1 root root    639 Dec  8 17:15 nsfs.h
+-rw-r--r-- 1 root root   8574 Dec  8 17:15 nubus.h
+-rw-r--r-- 1 root root   1648 Dec  8 17:15 nvme_ioctl.h
+-rw-r--r-- 1 root root    532 Dec  8 17:15 nvram.h
+-rw-r--r-- 1 root root  20740 Dec  8 17:15 omap3isp.h
+-rw-r--r-- 1 root root   5918 Dec  8 17:15 omapfb.h
+-rw-r--r-- 1 root root    511 Dec  8 17:15 oom.h
+-rw-r--r-- 1 root root  35305 Dec  8 17:15 openvswitch.h
+-rw-r--r-- 1 root root   1672 Dec  8 17:15 packet_diag.h
+-rw-r--r-- 1 root root    141 Dec  8 17:15 param.h
+-rw-r--r-- 1 root root   3644 Dec  8 17:15 parport.h
+-rw-r--r-- 1 root root    892 Dec  8 17:15 patchkey.h
+-rw-r--r-- 1 root root   1380 Dec  8 17:15 pci.h
+-rw-r--r-- 1 root root  54036 Dec  8 17:15 pci_regs.h
+-rw-r--r-- 1 root root    579 Dec  8 17:15 pcitest.h
+-rw-r--r-- 1 root root  31523 Dec  8 17:15 perf_event.h
+-rw-r--r-- 1 root root   2097 Dec  8 17:15 personality.h
+-rw-r--r-- 1 root root  10569 Dec  8 17:15 pfkeyv2.h
+-rw-r--r-- 1 root root   2346 Dec  8 17:15 pg.h
+-rw-r--r-- 1 root root   1654 Dec  8 17:15 phantom.h
+-rw-r--r-- 1 root root   4677 Dec  8 17:15 phonet.h
+-rw-r--r-- 1 root root  12006 Dec  8 17:15 pkt_cls.h
+-rw-r--r-- 1 root root  21365 Dec  8 17:15 pkt_sched.h
+-rw-r--r-- 1 root root   2687 Dec  8 17:15 pktcdvd.h
+-rw-r--r-- 1 root root   5319 Dec  8 17:15 pmu.h
+-rw-r--r-- 1 root root     22 Dec  8 17:15 poll.h
+-rw-r--r-- 1 root root   1254 Dec  8 17:15 posix_acl.h
+-rw-r--r-- 1 root root   1115 Dec  8 17:15 posix_acl_xattr.h
+-rw-r--r-- 1 root root   1098 Dec  8 17:15 posix_types.h
+-rw-r--r-- 1 root root   3211 Dec  8 17:15 ppdev.h
+-rw-r--r-- 1 root root   2527 Dec  8 17:15 ppp-comp.h
+-rw-r--r-- 1 root root   5480 Dec  8 17:15 ppp-ioctl.h
+-rw-r--r-- 1 root root   5107 Dec  8 17:15 ppp_defs.h
+-rw-r--r-- 1 root root   4734 Dec  8 17:15 pps.h
+-rw-r--r-- 1 root root   1073 Dec  8 17:15 pr.h
+-rw-r--r-- 1 root root   7919 Dec  8 17:15 prctl.h
+-rw-r--r-- 1 root root    798 Dec  8 17:15 psample.h
+-rw-r--r-- 1 root root   4055 Dec  8 17:15 psci.h
+-rw-r--r-- 1 root root   4868 Dec  8 17:15 ptp_clock.h
+-rw-r--r-- 1 root root   3337 Dec  8 17:15 ptrace.h
+-rw-r--r-- 1 root root   2328 Dec  8 17:15 qnx4_fs.h
+-rw-r--r-- 1 root root    624 Dec  8 17:15 qnxtypes.h
+-rw-r--r-- 1 root root    893 Dec  8 17:15 qrtr.h
+-rw-r--r-- 1 root root   6291 Dec  8 17:15 quota.h
+-rw-r--r-- 1 root root    360 Dec  8 17:15 radeonfb.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 raid
+-rw-r--r-- 1 root root   1370 Dec  8 17:15 random.h
+-rw-r--r-- 1 root root    365 Dec  8 17:15 raw.h
+-rw-r--r-- 1 root root   9126 Dec  8 17:15 rds.h
+-rw-r--r-- 1 root root   1343 Dec  8 17:15 reboot.h
+-rw-r--r-- 1 root root    775 Dec  8 17:15 reiserfs_fs.h
+-rw-r--r-- 1 root root    533 Dec  8 17:15 reiserfs_xattr.h
+-rw-r--r-- 1 root root   2347 Dec  8 17:15 resource.h
+-rw-r--r-- 1 root root   3682 Dec  8 17:15 rfkill.h
+-rw-r--r-- 1 root root   3248 Dec  8 17:15 rio_cm_cdev.h
+-rw-r--r-- 1 root root   9330 Dec  8 17:15 rio_mport_cdev.h
+-rw-r--r-- 1 root root   1238 Dec  8 17:15 romfs_fs.h
+-rw-r--r-- 1 root root   2232 Dec  8 17:15 rose.h
+-rw-r--r-- 1 root root   2332 Dec  8 17:15 route.h
+-rw-r--r-- 1 root root   1002 Dec  8 17:15 rpmsg.h
+-rw-r--r-- 1 root root   4009 Dec  8 17:15 rtc.h
+-rw-r--r-- 1 root root  17991 Dec  8 17:15 rtnetlink.h
+-rw-r--r-- 1 root root   5080 Dec  8 17:15 rxrpc.h
+-rw-r--r-- 1 root root   4597 Dec  8 17:15 scc.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 sched
+-rw-r--r-- 1 root root   2341 Dec  8 17:15 sched.h
+-rw-r--r-- 1 root root   6382 Dec  8 17:15 scif_ioctl.h
+-rw-r--r-- 1 root root   2479 Dec  8 17:15 screen_info.h
+-rw-r--r-- 1 root root  32735 Dec  8 17:15 sctp.h
+-rw-r--r-- 1 root root   2839 Dec  8 17:15 sdla.h
+-rw-r--r-- 1 root root   2257 Dec  8 17:15 seccomp.h
+-rw-r--r-- 1 root root   2704 Dec  8 17:15 securebits.h
+-rw-r--r-- 1 root root   3275 Dec  8 17:15 sed-opal.h
+-rw-r--r-- 1 root root   1170 Dec  8 17:15 seg6.h
+-rw-r--r-- 1 root root    589 Dec  8 17:15 seg6_genl.h
+-rw-r--r-- 1 root root    423 Dec  8 17:15 seg6_hmac.h
+-rw-r--r-- 1 root root    927 Dec  8 17:15 seg6_iptunnel.h
+-rw-r--r-- 1 root root   1803 Dec  8 17:15 seg6_local.h
+-rw-r--r-- 1 root root   1195 Dec  8 17:15 selinux_netlink.h
+-rw-r--r-- 1 root root   3019 Dec  8 17:15 sem.h
+-rw-r--r-- 1 root root   3421 Dec  8 17:15 serial.h
+-rw-r--r-- 1 root root   6245 Dec  8 17:15 serial_core.h
+-rw-r--r-- 1 root root  15552 Dec  8 17:15 serial_reg.h
+-rw-r--r-- 1 root root   2073 Dec  8 17:15 serio.h
+-rw-r--r-- 1 root root   3664 Dec  8 17:15 shm.h
+-rw-r--r-- 1 root root    388 Dec  8 17:15 signal.h
+-rw-r--r-- 1 root root   1159 Dec  8 17:15 signalfd.h
+-rw-r--r-- 1 root root    780 Dec  8 17:15 smc.h
+-rw-r--r-- 1 root root   2268 Dec  8 17:15 smc_diag.h
+-rw-r--r-- 1 root root   1058 Dec  8 17:15 smiapp.h
+-rw-r--r-- 1 root root  12642 Dec  8 17:15 snmp.h
+-rw-r--r-- 1 root root    727 Dec  8 17:15 sock_diag.h
+-rw-r--r-- 1 root root    801 Dec  8 17:15 socket.h
+-rw-r--r-- 1 root root   6106 Dec  8 17:15 sockios.h
+-rw-r--r-- 1 root root   2290 Dec  8 17:15 sonet.h
+-rw-r--r-- 1 root root   5309 Dec  8 17:15 sonypi.h
+-rw-r--r-- 1 root root   1237 Dec  8 17:15 sound.h
+-rw-r--r-- 1 root root  46038 Dec  8 17:15 soundcard.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 spi
+-rw-r--r-- 1 root root   6100 Dec  8 17:15 stat.h
+-rw-r--r-- 1 root root    131 Dec  8 17:15 stddef.h
+-rw-r--r-- 1 root root   1616 Dec  8 17:15 stm.h
+-rw-r--r-- 1 root root    238 Dec  8 17:15 string.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 sunrpc
+-rw-r--r-- 1 root root   1431 Dec  8 17:15 suspend_ioctls.h
+-rw-r--r-- 1 root root   6921 Dec  8 17:15 swab.h
+-rw-r--r-- 1 root root   4465 Dec  8 17:15 switchtec_ioctl.h
+-rw-r--r-- 1 root root   2883 Dec  8 17:15 sync_file.h
+-rw-r--r-- 1 root root   8985 Dec  8 17:15 synclink.h
+-rw-r--r-- 1 root root  26187 Dec  8 17:15 sysctl.h
+-rw-r--r-- 1 root root   1049 Dec  8 17:15 sysinfo.h
+-rw-r--r-- 1 root root   3768 Dec  8 17:15 target_core_user.h
+-rw-r--r-- 1 root root   7057 Dec  8 17:15 taskstats.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 tc_act
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 tc_ematch
+-rw-r--r-- 1 root root   8293 Dec  8 17:15 tcp.h
+-rw-r--r-- 1 root root   1549 Dec  8 17:15 tcp_metrics.h
+-rw-r--r-- 1 root root  11255 Dec  8 17:15 tee.h
+-rw-r--r-- 1 root root   9115 Dec  8 17:15 telephony.h
+-rw-r--r-- 1 root root    506 Dec  8 17:15 termios.h
+-rw-r--r-- 1 root root    924 Dec  8 17:15 thermal.h
+-rw-r--r-- 1 root root   1720 Dec  8 17:15 time.h
+-rw-r--r-- 1 root root    936 Dec  8 17:15 timerfd.h
+-rw-r--r-- 1 root root    278 Dec  8 17:15 times.h
+-rw-r--r-- 1 root root   6403 Dec  8 17:15 timex.h
+-rw-r--r-- 1 root root   1729 Dec  8 17:15 tiocl.h
+-rw-r--r-- 1 root root   7709 Dec  8 17:15 tipc.h
+-rw-r--r-- 1 root root  14775 Dec  8 17:15 tipc_config.h
+-rw-r--r-- 1 root root   8010 Dec  8 17:15 tipc_netlink.h
+-rw-r--r-- 1 root root   2723 Dec  8 17:15 tls.h
+-rw-r--r-- 1 root root   1930 Dec  8 17:15 toshiba.h
+-rw-r--r-- 1 root root   1585 Dec  8 17:15 tty.h
+-rw-r--r-- 1 root root   4526 Dec  8 17:15 tty_flags.h
+-rw-r--r-- 1 root root   1438 Dec  8 17:15 types.h
+-rw-r--r-- 1 root root    697 Dec  8 17:15 udf_fs_i.h
+-rw-r--r-- 1 root root   1463 Dec  8 17:15 udp.h
+-rw-r--r-- 1 root root   4648 Dec  8 17:15 uhid.h
+-rw-r--r-- 1 root root   9261 Dec  8 17:15 uinput.h
+-rw-r--r-- 1 root root    732 Dec  8 17:15 uio.h
+-rw-r--r-- 1 root root    798 Dec  8 17:15 uleds.h
+-rw-r--r-- 1 root root   4562 Dec  8 17:15 ultrasound.h
+-rw-r--r-- 1 root root    384 Dec  8 17:15 un.h
+-rw-r--r-- 1 root root    220 Dec  8 17:15 unistd.h
+-rw-r--r-- 1 root root   1253 Dec  8 17:15 unix_diag.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 usb
+-rw-r--r-- 1 root root   6928 Dec  8 17:15 usbdevice_fs.h
+-rw-r--r-- 1 root root    640 Dec  8 17:15 usbip.h
+-rw-r--r-- 1 root root   6811 Dec  8 17:15 userfaultfd.h
+-rw-r--r-- 1 root root   1516 Dec  8 17:15 userio.h
+-rw-r--r-- 1 root root    215 Dec  8 17:15 utime.h
+-rw-r--r-- 1 root root    669 Dec  8 17:15 utsname.h
+-rw-r--r-- 1 root root   1382 Dec  8 17:15 uuid.h
+-rw-r--r-- 1 root root   1705 Dec  8 17:15 uvcvideo.h
+-rw-r--r-- 1 root root   4177 Dec  8 17:15 v4l2-common.h
+-rw-r--r-- 1 root root  44984 Dec  8 17:15 v4l2-controls.h
+-rw-r--r-- 1 root root  31562 Dec  8 17:15 v4l2-dv-timings.h
+-rw-r--r-- 1 root root   5101 Dec  8 17:15 v4l2-mediabus.h
+-rw-r--r-- 1 root root   6096 Dec  8 17:15 v4l2-subdev.h
+-rw-r--r-- 1 root root     97 Dec  8 17:15 version.h
+-rw-r--r-- 1 root root    224 Dec  8 17:15 veth.h
+-rw-r--r-- 1 root root  26030 Dec  8 17:15 vfio.h
+-rw-r--r-- 1 root root    504 Dec  8 17:15 vfio_ccw.h
+-rw-r--r-- 1 root root   7305 Dec  8 17:15 vhost.h
+-rw-r--r-- 1 root root  85986 Dec  8 17:15 videodev2.h
+-rw-r--r-- 1 root root   2041 Dec  8 17:15 virtio_9p.h
+-rw-r--r-- 1 root root   3800 Dec  8 17:15 virtio_balloon.h
+-rw-r--r-- 1 root root   5319 Dec  8 17:15 virtio_blk.h
+-rw-r--r-- 1 root root   3420 Dec  8 17:15 virtio_config.h
+-rw-r--r-- 1 root root   3136 Dec  8 17:15 virtio_console.h
+-rw-r--r-- 1 root root  13874 Dec  8 17:15 virtio_crypto.h
+-rw-r--r-- 1 root root   8027 Dec  8 17:15 virtio_gpu.h
+-rw-r--r-- 1 root root   2429 Dec  8 17:15 virtio_ids.h
+-rw-r--r-- 1 root root   2506 Dec  8 17:15 virtio_input.h
+-rw-r--r-- 1 root root   4586 Dec  8 17:15 virtio_mmio.h
+-rw-r--r-- 1 root root  10131 Dec  8 17:15 virtio_net.h
+-rw-r--r-- 1 root root   7079 Dec  8 17:15 virtio_pci.h
+-rw-r--r-- 1 root root   6336 Dec  8 17:15 virtio_ring.h
+-rw-r--r-- 1 root root    265 Dec  8 17:15 virtio_rng.h
+-rw-r--r-- 1 root root   6035 Dec  8 17:15 virtio_scsi.h
+-rw-r--r-- 1 root root   2153 Dec  8 17:15 virtio_types.h
+-rw-r--r-- 1 root root   3086 Dec  8 17:15 virtio_vsock.h
+-rw-r--r-- 1 root root   5314 Dec  8 17:15 vm_sockets.h
+-rw-r--r-- 1 root root    963 Dec  8 17:15 vm_sockets_diag.h
+-rw-r--r-- 1 root root   1885 Dec  8 17:15 vsockmon.h
+-rw-r--r-- 1 root root   3059 Dec  8 17:15 vt.h
+-rw-r--r-- 1 root root   1719 Dec  8 17:15 vtpm_proxy.h
+-rw-r--r-- 1 root root    663 Dec  8 17:15 wait.h
+-rw-r--r-- 1 root root    453 Dec  8 17:15 wanrouter.h
+-rw-r--r-- 1 root root   2335 Dec  8 17:15 watchdog.h
+drwxr-xr-x 2 root root   4096 Jan  5 06:13 wimax
+-rw-r--r-- 1 root root   8371 Dec  8 17:15 wimax.h
+-rw-r--r-- 1 root root  42715 Dec  8 17:15 wireless.h
+-rw-r--r-- 1 root root   1886 Dec  8 17:15 wmi.h
+-rw-r--r-- 1 root root   3562 Dec  8 17:15 x25.h
+-rw-r--r-- 1 root root   2860 Dec  8 17:15 xattr.h
+-rw-r--r-- 1 root root  11616 Dec  8 17:15 xfrm.h
+-rw-r--r-- 1 root root   2976 Dec  8 17:15 xilinx-v4l2-controls.h
+-rw-r--r-- 1 root root   3296 Dec  8 17:15 zorro.h
+-rw-r--r-- 1 root root  29963 Dec  8 17:15 zorro_ids.h
+
+/usr/include/linux/android:
+total 16
+-rw-r--r-- 1 root root 13687 Dec  8 17:15 binder.h
+
+/usr/include/linux/byteorder:
+total 8
+-rw-r--r-- 1 root root 3542 Dec  8 17:15 big_endian.h
+-rw-r--r-- 1 root root 3611 Dec  8 17:15 little_endian.h
+
+/usr/include/linux/caif:
+total 12
+-rw-r--r-- 1 root root 5832 Dec  8 17:15 caif_socket.h
+-rw-r--r-- 1 root root 1041 Dec  8 17:15 if_caif.h
+
+/usr/include/linux/can:
+total 36
+-rw-r--r-- 1 root root 4111 Dec  8 17:15 bcm.h
+-rw-r--r-- 1 root root 6605 Dec  8 17:15 error.h
+-rw-r--r-- 1 root root 7438 Dec  8 17:15 gw.h
+-rw-r--r-- 1 root root 3966 Dec  8 17:15 netlink.h
+-rw-r--r-- 1 root root 2853 Dec  8 17:15 raw.h
+-rw-r--r-- 1 root root  227 Dec  8 17:15 vxcan.h
+
+/usr/include/linux/cifs:
+total 4
+-rw-r--r-- 1 root root 1225 Dec  8 17:15 cifs_mount.h
+
+/usr/include/linux/dvb:
+total 84
+-rw-r--r-- 1 root root  4959 Dec  8 17:15 audio.h
+-rw-r--r-- 1 root root  4247 Dec  8 17:15 ca.h
+-rw-r--r-- 1 root root  6763 Dec  8 17:15 dmx.h
+-rw-r--r-- 1 root root 29085 Dec  8 17:15 frontend.h
+-rw-r--r-- 1 root root  2127 Dec  8 17:15 net.h
+-rw-r--r-- 1 root root  5761 Dec  8 17:15 osd.h
+-rw-r--r-- 1 root root  1082 Dec  8 17:15 version.h
+-rw-r--r-- 1 root root  8820 Dec  8 17:15 video.h
+
+/usr/include/linux/genwqe:
+total 20
+-rw-r--r-- 1 root root 17802 Dec  8 17:15 genwqe_card.h
+
+/usr/include/linux/hdlc:
+total 4
+-rw-r--r-- 1 root root 2657 Dec  8 17:15 ioctl.h
+
+/usr/include/linux/hsi:
+total 8
+-rw-r--r-- 1 root root 3656 Dec  8 17:15 cs-protocol.h
+-rw-r--r-- 1 root root 1895 Dec  8 17:15 hsi_char.h
+
+/usr/include/linux/iio:
+total 8
+-rw-r--r-- 1 root root 1390 Dec  8 17:15 events.h
+-rw-r--r-- 1 root root 1945 Dec  8 17:15 types.h
+
+/usr/include/linux/isdn:
+total 8
+-rw-r--r-- 1 root root 4783 Dec  8 17:15 capicmd.h
+
+/usr/include/linux/mmc:
+total 4
+-rw-r--r-- 1 root root 2310 Dec  8 17:15 ioctl.h
+
+/usr/include/linux/netfilter:
+total 400
+drwxr-xr-x 2 root root  4096 Jan  5 06:13 ipset
+-rw-r--r-- 1 root root  4248 Dec  8 17:15 nf_conntrack_common.h
+-rw-r--r-- 1 root root   438 Dec  8 17:15 nf_conntrack_ftp.h
+-rw-r--r-- 1 root root   576 Dec  8 17:15 nf_conntrack_sctp.h
+-rw-r--r-- 1 root root  1336 Dec  8 17:15 nf_conntrack_tcp.h
+-rw-r--r-- 1 root root   896 Dec  8 17:15 nf_conntrack_tuple_common.h
+-rw-r--r-- 1 root root   538 Dec  8 17:15 nf_log.h
+-rw-r--r-- 1 root root  1214 Dec  8 17:15 nf_nat.h
+-rw-r--r-- 1 root root 40174 Dec  8 17:15 nf_tables.h
+-rw-r--r-- 1 root root   731 Dec  8 17:15 nf_tables_compat.h
+-rw-r--r-- 1 root root  2428 Dec  8 17:15 nfnetlink.h
+-rw-r--r-- 1 root root   900 Dec  8 17:15 nfnetlink_acct.h
+-rw-r--r-- 1 root root  2444 Dec  8 17:15 nfnetlink_compat.h
+-rw-r--r-- 1 root root  5699 Dec  8 17:15 nfnetlink_conntrack.h
+-rw-r--r-- 1 root root  1206 Dec  8 17:15 nfnetlink_cthelper.h
+-rw-r--r-- 1 root root  2930 Dec  8 17:15 nfnetlink_cttimeout.h
+-rw-r--r-- 1 root root  2799 Dec  8 17:15 nfnetlink_log.h
+-rw-r--r-- 1 root root  3499 Dec  8 17:15 nfnetlink_queue.h
+-rw-r--r-- 1 root root  4466 Dec  8 17:15 x_tables.h
+-rw-r--r-- 1 root root   718 Dec  8 17:15 xt_AUDIT.h
+-rw-r--r-- 1 root root   563 Dec  8 17:15 xt_CHECKSUM.h
+-rw-r--r-- 1 root root   217 Dec  8 17:15 xt_CLASSIFY.h
+-rw-r--r-- 1 root root   199 Dec  8 17:15 xt_CONNMARK.h
+-rw-r--r-- 1 root root   301 Dec  8 17:15 xt_CONNSECMARK.h
+-rw-r--r-- 1 root root   853 Dec  8 17:15 xt_CT.h
+-rw-r--r-- 1 root root   697 Dec  8 17:15 xt_DSCP.h
+-rw-r--r-- 1 root root   933 Dec  8 17:15 xt_HMARK.h
+-rw-r--r-- 1 root root  1393 Dec  8 17:15 xt_IDLETIMER.h
+-rw-r--r-- 1 root root   470 Dec  8 17:15 xt_LED.h
+-rw-r--r-- 1 root root   642 Dec  8 17:15 xt_LOG.h
+-rw-r--r-- 1 root root   184 Dec  8 17:15 xt_MARK.h
+-rw-r--r-- 1 root root   556 Dec  8 17:15 xt_NFLOG.h
+-rw-r--r-- 1 root root   779 Dec  8 17:15 xt_NFQUEUE.h
+-rw-r--r-- 1 root root   390 Dec  8 17:15 xt_RATEEST.h
+-rw-r--r-- 1 root root   648 Dec  8 17:15 xt_SECMARK.h
+-rw-r--r-- 1 root root   419 Dec  8 17:15 xt_SYNPROXY.h
+-rw-r--r-- 1 root root   235 Dec  8 17:15 xt_TCPMSS.h
+-rw-r--r-- 1 root root   407 Dec  8 17:15 xt_TCPOPTSTRIP.h
+-rw-r--r-- 1 root root   333 Dec  8 17:15 xt_TEE.h
+-rw-r--r-- 1 root root   575 Dec  8 17:15 xt_TPROXY.h
+-rw-r--r-- 1 root root  1084 Dec  8 17:15 xt_addrtype.h
+-rw-r--r-- 1 root root   935 Dec  8 17:15 xt_bpf.h
+-rw-r--r-- 1 root root   740 Dec  8 17:15 xt_cgroup.h
+-rw-r--r-- 1 root root   374 Dec  8 17:15 xt_cluster.h
+-rw-r--r-- 1 root root   230 Dec  8 17:15 xt_comment.h
+-rw-r--r-- 1 root root   577 Dec  8 17:15 xt_connbytes.h
+-rw-r--r-- 1 root root   280 Dec  8 17:15 xt_connlabel.h
+-rw-r--r-- 1 root root   575 Dec  8 17:15 xt_connlimit.h
+-rw-r--r-- 1 root root   755 Dec  8 17:15 xt_connmark.h
+-rw-r--r-- 1 root root  2557 Dec  8 17:15 xt_conntrack.h
+-rw-r--r-- 1 root root   199 Dec  8 17:15 xt_cpu.h
+-rw-r--r-- 1 root root   483 Dec  8 17:15 xt_dccp.h
+-rw-r--r-- 1 root root   429 Dec  8 17:15 xt_devgroup.h
+-rw-r--r-- 1 root root   701 Dec  8 17:15 xt_dscp.h
+-rw-r--r-- 1 root root   736 Dec  8 17:15 xt_ecn.h
+-rw-r--r-- 1 root root   418 Dec  8 17:15 xt_esp.h
+-rw-r--r-- 1 root root  3256 Dec  8 17:15 xt_hashlimit.h
+-rw-r--r-- 1 root root   188 Dec  8 17:15 xt_helper.h
+-rw-r--r-- 1 root root   485 Dec  8 17:15 xt_ipcomp.h
+-rw-r--r-- 1 root root   581 Dec  8 17:15 xt_iprange.h
+-rw-r--r-- 1 root root   680 Dec  8 17:15 xt_ipvs.h
+-rw-r--r-- 1 root root   739 Dec  8 17:15 xt_l2tp.h
+-rw-r--r-- 1 root root   221 Dec  8 17:15 xt_length.h
+-rw-r--r-- 1 root root   673 Dec  8 17:15 xt_limit.h
+-rw-r--r-- 1 root root   227 Dec  8 17:15 xt_mac.h
+-rw-r--r-- 1 root root   260 Dec  8 17:15 xt_mark.h
+-rw-r--r-- 1 root root   721 Dec  8 17:15 xt_multiport.h
+-rw-r--r-- 1 root root   421 Dec  8 17:15 xt_nfacct.h
+-rw-r--r-- 1 root root  3390 Dec  8 17:15 xt_osf.h
+-rw-r--r-- 1 root root   369 Dec  8 17:15 xt_owner.h
+-rw-r--r-- 1 root root   553 Dec  8 17:15 xt_physdev.h
+-rw-r--r-- 1 root root   188 Dec  8 17:15 xt_pkttype.h
+-rw-r--r-- 1 root root  1022 Dec  8 17:15 xt_policy.h
+-rw-r--r-- 1 root root   400 Dec  8 17:15 xt_quota.h
+-rw-r--r-- 1 root root   859 Dec  8 17:15 xt_rateest.h
+-rw-r--r-- 1 root root   220 Dec  8 17:15 xt_realm.h
+-rw-r--r-- 1 root root  1058 Dec  8 17:15 xt_recent.h
+-rw-r--r-- 1 root root   320 Dec  8 17:15 xt_rpfilter.h
+-rw-r--r-- 1 root root  2329 Dec  8 17:15 xt_sctp.h
+-rw-r--r-- 1 root root  1827 Dec  8 17:15 xt_set.h
+-rw-r--r-- 1 root root   640 Dec  8 17:15 xt_socket.h
+-rw-r--r-- 1 root root   331 Dec  8 17:15 xt_state.h
+-rw-r--r-- 1 root root   716 Dec  8 17:15 xt_statistic.h
+-rw-r--r-- 1 root root   664 Dec  8 17:15 xt_string.h
+-rw-r--r-- 1 root root   253 Dec  8 17:15 xt_tcpmss.h
+-rw-r--r-- 1 root root  1250 Dec  8 17:15 xt_tcpudp.h
+-rw-r--r-- 1 root root   730 Dec  8 17:15 xt_time.h
+-rw-r--r-- 1 root root   752 Dec  8 17:15 xt_u32.h
+
+/usr/include/linux/netfilter/ipset:
+total 24
+-rw-r--r-- 1 root root 8879 Dec  8 17:15 ip_set.h
+-rw-r--r-- 1 root root  428 Dec  8 17:15 ip_set_bitmap.h
+-rw-r--r-- 1 root root  578 Dec  8 17:15 ip_set_hash.h
+-rw-r--r-- 1 root root  609 Dec  8 17:15 ip_set_list.h
+
+/usr/include/linux/netfilter_arp:
+total 12
+-rw-r--r-- 1 root root 5999 Dec  8 17:15 arp_tables.h
+-rw-r--r-- 1 root root  606 Dec  8 17:15 arpt_mangle.h
+
+/usr/include/linux/netfilter_bridge:
+total 76
+-rw-r--r-- 1 root root 1274 Dec  8 17:15 ebt_802_3.h
+-rw-r--r-- 1 root root 2043 Dec  8 17:15 ebt_among.h
+-rw-r--r-- 1 root root  900 Dec  8 17:15 ebt_arp.h
+-rw-r--r-- 1 root root  289 Dec  8 17:15 ebt_arpreply.h
+-rw-r--r-- 1 root root  920 Dec  8 17:15 ebt_ip.h
+-rw-r--r-- 1 root root 1056 Dec  8 17:15 ebt_ip6.h
+-rw-r--r-- 1 root root  616 Dec  8 17:15 ebt_limit.h
+-rw-r--r-- 1 root root  538 Dec  8 17:15 ebt_log.h
+-rw-r--r-- 1 root root  388 Dec  8 17:15 ebt_mark_m.h
+-rw-r--r-- 1 root root  831 Dec  8 17:15 ebt_mark_t.h
+-rw-r--r-- 1 root root  387 Dec  8 17:15 ebt_nat.h
+-rw-r--r-- 1 root root  510 Dec  8 17:15 ebt_nflog.h
+-rw-r--r-- 1 root root  267 Dec  8 17:15 ebt_pkttype.h
+-rw-r--r-- 1 root root  286 Dec  8 17:15 ebt_redirect.h
+-rw-r--r-- 1 root root 1110 Dec  8 17:15 ebt_stp.h
+-rw-r--r-- 1 root root  719 Dec  8 17:15 ebt_vlan.h
+-rw-r--r-- 1 root root 9041 Dec  8 17:15 ebtables.h
+
+/usr/include/linux/netfilter_ipv4:
+total 40
+-rw-r--r-- 1 root root 6647 Dec  8 17:15 ip_tables.h
+-rw-r--r-- 1 root root  821 Dec  8 17:15 ipt_CLUSTERIP.h
+-rw-r--r-- 1 root root  901 Dec  8 17:15 ipt_ECN.h
+-rw-r--r-- 1 root root  722 Dec  8 17:15 ipt_LOG.h
+-rw-r--r-- 1 root root  468 Dec  8 17:15 ipt_REJECT.h
+-rw-r--r-- 1 root root  375 Dec  8 17:15 ipt_TTL.h
+-rw-r--r-- 1 root root  425 Dec  8 17:15 ipt_ah.h
+-rw-r--r-- 1 root root  431 Dec  8 17:15 ipt_ecn.h
+-rw-r--r-- 1 root root  431 Dec  8 17:15 ipt_ttl.h
+
+/usr/include/linux/netfilter_ipv6:
+total 52
+-rw-r--r-- 1 root root 8011 Dec  8 17:15 ip6_tables.h
+-rw-r--r-- 1 root root  408 Dec  8 17:15 ip6t_HL.h
+-rw-r--r-- 1 root root  730 Dec  8 17:15 ip6t_LOG.h
+-rw-r--r-- 1 root root  400 Dec  8 17:15 ip6t_NPT.h
+-rw-r--r-- 1 root root  470 Dec  8 17:15 ip6t_REJECT.h
+-rw-r--r-- 1 root root  657 Dec  8 17:15 ip6t_ah.h
+-rw-r--r-- 1 root root  744 Dec  8 17:15 ip6t_frag.h
+-rw-r--r-- 1 root root  458 Dec  8 17:15 ip6t_hl.h
+-rw-r--r-- 1 root root  645 Dec  8 17:15 ip6t_ipv6header.h
+-rw-r--r-- 1 root root  439 Dec  8 17:15 ip6t_mh.h
+-rw-r--r-- 1 root root  649 Dec  8 17:15 ip6t_opts.h
+-rw-r--r-- 1 root root  985 Dec  8 17:15 ip6t_rt.h
+
+/usr/include/linux/nfsd:
+total 20
+-rw-r--r-- 1 root root 1921 Dec  8 17:15 cld.h
+-rw-r--r-- 1 root root  736 Dec  8 17:15 debug.h
+-rw-r--r-- 1 root root 2113 Dec  8 17:15 export.h
+-rw-r--r-- 1 root root 3517 Dec  8 17:15 nfsfh.h
+-rw-r--r-- 1 root root  421 Dec  8 17:15 stats.h
+
+/usr/include/linux/raid:
+total 24
+-rw-r--r-- 1 root root 16161 Dec  8 17:15 md_p.h
+-rw-r--r-- 1 root root  4484 Dec  8 17:15 md_u.h
+
+/usr/include/linux/sched:
+total 4
+-rw-r--r-- 1 root root 2688 Dec  8 17:15 types.h
+
+/usr/include/linux/spi:
+total 8
+-rw-r--r-- 1 root root 5076 Dec  8 17:15 spidev.h
+
+/usr/include/linux/sunrpc:
+total 4
+-rw-r--r-- 1 root root 1144 Dec  8 17:15 debug.h
+
+/usr/include/linux/tc_act:
+total 60
+-rw-r--r-- 1 root root  788 Dec  8 17:15 tc_bpf.h
+-rw-r--r-- 1 root root  419 Dec  8 17:15 tc_connmark.h
+-rw-r--r-- 1 root root  669 Dec  8 17:15 tc_csum.h
+-rw-r--r-- 1 root root  322 Dec  8 17:15 tc_defact.h
+-rw-r--r-- 1 root root  649 Dec  8 17:15 tc_gact.h
+-rw-r--r-- 1 root root  623 Dec  8 17:15 tc_ife.h
+-rw-r--r-- 1 root root  460 Dec  8 17:15 tc_ipt.h
+-rw-r--r-- 1 root root  753 Dec  8 17:15 tc_mirred.h
+-rw-r--r-- 1 root root  447 Dec  8 17:15 tc_nat.h
+-rw-r--r-- 1 root root 1707 Dec  8 17:15 tc_pedit.h
+-rw-r--r-- 1 root root  483 Dec  8 17:15 tc_sample.h
+-rw-r--r-- 1 root root 1413 Dec  8 17:15 tc_skbedit.h
+-rw-r--r-- 1 root root  842 Dec  8 17:15 tc_skbmod.h
+-rw-r--r-- 1 root root 1180 Dec  8 17:15 tc_tunnel_key.h
+-rw-r--r-- 1 root root  841 Dec  8 17:15 tc_vlan.h
+
+/usr/include/linux/tc_ematch:
+total 16
+-rw-r--r-- 1 root root  414 Dec  8 17:15 tc_em_cmp.h
+-rw-r--r-- 1 root root 2116 Dec  8 17:15 tc_em_meta.h
+-rw-r--r-- 1 root root  255 Dec  8 17:15 tc_em_nbyte.h
+-rw-r--r-- 1 root root  384 Dec  8 17:15 tc_em_text.h
+
+/usr/include/linux/usb:
+total 140
+-rw-r--r-- 1 root root 17126 Dec  8 17:15 audio.h
+-rw-r--r-- 1 root root   739 Dec  8 17:15 cdc-wdm.h
+-rw-r--r-- 1 root root 12962 Dec  8 17:15 cdc.h
+-rw-r--r-- 1 root root  8987 Dec  8 17:15 ch11.h
+-rw-r--r-- 1 root root 38820 Dec  8 17:15 ch9.h
+-rw-r--r-- 1 root root   598 Dec  8 17:15 charger.h
+-rw-r--r-- 1 root root 10370 Dec  8 17:15 functionfs.h
+-rw-r--r-- 1 root root  1385 Dec  8 17:15 g_printer.h
+-rw-r--r-- 1 root root  2818 Dec  8 17:15 gadgetfs.h
+-rw-r--r-- 1 root root  3434 Dec  8 17:15 midi.h
+-rw-r--r-- 1 root root  2785 Dec  8 17:15 tmc.h
+-rw-r--r-- 1 root root 16212 Dec  8 17:15 video.h
+
+/usr/include/linux/wimax:
+total 16
+-rw-r--r-- 1 root root 15930 Dec  8 17:15 i2400m.h
+
+/usr/include/misc:
+total 8
+-rw-r--r-- 1 root root 3936 Dec  8 17:15 cxl.h
+-rw-r--r-- 1 root root 1926 Dec  8 17:15 ocxl.h
+
+/usr/include/mtd:
+total 44
+-rw-r--r-- 1 root root  1644 Dec  8 17:15 inftl-user.h
+-rw-r--r-- 1 root root  9717 Dec  8 17:15 mtd-abi.h
+-rw-r--r-- 1 root root  1242 Dec  8 17:15 mtd-user.h
+-rw-r--r-- 1 root root  2116 Dec  8 17:15 nftl-user.h
+-rw-r--r-- 1 root root 17674 Dec  8 17:15 ubi-user.h
+
+/usr/include/net:
+total 56
+-rw-r--r-- 1 root root 3135 Dec  7  2020 ethernet.h
+-rw-r--r-- 1 root root 6981 Dec  7  2020 if.h
+-rw-r--r-- 1 root root 7131 Dec  7  2020 if_arp.h
+-rw-r--r-- 1 root root 1261 Dec  7  2020 if_packet.h
+-rw-r--r-- 1 root root 6714 Dec  7  2020 if_ppp.h
+-rw-r--r-- 1 root root 1624 Dec  7  2020 if_shaper.h
+-rw-r--r-- 1 root root  932 Dec  7  2020 if_slip.h
+-rw-r--r-- 1 root root   28 Dec  7  2020 ppp-comp.h
+-rw-r--r-- 1 root root  162 Dec  7  2020 ppp_defs.h
+-rw-r--r-- 1 root root 4703 Dec  7  2020 route.h
+
+/usr/include/netash:
+total 4
+-rw-r--r-- 1 root root 1362 Dec  7  2020 ash.h
+
+/usr/include/netatalk:
+total 4
+-rw-r--r-- 1 root root 1028 Dec  7  2020 at.h
+
+/usr/include/netax25:
+total 8
+-rw-r--r-- 1 root root 4809 Dec  7  2020 ax25.h
+
+/usr/include/neteconet:
+total 4
+-rw-r--r-- 1 root root 1667 Dec  7  2020 ec.h
+
+/usr/include/netinet:
+total 112
+-rw-r--r-- 1 root root  1984 Dec  7  2020 ether.h
+-rw-r--r-- 1 root root 11514 Dec  7  2020 icmp6.h
+-rw-r--r-- 1 root root  3975 Dec  7  2020 if_ether.h
+-rw-r--r-- 1 root root  1185 Dec  7  2020 if_fddi.h
+-rw-r--r-- 1 root root  3691 Dec  7  2020 if_tr.h
+-rw-r--r-- 1 root root  4610 Dec  7  2020 igmp.h
+-rw-r--r-- 1 root root 21625 Dec  7  2020 in.h
+-rw-r--r-- 1 root root  1493 Dec  7  2020 in_systm.h
+-rw-r--r-- 1 root root  9435 Dec  7  2020 ip.h
+-rw-r--r-- 1 root root  5393 Dec  7  2020 ip6.h
+-rw-r--r-- 1 root root 10126 Dec  7  2020 ip_icmp.h
+-rw-r--r-- 1 root root  9780 Dec  7  2020 tcp.h
+-rw-r--r-- 1 root root  3646 Dec  7  2020 udp.h
+
+/usr/include/netipx:
+total 4
+-rw-r--r-- 1 root root 2899 Dec  7  2020 ipx.h
+
+/usr/include/netiucv:
+total 4
+-rw-r--r-- 1 root root 1593 Dec  7  2020 iucv.h
+
+/usr/include/netpacket:
+total 4
+-rw-r--r-- 1 root root 2402 Dec  7  2020 packet.h
+
+/usr/include/netrom:
+total 4
+-rw-r--r-- 1 root root 2225 Dec  7  2020 netrom.h
+
+/usr/include/netrose:
+total 4
+-rw-r--r-- 1 root root 3183 Dec  7  2020 rose.h
+
+/usr/include/nfs:
+total 4
+-rw-r--r-- 1 root root 23 Dec  7  2020 nfs.h
+
+/usr/include/openssl:
+total 1548
+-rw-r--r-- 1 root root   3349 Aug 23 17:02 aes.h
+-rw-r--r-- 1 root root  33627 Aug 23 17:02 asn1.h
+-rw-r--r-- 1 root root    395 Aug 23 17:02 asn1_mac.h
+-rw-r--r-- 1 root root  14687 Aug 23 17:02 asn1err.h
+-rw-r--r-- 1 root root  32940 Aug 23 17:02 asn1t.h
+-rw-r--r-- 1 root root   2398 Aug 23 17:02 async.h
+-rw-r--r-- 1 root root   1258 Aug 23 17:02 asyncerr.h
+-rw-r--r-- 1 root root  34931 Aug 23 17:02 bio.h
+-rw-r--r-- 1 root root   6332 Aug 23 17:02 bioerr.h
+-rw-r--r-- 1 root root   1847 Aug 23 17:02 blowfish.h
+-rw-r--r-- 1 root root  22135 Aug 23 17:02 bn.h
+-rw-r--r-- 1 root root   4839 Aug 23 17:02 bnerr.h
+-rw-r--r-- 1 root root   1600 Aug 23 17:02 buffer.h
+-rw-r--r-- 1 root root    752 Aug 23 17:02 buffererr.h
+-rw-r--r-- 1 root root   3179 Aug 23 17:02 camellia.h
+-rw-r--r-- 1 root root   1674 Aug 23 17:02 cast.h
+-rw-r--r-- 1 root root   1064 Aug 23 17:02 cmac.h
+-rw-r--r-- 1 root root  16412 Aug 23 17:02 cms.h
+-rw-r--r-- 1 root root  10966 Aug 23 17:02 cmserr.h
+-rw-r--r-- 1 root root   1328 Aug 23 17:02 comp.h
+-rw-r--r-- 1 root root   1144 Aug 23 17:02 comperr.h
+-rw-r--r-- 1 root root   5601 Aug 23 17:02 conf.h
+-rw-r--r-- 1 root root   1300 Aug 23 17:02 conf_api.h
+-rw-r--r-- 1 root root   3361 Aug 23 17:02 conferr.h
+-rw-r--r-- 1 root root  16907 Aug 23 17:02 crypto.h
+-rw-r--r-- 1 root root   2193 Aug 23 17:02 cryptoerr.h
+-rw-r--r-- 1 root root  15990 Aug 23 17:02 ct.h
+-rw-r--r-- 1 root root   3402 Aug 23 17:02 cterr.h
+-rw-r--r-- 1 root root   7627 Aug 23 17:02 des.h
+-rw-r--r-- 1 root root  13403 Aug 23 17:02 dh.h
+-rw-r--r-- 1 root root   3906 Aug 23 17:02 dherr.h
+-rw-r--r-- 1 root root   9640 Aug 23 17:02 dsa.h
+-rw-r--r-- 1 root root   2841 Aug 23 17:02 dsaerr.h
+-rw-r--r-- 1 root root   1623 Aug 23 17:02 dtls1.h
+-rw-r--r-- 1 root root   8710 Aug 23 17:02 e_os2.h
+-rw-r--r-- 1 root root    924 Aug 23 17:02 ebcdic.h
+-rw-r--r-- 1 root root  63049 Aug 23 17:02 ec.h
+-rw-r--r-- 1 root root    358 Aug 23 17:02 ecdh.h
+-rw-r--r-- 1 root root    358 Aug 23 17:02 ecdsa.h
+-rw-r--r-- 1 root root  15438 Aug 23 17:02 ecerr.h
+-rw-r--r-- 1 root root  34661 Aug 23 17:02 engine.h
+-rw-r--r-- 1 root root   5379 Aug 23 17:02 engineerr.h
+-rw-r--r-- 1 root root  11231 Aug 23 17:02 err.h
+-rw-r--r-- 1 root root  75098 Aug 23 17:02 evp.h
+-rw-r--r-- 1 root root  10987 Aug 23 17:02 evperr.h
+-rw-r--r-- 1 root root   1591 Aug 23 17:02 hmac.h
+-rw-r--r-- 1 root root   2099 Aug 23 17:02 idea.h
+-rw-r--r-- 1 root root   4326 Aug 23 17:02 kdf.h
+-rw-r--r-- 1 root root   2054 Aug 23 17:02 kdferr.h
+-rw-r--r-- 1 root root   8145 Aug 23 17:02 lhash.h
+-rw-r--r-- 1 root root   1054 Aug 23 17:02 md2.h
+-rw-r--r-- 1 root root   1322 Aug 23 17:02 md4.h
+-rw-r--r-- 1 root root   1320 Aug 23 17:02 md5.h
+-rw-r--r-- 1 root root   1053 Aug 23 17:02 mdc2.h
+-rw-r--r-- 1 root root  10478 Aug 23 17:02 modes.h
+-rw-r--r-- 1 root root 217521 Aug 23 17:02 obj_mac.h
+-rw-r--r-- 1 root root   6633 Aug 23 17:02 objects.h
+-rw-r--r-- 1 root root   1248 Aug 23 17:02 objectserr.h
+-rw-r--r-- 1 root root  15417 Aug 23 17:02 ocsp.h
+-rw-r--r-- 1 root root   3288 Aug 23 17:02 ocsperr.h
+-rw-r--r-- 1 root root   4101 Aug 23 17:02 opensslv.h
+-rw-r--r-- 1 root root   6217 Aug 23 17:02 ossl_typ.h
+-rw-r--r-- 1 root root  15468 Aug 23 17:02 pem.h
+-rw-r--r-- 1 root root    415 Aug 23 17:02 pem2.h
+-rw-r--r-- 1 root root   5030 Aug 23 17:02 pemerr.h
+-rw-r--r-- 1 root root   9871 Aug 23 17:02 pkcs12.h
+-rw-r--r-- 1 root root   3681 Aug 23 17:02 pkcs12err.h
+-rw-r--r-- 1 root root  11590 Aug 23 17:02 pkcs7.h
+-rw-r--r-- 1 root root   5042 Aug 23 17:02 pkcs7err.h
+-rw-r--r-- 1 root root   2213 Aug 23 17:02 rand.h
+-rw-r--r-- 1 root root   4513 Aug 23 17:02 rand_drbg.h
+-rw-r--r-- 1 root root   4353 Aug 23 17:02 randerr.h
+-rw-r--r-- 1 root root   1534 Aug 23 17:02 rc2.h
+-rw-r--r-- 1 root root    825 Aug 23 17:02 rc4.h
+-rw-r--r-- 1 root root   1988 Aug 23 17:02 rc5.h
+-rw-r--r-- 1 root root   1243 Aug 23 17:02 ripemd.h
+-rw-r--r-- 1 root root  22173 Aug 23 17:02 rsa.h
+-rw-r--r-- 1 root root   8945 Aug 23 17:02 rsaerr.h
+-rw-r--r-- 1 root root   6651 Aug 23 17:02 safestack.h
+-rw-r--r-- 1 root root   3479 Aug 23 17:02 seed.h
+-rw-r--r-- 1 root root   3831 Aug 23 17:02 sha.h
+-rw-r--r-- 1 root root   3827 Aug 23 17:02 srp.h
+-rw-r--r-- 1 root root   1316 Aug 23 17:02 srtp.h
+-rw-r--r-- 1 root root 110319 Aug 23 17:02 ssl.h
+-rw-r--r-- 1 root root    542 Aug 23 17:02 ssl2.h
+-rw-r--r-- 1 root root  14576 Aug 23 17:02 ssl3.h
+-rw-r--r-- 1 root root  46484 Aug 23 17:02 sslerr.h
+-rw-r--r-- 1 root root   3095 Aug 23 17:02 stack.h
+-rw-r--r-- 1 root root  11197 Aug 23 17:02 store.h
+-rw-r--r-- 1 root root   4331 Aug 23 17:02 storeerr.h
+-rw-r--r-- 1 root root   2076 Aug 23 17:02 symhacks.h
+-rw-r--r-- 1 root root  72433 Aug 23 17:02 tls1.h
+-rw-r--r-- 1 root root  22429 Aug 23 17:02 ts.h
+-rw-r--r-- 1 root root   6678 Aug 23 17:02 tserr.h
+-rw-r--r-- 1 root root   1666 Aug 23 17:02 txt_db.h
+-rw-r--r-- 1 root root  16052 Aug 23 17:02 ui.h
+-rw-r--r-- 1 root root   2669 Aug 23 17:02 uierr.h
+-rw-r--r-- 1 root root   1377 Aug 23 17:02 whrlpool.h
+-rw-r--r-- 1 root root  43123 Aug 23 17:02 x509.h
+-rw-r--r-- 1 root root  31918 Aug 23 17:02 x509_vfy.h
+-rw-r--r-- 1 root root   6647 Aug 23 17:02 x509err.h
+-rw-r--r-- 1 root root  33250 Aug 23 17:02 x509v3.h
+-rw-r--r-- 1 root root   8709 Aug 23 17:02 x509v3err.h
+
+/usr/include/protocols:
+total 20
+-rw-r--r-- 1 root root 3844 Dec  7  2020 routed.h
+-rw-r--r-- 1 root root 2567 Dec  7  2020 rwhod.h
+-rw-r--r-- 1 root root 4826 Dec  7  2020 talkd.h
+-rw-r--r-- 1 root root 3881 Dec  7  2020 timed.h
+
+/usr/include/python3.6m:
+total 764
+-rw-r--r-- 1 root root 22274 Dec  8 21:08 Python-ast.h
+-rw-r--r-- 1 root root  3221 Dec  8 21:08 Python.h
+-rw-r--r-- 1 root root 47451 Dec  8 21:08 abstract.h
+-rw-r--r-- 1 root root  1016 Dec  8 21:08 accu.h
+-rw-r--r-- 1 root root  1213 Dec  8 21:08 asdl.h
+-rw-r--r-- 1 root root   477 Dec  8 21:08 ast.h
+-rw-r--r-- 1 root root   792 Dec  8 21:08 bitset.h
+-rw-r--r-- 1 root root   264 Dec  8 21:08 bltinmodule.h
+-rw-r--r-- 1 root root   886 Dec  8 21:08 boolobject.h
+-rw-r--r-- 1 root root  2114 Dec  8 21:08 bytearrayobject.h
+-rw-r--r-- 1 root root  3191 Dec  8 21:08 bytes_methods.h
+-rw-r--r-- 1 root root  8363 Dec  8 21:08 bytesobject.h
+-rw-r--r-- 1 root root   701 Dec  8 21:08 cellobject.h
+-rw-r--r-- 1 root root  8524 Dec  8 21:08 ceval.h
+-rw-r--r-- 1 root root  1666 Dec  8 21:08 classobject.h
+-rw-r--r-- 1 root root  5945 Dec  8 21:08 code.h
+-rw-r--r-- 1 root root  6793 Dec  8 21:08 codecs.h
+-rw-r--r-- 1 root root  2164 Dec  8 21:08 compile.h
+-rw-r--r-- 1 root root  1807 Dec  8 21:08 complexobject.h
+-rw-r--r-- 1 root root  9414 Dec  8 21:08 datetime.h
+-rw-r--r-- 1 root root  2964 Dec  8 21:08 descrobject.h
+-rw-r--r-- 1 root root  7178 Dec  8 21:08 dictobject.h
+-rw-r--r-- 1 root root   458 Dec  8 21:08 dtoa.h
+-rw-r--r-- 1 root root 22469 Dec  8 21:08 dynamic_annotations.h
+-rw-r--r-- 1 root root   253 Dec  8 21:08 enumobject.h
+-rw-r--r-- 1 root root  1497 Dec  8 21:08 errcode.h
+-rw-r--r-- 1 root root   597 Dec  8 21:08 eval.h
+-rw-r--r-- 1 root root  1651 Dec  8 21:08 fileobject.h
+-rw-r--r-- 1 root root  3524 Dec  8 21:08 fileutils.h
+-rw-r--r-- 1 root root  4794 Dec  8 21:08 floatobject.h
+-rw-r--r-- 1 root root  3530 Dec  8 21:08 frameobject.h
+-rw-r--r-- 1 root root  4079 Dec  8 21:08 funcobject.h
+-rw-r--r-- 1 root root  3583 Dec  8 21:08 genobject.h
+-rw-r--r-- 1 root root  1966 Dec  8 21:08 graminit.h
+-rw-r--r-- 1 root root  2074 Dec  8 21:08 grammar.h
+-rw-r--r-- 1 root root  4233 Dec  8 21:08 import.h
+-rw-r--r-- 1 root root   513 Dec  8 21:08 intrcheck.h
+-rw-r--r-- 1 root root   567 Dec  8 21:08 iterobject.h
+-rw-r--r-- 1 root root  2900 Dec  8 21:08 listobject.h
+-rw-r--r-- 1 root root  3761 Dec  8 21:08 longintrepr.h
+-rw-r--r-- 1 root root  8471 Dec  8 21:08 longobject.h
+-rw-r--r-- 1 root root   803 Dec  8 21:08 marshal.h
+-rw-r--r-- 1 root root  2765 Dec  8 21:08 memoryobject.h
+-rw-r--r-- 1 root root   253 Dec  8 21:08 metagrammar.h
+-rw-r--r-- 1 root root  3847 Dec  8 21:08 methodobject.h
+-rw-r--r-- 1 root root  7317 Dec  8 21:08 modsupport.h
+-rw-r--r-- 1 root root  2285 Dec  8 21:08 moduleobject.h
+-rw-r--r-- 1 root root   349 Dec  8 21:08 namespaceobject.h
+-rw-r--r-- 1 root root  1007 Dec  8 21:08 node.h
+-rw-r--r-- 1 root root 40373 Dec  8 21:08 object.h
+-rw-r--r-- 1 root root 14244 Dec  8 21:08 objimpl.h
+-rw-r--r-- 1 root root  1288 Dec  8 21:08 odictobject.h
+-rw-r--r-- 1 root root  5073 Dec  8 21:08 opcode.h
+-rw-r--r-- 1 root root   691 Dec  8 21:08 osdefs.h
+-rw-r--r-- 1 root root   291 Dec  8 21:08 osmodule.h
+-rw-r--r-- 1 root root  2885 Dec  8 21:08 parsetok.h
+-rw-r--r-- 1 root root  1128 Dec  8 21:08 patchlevel.h
+-rw-r--r-- 1 root root   253 Dec  8 21:08 pgen.h
+-rw-r--r-- 1 root root  1180 Dec  8 21:08 pgenheaders.h
+-rw-r--r-- 1 root root  4307 Dec  8 21:08 py_curses.h
+-rw-r--r-- 1 root root  2744 Dec  8 21:08 pyarena.h
+-rw-r--r-- 1 root root  8128 Dec  8 21:08 pyatomic.h
+-rw-r--r-- 1 root root  1726 Dec  8 21:08 pycapsule.h
+-rw-r--r-- 1 root root  4086 Dec  8 21:08 pyconfig.h
+-rw-r--r-- 1 root root  1320 Dec  8 21:08 pyctype.h
+-rw-r--r-- 1 root root  1209 Dec  8 21:08 pydebug.h
+-rw-r--r-- 1 root root  1970 Dec  8 21:08 pydtrace.h
+-rw-r--r-- 1 root root 17219 Dec  8 21:08 pyerrors.h
+-rw-r--r-- 1 root root  2450 Dec  8 21:08 pyexpat.h
+-rw-r--r-- 1 root root  8471 Dec  8 21:08 pyfpe.h
+-rw-r--r-- 1 root root   410 Dec  8 21:08 pygetopt.h
+-rw-r--r-- 1 root root  4139 Dec  8 21:08 pyhash.h
+-rw-r--r-- 1 root root  4078 Dec  8 21:08 pylifecycle.h
+-rw-r--r-- 1 root root  2989 Dec  8 21:08 pymacconfig.h
+-rw-r--r-- 1 root root  3500 Dec  8 21:08 pymacro.h
+-rw-r--r-- 1 root root  8312 Dec  8 21:08 pymath.h
+-rw-r--r-- 1 root root  8557 Dec  8 21:08 pymem.h
+-rw-r--r-- 1 root root 27573 Dec  8 21:08 pyport.h
+-rw-r--r-- 1 root root 11146 Dec  8 21:08 pystate.h
+-rw-r--r-- 1 root root   436 Dec  8 21:08 pystrcmp.h
+-rw-r--r-- 1 root root   495 Dec  8 21:08 pystrhex.h
+-rw-r--r-- 1 root root  1483 Dec  8 21:08 pystrtod.h
+-rw-r--r-- 1 root root  6782 Dec  8 21:08 pythonrun.h
+-rw-r--r-- 1 root root  2992 Dec  8 21:08 pythread.h
+-rw-r--r-- 1 root root  7609 Dec  8 21:08 pytime.h
+-rw-r--r-- 1 root root   629 Dec  8 21:08 rangeobject.h
+-rw-r--r-- 1 root root  3333 Dec  8 21:08 setobject.h
+-rw-r--r-- 1 root root  2485 Dec  8 21:08 sliceobject.h
+-rw-r--r-- 1 root root  2018 Dec  8 21:08 structmember.h
+-rw-r--r-- 1 root root  1353 Dec  8 21:08 structseq.h
+-rw-r--r-- 1 root root  4994 Dec  8 21:08 symtable.h
+-rw-r--r-- 1 root root  1355 Dec  8 21:08 sysmodule.h
+-rw-r--r-- 1 root root  1943 Dec  8 21:08 token.h
+-rw-r--r-- 1 root root  3644 Dec  8 21:08 traceback.h
+-rw-r--r-- 1 root root  2444 Dec  8 21:08 tupleobject.h
+-rw-r--r-- 1 root root  2253 Dec  8 21:08 typeslots.h
+-rw-r--r-- 1 root root  1056 Dec  8 21:08 ucnhash.h
+-rw-r--r-- 1 root root 81779 Dec  8 21:08 unicodeobject.h
+-rw-r--r-- 1 root root  1693 Dec  8 21:08 warnings.h
+-rw-r--r-- 1 root root  2866 Dec  8 21:08 weakrefobject.h
+
+/usr/include/rdma:
+total 144
+-rw-r--r-- 1 root root  2657 Dec  8 17:15 bnxt_re-abi.h
+-rw-r--r-- 1 root root  2374 Dec  8 17:15 cxgb3-abi.h
+-rw-r--r-- 1 root root  2571 Dec  8 17:15 cxgb4-abi.h
+drwxr-xr-x 2 root root  4096 Jan  5 06:13 hfi
+-rw-r--r-- 1 root root  2130 Dec  8 17:15 hns-abi.h
+-rw-r--r-- 1 root root  6609 Dec  8 17:15 ib_user_cm.h
+-rw-r--r-- 1 root root  2436 Dec  8 17:15 ib_user_ioctl_verbs.h
+-rw-r--r-- 1 root root  8517 Dec  8 17:15 ib_user_mad.h
+-rw-r--r-- 1 root root  2305 Dec  8 17:15 ib_user_sa.h
+-rw-r--r-- 1 root root 23714 Dec  8 17:15 ib_user_verbs.h
+-rw-r--r-- 1 root root  4140 Dec  8 17:15 mlx4-abi.h
+-rw-r--r-- 1 root root  9401 Dec  8 17:15 mlx5-abi.h
+-rw-r--r-- 1 root root  3015 Dec  8 17:15 mthca-abi.h
+-rw-r--r-- 1 root root  3463 Dec  8 17:15 nes-abi.h
+-rw-r--r-- 1 root root  4016 Dec  8 17:15 ocrdma-abi.h
+-rw-r--r-- 1 root root  2699 Dec  8 17:15 qedr-abi.h
+-rw-r--r-- 1 root root  7008 Dec  8 17:15 rdma_netlink.h
+-rw-r--r-- 1 root root  6326 Dec  8 17:15 rdma_user_cm.h
+-rw-r--r-- 1 root root  4611 Dec  8 17:15 rdma_user_ioctl.h
+-rw-r--r-- 1 root root  3215 Dec  8 17:15 rdma_user_rxe.h
+-rw-r--r-- 1 root root  7484 Dec  8 17:15 vmw_pvrdma-abi.h
+
+/usr/include/rdma/hfi:
+total 20
+-rw-r--r-- 1 root root 6490 Dec  8 17:15 hfi1_ioctl.h
+-rw-r--r-- 1 root root 9077 Dec  8 17:15 hfi1_user.h
+
+/usr/include/rpc:
+total 116
+-rw-r--r-- 1 root root  6634 Dec  7  2020 auth.h
+-rw-r--r-- 1 root root  3559 Dec  7  2020 auth_des.h
+-rw-r--r-- 1 root root  2914 Dec  7  2020 auth_unix.h
+-rw-r--r-- 1 root root 12531 Dec  7  2020 clnt.h
+-rw-r--r-- 1 root root  3383 Dec  7  2020 des_crypt.h
+-rw-r--r-- 1 root root 11756 Dec  7  2020 key_prot.h
+-rw-r--r-- 1 root root  2897 Dec  7  2020 netdb.h
+-rw-r--r-- 1 root root  3837 Dec  7  2020 pmap_clnt.h
+-rw-r--r-- 1 root root  3810 Dec  7  2020 pmap_prot.h
+-rw-r--r-- 1 root root  2311 Dec  7  2020 pmap_rmt.h
+-rw-r--r-- 1 root root  3938 Dec  7  2020 rpc.h
+-rw-r--r-- 1 root root  2511 Dec  7  2020 rpc_des.h
+-rw-r--r-- 1 root root  4753 Dec  7  2020 rpc_msg.h
+-rw-r--r-- 1 root root 11524 Dec  7  2020 svc.h
+-rw-r--r-- 1 root root  1976 Dec  7  2020 svc_auth.h
+-rw-r--r-- 1 root root  3233 Dec  7  2020 types.h
+-rw-r--r-- 1 root root 14577 Dec  7  2020 xdr.h
+
+/usr/include/rpcsvc:
+total 280
+-rw-r--r-- 1 root root   916 Dec  7  2020 bootparam.h
+-rw-r--r-- 1 root root  3188 Dec  7  2020 bootparam_prot.h
+-rw-r--r-- 1 root root  3120 Dec  7  2020 bootparam_prot.x
+-rw-r--r-- 1 root root  6757 Dec  7  2020 key_prot.h
+-rw-r--r-- 1 root root  6568 Dec  7  2020 key_prot.x
+-rw-r--r-- 1 root root  3290 Dec  7  2020 klm_prot.h
+-rw-r--r-- 1 root root  3741 Dec  7  2020 klm_prot.x
+-rw-r--r-- 1 root root  3863 Dec  7  2020 mount.h
+-rw-r--r-- 1 root root  4665 Dec  7  2020 mount.x
+-rw-r--r-- 1 root root 11448 Dec  7  2020 nfs_prot.h
+-rw-r--r-- 1 root root  7986 Dec  7  2020 nfs_prot.x
+-rw-r--r-- 1 root root 16210 Dec  7  2020 nis.h
+-rw-r--r-- 1 root root 16802 Dec  7  2020 nis.x
+-rw-r--r-- 1 root root  2704 Dec  7  2020 nis_callback.h
+-rw-r--r-- 1 root root  2178 Dec  7  2020 nis_callback.x
+-rw-r--r-- 1 root root 13090 Dec  7  2020 nis_object.x
+-rw-r--r-- 1 root root  5370 Dec  7  2020 nis_tags.h
+-rw-r--r-- 1 root root 12892 Dec  7  2020 nislib.h
+-rw-r--r-- 1 root root  9374 Dec  7  2020 nlm_prot.h
+-rw-r--r-- 1 root root  4990 Dec  7  2020 nlm_prot.x
+-rw-r--r-- 1 root root  5252 Dec  7  2020 rex.h
+-rw-r--r-- 1 root root  7422 Dec  7  2020 rex.x
+-rw-r--r-- 1 root root  2249 Dec  7  2020 rquota.h
+-rw-r--r-- 1 root root  1568 Dec  7  2020 rquota.x
+-rw-r--r-- 1 root root  4045 Dec  7  2020 rstat.h
+-rw-r--r-- 1 root root  4001 Dec  7  2020 rstat.x
+-rw-r--r-- 1 root root  3279 Dec  7  2020 rusers.h
+-rw-r--r-- 1 root root  5866 Dec  7  2020 rusers.x
+-rw-r--r-- 1 root root  3173 Dec  7  2020 sm_inter.h
+-rw-r--r-- 1 root root  3752 Dec  7  2020 sm_inter.x
+-rw-r--r-- 1 root root  1887 Dec  7  2020 spray.h
+-rw-r--r-- 1 root root  2543 Dec  7  2020 spray.x
+-rw-r--r-- 1 root root  9916 Dec  7  2020 yp.h
+-rw-r--r-- 1 root root  7198 Dec  7  2020 yp.x
+-rw-r--r-- 1 root root 10499 Dec  7  2020 yp_prot.h
+-rw-r--r-- 1 root root  3500 Dec  7  2020 ypclnt.h
+-rw-r--r-- 1 root root  1285 Dec  7  2020 yppasswd.h
+-rw-r--r-- 1 root root  2286 Dec  7  2020 yppasswd.x
+-rw-r--r-- 1 root root  3007 Dec  7  2020 ypupd.h
+
+/usr/include/scsi:
+total 60
+-rw-r--r-- 1 root root 10168 Dec  8 17:15 cxlflash_ioctl.h
+drwxr-xr-x 2 root root  4096 Jan  5 06:13 fc
+-rw-r--r-- 1 root root  6969 Dec  7  2020 scsi.h
+-rw-r--r-- 1 root root  8817 Dec  8 17:15 scsi_bsg_fc.h
+-rw-r--r-- 1 root root  1315 Dec  7  2020 scsi_ioctl.h
+-rw-r--r-- 1 root root  3666 Dec  8 17:15 scsi_netlink.h
+-rw-r--r-- 1 root root  1993 Dec  8 17:15 scsi_netlink_fc.h
+-rw-r--r-- 1 root root 11661 Dec  7  2020 sg.h
+
+/usr/include/scsi/fc:
+total 56
+-rw-r--r-- 1 root root 26667 Dec  8 17:15 fc_els.h
+-rw-r--r-- 1 root root 12367 Dec  8 17:15 fc_fs.h
+-rw-r--r-- 1 root root  2895 Dec  8 17:15 fc_gs.h
+-rw-r--r-- 1 root root  4981 Dec  8 17:15 fc_ns.h
+
+/usr/include/sound:
+total 200
+-rw-r--r-- 1 root root 21847 Dec  8 17:15 asequencer.h
+-rw-r--r-- 1 root root 19733 Dec  8 17:15 asoc.h
+-rw-r--r-- 1 root root 45851 Dec  8 17:15 asound.h
+-rw-r--r-- 1 root root  4377 Dec  8 17:15 asound_fm.h
+-rw-r--r-- 1 root root  6743 Dec  8 17:15 compress_offload.h
+-rw-r--r-- 1 root root 16992 Dec  8 17:15 compress_params.h
+-rw-r--r-- 1 root root 17240 Dec  8 17:15 emu10k1.h
+-rw-r--r-- 1 root root  2697 Dec  8 17:15 firewire.h
+-rw-r--r-- 1 root root  3140 Dec  8 17:15 hdsp.h
+-rw-r--r-- 1 root root  5486 Dec  8 17:15 hdspm.h
+-rw-r--r-- 1 root root  4304 Dec  8 17:15 sb16_csp.h
+-rw-r--r-- 1 root root  7494 Dec  8 17:15 sfnt_info.h
+-rw-r--r-- 1 root root 11574 Dec  8 17:15 snd_sst_tokens.h
+-rw-r--r-- 1 root root  4041 Dec  8 17:15 tlv.h
+-rw-r--r-- 1 root root  1939 Dec  8 17:15 usb_stream.h
+
+/usr/include/video:
+total 16
+-rw-r--r-- 1 root root  213 Dec  8 17:15 edid.h
+-rw-r--r-- 1 root root 7643 Dec  8 17:15 sisfb.h
+-rw-r--r-- 1 root root 1078 Dec  8 17:15 uvesafb.h
+
+/usr/include/x86_64-linux-gnu:
+total 72
+-rw-r--r-- 1 root root  4350 Dec  7  2020 a.out.h
+drwxr-xr-x 2 root root 12288 Jan  5 06:13 asm
+drwxr-xr-x 3 root root 12288 Sep 10 19:08 bits
+drwxr-xr-x 3 root root  4096 Sep 10 19:09 c++
+drwxr-xr-x 2 root root  4096 Sep 23 06:48 curl
+-rw-r--r-- 1 root root  3517 Sep 10  2019 expat_config.h
+-rw-r--r-- 1 root root  3583 Dec  7  2020 fpu_control.h
+drwxr-xr-x 2 root root  4096 Sep 10 19:08 gnu
+-rw-r--r-- 1 root root  4910 Dec  7  2020 ieee754.h
+drwxr-xr-x 2 root root  4096 Sep 10 19:11 openssl
+drwxr-xr-x 2 root root  4096 Dec 16 06:38 python3.6m
+drwxr-xr-x 2 root root  4096 Sep 10 19:08 sys
+
+/usr/include/x86_64-linux-gnu/asm:
+total 324
+-rw-r--r-- 1 root root   756 Dec  8 17:15 a.out.h
+-rw-r--r-- 1 root root   546 Dec  8 17:15 auxvec.h
+-rw-r--r-- 1 root root   321 Dec  8 17:15 bitsperlong.h
+-rw-r--r-- 1 root root   323 Dec  8 17:15 boot.h
+-rw-r--r-- 1 root root  7141 Dec  8 17:15 bootparam.h
+-rw-r--r-- 1 root root    40 Dec  8 17:15 bpf_perf_event.h
+-rw-r--r-- 1 root root   176 Dec  8 17:15 byteorder.h
+-rw-r--r-- 1 root root  3285 Dec  8 17:15 debugreg.h
+-rw-r--r-- 1 root root  2579 Dec  8 17:15 e820.h
+-rw-r--r-- 1 root root    31 Dec  8 17:15 errno.h
+-rw-r--r-- 1 root root    31 Dec  8 17:15 fcntl.h
+-rw-r--r-- 1 root root    69 Dec  8 17:15 hw_breakpoint.h
+-rw-r--r-- 1 root root   174 Dec  8 17:15 hwcap2.h
+-rw-r--r-- 1 root root 13035 Dec  8 17:15 hyperv.h
+-rw-r--r-- 1 root root    31 Dec  8 17:15 ioctl.h
+-rw-r--r-- 1 root root    32 Dec  8 17:15 ioctls.h
+-rw-r--r-- 1 root root    32 Dec  8 17:15 ipcbuf.h
+-rw-r--r-- 1 root root   854 Dec  8 17:15 ist.h
+-rw-r--r-- 1 root root  7152 Dec  8 17:15 kvm.h
+-rw-r--r-- 1 root root  2976 Dec  8 17:15 kvm_para.h
+-rw-r--r-- 1 root root   388 Dec  8 17:15 kvm_perf.h
+-rw-r--r-- 1 root root  1306 Dec  8 17:15 ldt.h
+-rw-r--r-- 1 root root  1312 Dec  8 17:15 mce.h
+-rw-r--r-- 1 root root  1002 Dec  8 17:15 mman.h
+-rw-r--r-- 1 root root  1053 Dec  8 17:15 msgbuf.h
+-rw-r--r-- 1 root root   346 Dec  8 17:15 msr.h
+-rw-r--r-- 1 root root  4225 Dec  8 17:15 mtrr.h
+-rw-r--r-- 1 root root    31 Dec  8 17:15 param.h
+-rw-r--r-- 1 root root   717 Dec  8 17:15 perf_regs.h
+-rw-r--r-- 1 root root    30 Dec  8 17:15 poll.h
+-rw-r--r-- 1 root root   224 Dec  8 17:15 posix_types.h
+-rw-r--r-- 1 root root   765 Dec  8 17:15 posix_types_32.h
+-rw-r--r-- 1 root root   609 Dec  8 17:15 posix_types_64.h
+-rw-r--r-- 1 root root   581 Dec  8 17:15 posix_types_x32.h
+-rw-r--r-- 1 root root   418 Dec  8 17:15 prctl.h
+-rw-r--r-- 1 root root  6623 Dec  8 17:15 processor-flags.h
+-rw-r--r-- 1 root root  2037 Dec  8 17:15 ptrace-abi.h
+-rw-r--r-- 1 root root  1495 Dec  8 17:15 ptrace.h
+-rw-r--r-- 1 root root    34 Dec  8 17:15 resource.h
+-rw-r--r-- 1 root root   777 Dec  8 17:15 sembuf.h
+-rw-r--r-- 1 root root     6 Dec  8 17:15 setup.h
+-rw-r--r-- 1 root root  1258 Dec  8 17:15 shmbuf.h
+-rw-r--r-- 1 root root  9724 Dec  8 17:15 sigcontext.h
+-rw-r--r-- 1 root root   247 Dec  8 17:15 sigcontext32.h
+-rw-r--r-- 1 root root   494 Dec  8 17:15 siginfo.h
+-rw-r--r-- 1 root root  2901 Dec  8 17:15 signal.h
+-rw-r--r-- 1 root root    32 Dec  8 17:15 socket.h
+-rw-r--r-- 1 root root    33 Dec  8 17:15 sockios.h
+-rw-r--r-- 1 root root  3131 Dec  8 17:15 stat.h
+-rw-r--r-- 1 root root   416 Dec  8 17:15 statfs.h
+-rw-r--r-- 1 root root  7031 Dec  8 17:15 svm.h
+-rw-r--r-- 1 root root   724 Dec  8 17:15 swab.h
+-rw-r--r-- 1 root root    34 Dec  8 17:15 termbits.h
+-rw-r--r-- 1 root root    33 Dec  8 17:15 termios.h
+-rw-r--r-- 1 root root   152 Dec  8 17:15 types.h
+-rw-r--r-- 1 root root  2117 Dec  8 17:15 ucontext.h
+-rw-r--r-- 1 root root   359 Dec  8 17:15 unistd.h
+-rw-r--r-- 1 root root 10136 Dec  8 17:15 unistd_32.h
+-rw-r--r-- 1 root root  8893 Dec  8 17:15 unistd_64.h
+-rw-r--r-- 1 root root 15666 Dec  8 17:15 unistd_x32.h
+-rw-r--r-- 1 root root  3118 Dec  8 17:15 vm86.h
+-rw-r--r-- 1 root root  6749 Dec  8 17:15 vmx.h
+-rw-r--r-- 1 root root   263 Dec  8 17:15 vsyscall.h
+
+/usr/include/x86_64-linux-gnu/bits:
+total 888
+-rw-r--r-- 1 root root  1440 Dec  7  2020 _G_config.h
+-rw-r--r-- 1 root root   268 Dec  7  2020 a.out.h
+-rw-r--r-- 1 root root  3475 Dec  7  2020 auxv.h
+-rw-r--r-- 1 root root  1731 Dec  7  2020 byteswap-16.h
+-rw-r--r-- 1 root root  5664 Dec  7  2020 byteswap.h
+-rw-r--r-- 1 root root  4138 Dec  7  2020 cmathcalls.h
+-rw-r--r-- 1 root root 23708 Dec  7  2020 confname.h
+-rw-r--r-- 1 root root  4515 Dec  7  2020 cpu-set.h
+-rw-r--r-- 1 root root  1728 Dec  7  2020 dirent.h
+-rw-r--r-- 1 root root  2520 Dec  7  2020 dlfcn.h
+-rw-r--r-- 1 root root   426 Dec  7  2020 elfclass.h
+-rw-r--r-- 1 root root   176 Dec  7  2020 endian.h
+-rw-r--r-- 1 root root  3790 Dec  7  2020 environments.h
+-rw-r--r-- 1 root root  1070 Dec  7  2020 epoll.h
+-rw-r--r-- 1 root root  1425 Dec  7  2020 errno.h
+-rw-r--r-- 1 root root  2683 Dec  7  2020 error.h
+-rw-r--r-- 1 root root  1128 Dec  7  2020 eventfd.h
+-rw-r--r-- 1 root root 14359 Dec  7  2020 fcntl-linux.h
+-rw-r--r-- 1 root root  2245 Dec  7  2020 fcntl.h
+-rw-r--r-- 1 root root  5574 Dec  7  2020 fcntl2.h
+-rw-r--r-- 1 root root  4606 Dec  7  2020 fenv.h
+-rw-r--r-- 1 root root   190 Dec  7  2020 fenvinline.h
+-rw-r--r-- 1 root root  9419 Dec  7  2020 floatn-common.h
+-rw-r--r-- 1 root root  4423 Dec  7  2020 floatn.h
+-rw-r--r-- 1 root root  1214 Dec  7  2020 flt-eval-method.h
+-rw-r--r-- 1 root root  1215 Dec  7  2020 fp-fast.h
+-rw-r--r-- 1 root root  1011 Dec  7  2020 fp-logb.h
+-rw-r--r-- 1 root root  3666 Dec  7  2020 getopt_core.h
+-rw-r--r-- 1 root root  3037 Dec  7  2020 getopt_ext.h
+-rw-r--r-- 1 root root  1809 Dec  7  2020 getopt_posix.h
+-rw-r--r-- 1 root root   971 Dec  7  2020 hwcap.h
+-rw-r--r-- 1 root root  9440 Dec  7  2020 in.h
+-rw-r--r-- 1 root root    25 Dec  7  2020 initspin.h
+-rw-r--r-- 1 root root  1079 Dec  7  2020 inotify.h
+-rw-r--r-- 1 root root  2455 Dec  7  2020 ioctl-types.h
+-rw-r--r-- 1 root root  4477 Dec  7  2020 ioctls.h
+-rw-r--r-- 1 root root  2070 Dec  7  2020 ipc.h
+-rw-r--r-- 1 root root  1175 Dec  7  2020 ipctypes.h
+-rw-r--r-- 1 root root  2478 Dec  7  2020 iscanonical.h
+-rw-r--r-- 1 root root  2607 Dec  7  2020 libc-header-start.h
+-rw-r--r-- 1 root root  1086 Dec  7  2020 libio-ldbl.h
+-rw-r--r-- 1 root root 17221 Dec  7  2020 libio.h
+-rw-r--r-- 1 root root  3003 Dec  7  2020 libm-simd-decl-stubs.h
+-rw-r--r-- 1 root root  4285 Dec  7  2020 link.h
+-rw-r--r-- 1 root root  3184 Dec  7  2020 local_lim.h
+-rw-r--r-- 1 root root  1367 Dec  7  2020 locale.h
+-rw-r--r-- 1 root root   923 Dec  7  2020 long-double.h
+-rw-r--r-- 1 root root  5374 Dec  7  2020 math-finite.h
+-rw-r--r-- 1 root root  2307 Dec  7  2020 math-vector.h
+-rw-r--r-- 1 root root  1764 Dec  7  2020 mathcalls-helper-functions.h
+-rw-r--r-- 1 root root 13114 Dec  7  2020 mathcalls.h
+-rw-r--r-- 1 root root   890 Dec  7  2020 mathdef.h
+-rw-r--r-- 1 root root 27180 Dec  7  2020 mathinline.h
+-rw-r--r-- 1 root root  4802 Dec  7  2020 mman-linux.h
+-rw-r--r-- 1 root root  2736 Dec  7  2020 mman-shared.h
+-rw-r--r-- 1 root root  1872 Dec  7  2020 mman.h
+-rw-r--r-- 1 root root  1046 Dec  7  2020 monetary-ldbl.h
+-rw-r--r-- 1 root root  1245 Dec  7  2020 mqueue.h
+-rw-r--r-- 1 root root  2150 Dec  7  2020 mqueue2.h
+-rw-r--r-- 1 root root  2612 Dec  7  2020 msq.h
+-rw-r--r-- 1 root root  1263 Dec  7  2020 netdb.h
+-rw-r--r-- 1 root root  1432 Dec  7  2020 param.h
+-rw-r--r-- 1 root root  2075 Dec  7  2020 poll.h
+-rw-r--r-- 1 root root  2936 Dec  7  2020 poll2.h
+-rw-r--r-- 1 root root  4922 Dec  7  2020 posix1_lim.h
+-rw-r--r-- 1 root root  2866 Dec  7  2020 posix2_lim.h
+-rw-r--r-- 1 root root  5705 Dec  7  2020 posix_opt.h
+-rw-r--r-- 1 root root   991 Dec  7  2020 printf-ldbl.h
+-rw-r--r-- 1 root root  3290 Dec  7  2020 pthreadtypes-arch.h
+-rw-r--r-- 1 root root  3071 Dec  7  2020 pthreadtypes.h
+-rw-r--r-- 1 root root  2900 Dec  7  2020 ptrace-shared.h
+-rw-r--r-- 1 root root  6298 Dec  7  2020 resource.h
+-rw-r--r-- 1 root root  3811 Dec  7  2020 sched.h
+-rw-r--r-- 1 root root  2105 Dec  7  2020 select.h
+-rw-r--r-- 1 root root  1437 Dec  7  2020 select2.h
+-rw-r--r-- 1 root root  2594 Dec  7  2020 sem.h
+-rw-r--r-- 1 root root  1237 Dec  7  2020 semaphore.h
+-rw-r--r-- 1 root root  1286 Dec  7  2020 setjmp.h
+-rw-r--r-- 1 root root  1704 Dec  7  2020 setjmp2.h
+-rw-r--r-- 1 root root  3566 Dec  7  2020 shm.h
+-rw-r--r-- 1 root root  2871 Dec  7  2020 sigaction.h
+-rw-r--r-- 1 root root  4264 Dec  7  2020 sigcontext.h
+-rw-r--r-- 1 root root  1470 Dec  7  2020 sigevent-consts.h
+-rw-r--r-- 1 root root   729 Dec  7  2020 siginfo-arch.h
+-rw-r--r-- 1 root root   204 Dec  7  2020 siginfo-consts-arch.h
+-rw-r--r-- 1 root root  5973 Dec  7  2020 siginfo-consts.h
+-rw-r--r-- 1 root root  1066 Dec  7  2020 signalfd.h
+-rw-r--r-- 1 root root  4340 Dec  7  2020 signum-generic.h
+-rw-r--r-- 1 root root  1633 Dec  7  2020 signum.h
+-rw-r--r-- 1 root root  1167 Dec  7  2020 sigstack.h
+-rw-r--r-- 1 root root  1691 Dec  7  2020 sigthread.h
+-rw-r--r-- 1 root root  1513 Dec  7  2020 sockaddr.h
+-rw-r--r-- 1 root root 14322 Dec  7  2020 socket.h
+-rw-r--r-- 1 root root  3025 Dec  7  2020 socket2.h
+-rw-r--r-- 1 root root  2215 Dec  7  2020 socket_type.h
+-rw-r--r-- 1 root root  1187 Dec  7  2020 ss_flags.h
+-rw-r--r-- 1 root root  9039 Dec  7  2020 stab.def
+-rw-r--r-- 1 root root  7619 Dec  7  2020 stat.h
+-rw-r--r-- 1 root root  1916 Dec  7  2020 statfs.h
+-rw-r--r-- 1 root root  3422 Dec  7  2020 statvfs.h
+-rw-r--r-- 1 root root  1036 Dec  7  2020 stdint-intn.h
+-rw-r--r-- 1 root root  1048 Dec  7  2020 stdint-uintn.h
+-rw-r--r-- 1 root root  3013 Dec  7  2020 stdio-ldbl.h
+-rw-r--r-- 1 root root  5492 Dec  7  2020 stdio.h
+-rw-r--r-- 1 root root 12547 Dec  7  2020 stdio2.h
+-rw-r--r-- 1 root root  1212 Dec  7  2020 stdio_lim.h
+-rw-r--r-- 1 root root  1377 Dec  7  2020 stdlib-bsearch.h
+-rw-r--r-- 1 root root  1114 Dec  7  2020 stdlib-float.h
+-rw-r--r-- 1 root root  1372 Dec  7  2020 stdlib-ldbl.h
+-rw-r--r-- 1 root root  5658 Dec  7  2020 stdlib.h
+-rw-r--r-- 1 root root  4313 Dec  7  2020 string_fortified.h
+-rw-r--r-- 1 root root  1208 Dec  7  2020 strings_fortified.h
+-rw-r--r-- 1 root root  8453 Dec  7  2020 stropts.h
+-rw-r--r-- 1 root root  1215 Dec  7  2020 sys_errlist.h
+-rw-r--r-- 1 root root 40539 Dec  7  2020 syscall.h
+-rw-r--r-- 1 root root   898 Dec  7  2020 sysctl.h
+-rw-r--r-- 1 root root  1205 Dec  7  2020 syslog-ldbl.h
+-rw-r--r-- 1 root root  1060 Dec  7  2020 syslog-path.h
+-rw-r--r-- 1 root root  1684 Dec  7  2020 syslog.h
+-rw-r--r-- 1 root root  2952 Dec  7  2020 sysmacros.h
+-rw-r--r-- 1 root root  5363 Dec  7  2020 termios.h
+-rw-r--r-- 1 root root  6720 Dec  7  2020 thread-shared-types.h
+-rw-r--r-- 1 root root  2998 Dec  7  2020 time.h
+-rw-r--r-- 1 root root  1102 Dec  7  2020 timerfd.h
+-rw-r--r-- 1 root root  4595 Dec  7  2020 timex.h
+drwxr-xr-x 2 root root  4096 Sep 10 19:08 types
+-rw-r--r-- 1 root root  7990 Dec  7  2020 types.h
+-rw-r--r-- 1 root root  3397 Dec  7  2020 typesizes.h
+-rw-r--r-- 1 root root  1541 Dec  7  2020 uintn-identity.h
+-rw-r--r-- 1 root root  1922 Dec  7  2020 uio-ext.h
+-rw-r--r-- 1 root root  1384 Dec  7  2020 uio_lim.h
+-rw-r--r-- 1 root root 13315 Dec  7  2020 unistd.h
+-rw-r--r-- 1 root root  1089 Dec  7  2020 ustat.h
+-rw-r--r-- 1 root root  4053 Dec  7  2020 utmp.h
+-rw-r--r-- 1 root root  3465 Dec  7  2020 utmpx.h
+-rw-r--r-- 1 root root  1212 Dec  7  2020 utsname.h
+-rw-r--r-- 1 root root  2217 Dec  7  2020 waitflags.h
+-rw-r--r-- 1 root root  2286 Dec  7  2020 waitstatus.h
+-rw-r--r-- 1 root root  2423 Dec  7  2020 wchar-ldbl.h
+-rw-r--r-- 1 root root  1905 Dec  7  2020 wchar.h
+-rw-r--r-- 1 root root 20505 Dec  7  2020 wchar2.h
+-rw-r--r-- 1 root root  6301 Dec  7  2020 wctype-wchar.h
+-rw-r--r-- 1 root root   442 Dec  7  2020 wordsize.h
+-rw-r--r-- 1 root root  3857 Dec  7  2020 xopen_lim.h
+-rw-r--r-- 1 root root  1214 Dec  7  2020 xtitypes.h
+
+/usr/include/x86_64-linux-gnu/bits/types:
+total 112
+-rw-r--r-- 1 root root  180 Dec  7  2020 FILE.h
+-rw-r--r-- 1 root root  110 Dec  7  2020 __FILE.h
+-rw-r--r-- 1 root root 1721 Dec  7  2020 __locale_t.h
+-rw-r--r-- 1 root root  564 Dec  7  2020 __mbstate_t.h
+-rw-r--r-- 1 root root  206 Dec  7  2020 __sigset_t.h
+-rw-r--r-- 1 root root 1147 Dec  7  2020 __sigval_t.h
+-rw-r--r-- 1 root root  143 Dec  7  2020 clock_t.h
+-rw-r--r-- 1 root root  174 Dec  7  2020 clockid_t.h
+-rw-r--r-- 1 root root  982 Dec  7  2020 locale_t.h
+-rw-r--r-- 1 root root  135 Dec  7  2020 mbstate_t.h
+-rw-r--r-- 1 root root 2009 Dec  7  2020 res_state.h
+-rw-r--r-- 1 root root  272 Dec  7  2020 sig_atomic_t.h
+-rw-r--r-- 1 root root 1204 Dec  7  2020 sigevent_t.h
+-rw-r--r-- 1 root root 3892 Dec  7  2020 siginfo_t.h
+-rw-r--r-- 1 root root  195 Dec  7  2020 sigset_t.h
+-rw-r--r-- 1 root root  599 Dec  7  2020 sigval_t.h
+-rw-r--r-- 1 root root 1061 Dec  7  2020 stack_t.h
+-rw-r--r-- 1 root root 1065 Dec  7  2020 struct_iovec.h
+-rw-r--r-- 1 root root  288 Dec  7  2020 struct_itimerspec.h
+-rw-r--r-- 1 root root  274 Dec  7  2020 struct_osockaddr.h
+-rw-r--r-- 1 root root 4076 Dec  7  2020 struct_rusage.h
+-rw-r--r-- 1 root root 1072 Dec  7  2020 struct_sigstack.h
+-rw-r--r-- 1 root root  376 Dec  7  2020 struct_timespec.h
+-rw-r--r-- 1 root root  287 Dec  7  2020 struct_timeval.h
+-rw-r--r-- 1 root root  760 Dec  7  2020 struct_tm.h
+-rw-r--r-- 1 root root  138 Dec  7  2020 time_t.h
+-rw-r--r-- 1 root root  159 Dec  7  2020 timer_t.h
+-rw-r--r-- 1 root root  796 Dec  7  2020 wint_t.h
+
+/usr/include/x86_64-linux-gnu/c++:
+total 4
+drwxr-xr-x 4 root root 4096 Sep 10 19:09 7
+lrwxrwxrwx 1 root root    1 Dec  4  2019 7.5.0 -> 7
+
+/usr/include/x86_64-linux-gnu/c++/7:
+total 8
+drwxr-xr-x 2 root root 4096 Sep 10 19:09 bits
+drwxr-xr-x 2 root root 4096 Sep 10 19:09 ext
+
+/usr/include/x86_64-linux-gnu/c++/7/bits:
+total 204
+-rw-r--r-- 1 root root  1518 Dec  4  2019 atomic_word.h
+-rw-r--r-- 1 root root  3442 Dec  4  2019 basic_file.h
+-rw-r--r-- 1 root root  1849 Dec  4  2019 c++allocator.h
+-rw-r--r-- 1 root root 58031 Dec  4  2019 c++config.h
+-rw-r--r-- 1 root root  1608 Dec  4  2019 c++io.h
+-rw-r--r-- 1 root root  3307 Dec  4  2019 c++locale.h
+-rw-r--r-- 1 root root  1333 Dec  4  2019 cpu_defines.h
+-rw-r--r-- 1 root root  2316 Dec  4  2019 ctype_base.h
+-rw-r--r-- 1 root root  2284 Dec  4  2019 ctype_inline.h
+-rw-r--r-- 1 root root  2096 Dec  4  2019 cxxabi_tweaks.h
+-rw-r--r-- 1 root root  5175 Dec  4  2019 error_constants.h
+-rw-r--r-- 1 root root  2661 Dec  4  2019 extc++.h
+-rw-r--r-- 1 root root 24237 Dec  4  2019 gthr-default.h
+-rw-r--r-- 1 root root 24237 Dec  4  2019 gthr-posix.h
+-rw-r--r-- 1 root root  6808 Dec  4  2019 gthr-single.h
+-rw-r--r-- 1 root root  5608 Dec  4  2019 gthr.h
+-rw-r--r-- 1 root root  4516 Dec  4  2019 messages_members.h
+-rw-r--r-- 1 root root  6194 Dec  4  2019 opt_random.h
+-rw-r--r-- 1 root root  2007 Dec  4  2019 os_defines.h
+-rw-r--r-- 1 root root  2874 Dec  4  2019 stdc++.h
+-rw-r--r-- 1 root root  1741 Dec  4  2019 stdtr1c++.h
+-rw-r--r-- 1 root root  2924 Dec  4  2019 time_members.h
+
+/usr/include/x86_64-linux-gnu/c++/7/ext:
+total 8
+-rw-r--r-- 1 root root 4756 Dec  4  2019 opt_random.h
+
+/usr/include/x86_64-linux-gnu/curl:
+total 204
+-rw-r--r-- 1 root root 102037 Sep 20 12:02 curl.h
+-rw-r--r-- 1 root root   3034 Sep 20 12:02 curlver.h
+-rw-r--r-- 1 root root   3473 Sep 20 12:02 easy.h
+-rw-r--r-- 1 root root   2071 Sep 20 12:02 mprintf.h
+-rw-r--r-- 1 root root  16094 Sep 20 12:02 multi.h
+-rw-r--r-- 1 root root   1329 Sep 20 12:02 stdcheaders.h
+-rw-r--r-- 1 root root  17684 Sep 20 12:02 system.h
+-rw-r--r-- 1 root root  42492 Sep 20 12:02 typecheck-gcc.h
+-rw-r--r-- 1 root root   4491 Sep 20 12:02 urlapi.h
+
+/usr/include/x86_64-linux-gnu/gnu:
+total 20
+-rw-r--r-- 1 root root 1720 Dec  7  2020 lib-names-64.h
+-rw-r--r-- 1 root root  467 Dec  7  2020 lib-names.h
+-rw-r--r-- 1 root root 1263 Dec  7  2020 libc-version.h
+-rw-r--r-- 1 root root  613 Dec  7  2020 stubs-64.h
+-rw-r--r-- 1 root root  384 Dec  7  2020 stubs.h
+
+/usr/include/x86_64-linux-gnu/openssl:
+total 8
+-rw-r--r-- 1 root root 4465 Aug 23 17:02 opensslconf.h
+
+/usr/include/x86_64-linux-gnu/python3.6m:
+total 44
+-rw-r--r-- 1 root root 44045 Dec  8 21:08 pyconfig.h
+
+/usr/include/x86_64-linux-gnu/sys:
+total 464
+-rw-r--r-- 1 root root  3296 Dec  7  2020 acct.h
+-rw-r--r-- 1 root root  1282 Dec  7  2020 auxv.h
+-rw-r--r-- 1 root root    86 Dec  7  2020 bitypes.h
+-rw-r--r-- 1 root root 17622 Dec  7  2020 cdefs.h
+-rw-r--r-- 1 root root  3575 Dec  7  2020 debugreg.h
+-rw-r--r-- 1 root root   921 Dec  7  2020 dir.h
+-rw-r--r-- 1 root root  1023 Dec  7  2020 elf.h
+-rw-r--r-- 1 root root  4410 Dec  7  2020 epoll.h
+-rw-r--r-- 1 root root    19 Dec  7  2020 errno.h
+-rw-r--r-- 1 root root  1399 Dec  7  2020 eventfd.h
+-rw-r--r-- 1 root root  1291 Dec  7  2020 fanotify.h
+-rw-r--r-- 1 root root    19 Dec  7  2020 fcntl.h
+-rw-r--r-- 1 root root  1721 Dec  7  2020 file.h
+-rw-r--r-- 1 root root  1187 Dec  7  2020 fsuid.h
+-rw-r--r-- 1 root root  6210 Dec  7  2020 gmon.h
+-rw-r--r-- 1 root root  2635 Dec  7  2020 gmon_out.h
+-rw-r--r-- 1 root root  3837 Dec  7  2020 inotify.h
+-rw-r--r-- 1 root root  5085 Dec  7  2020 io.h
+-rw-r--r-- 1 root root  1739 Dec  7  2020 ioctl.h
+-rw-r--r-- 1 root root  1461 Dec  7  2020 ipc.h
+-rw-r--r-- 1 root root  1111 Dec  7  2020 kd.h
+-rw-r--r-- 1 root root  1203 Dec  7  2020 klog.h
+-rw-r--r-- 1 root root  5551 Dec  7  2020 mman.h
+-rw-r--r-- 1 root root  5611 Dec  7  2020 mount.h
+-rw-r--r-- 1 root root  2365 Dec  7  2020 msg.h
+-rw-r--r-- 1 root root 11162 Dec  7  2020 mtio.h
+-rw-r--r-- 1 root root  3148 Dec  7  2020 param.h
+-rw-r--r-- 1 root root   922 Dec  7  2020 pci.h
+-rw-r--r-- 1 root root  1126 Dec  7  2020 perm.h
+-rw-r--r-- 1 root root  2722 Dec  7  2020 personality.h
+-rw-r--r-- 1 root root  2549 Dec  7  2020 poll.h
+-rw-r--r-- 1 root root  1058 Dec  7  2020 prctl.h
+-rw-r--r-- 1 root root  4985 Dec  7  2020 procfs.h
+-rw-r--r-- 1 root root  1958 Dec  7  2020 profil.h
+-rw-r--r-- 1 root root  5988 Dec  7  2020 ptrace.h
+-rw-r--r-- 1 root root 19539 Dec  7  2020 queue.h
+-rw-r--r-- 1 root root  5170 Dec  7  2020 quota.h
+-rw-r--r-- 1 root root  1443 Dec  7  2020 random.h
+-rw-r--r-- 1 root root  1181 Dec  7  2020 raw.h
+-rw-r--r-- 1 root root  1632 Dec  7  2020 reboot.h
+-rw-r--r-- 1 root root  1826 Dec  7  2020 reg.h
+-rw-r--r-- 1 root root  3645 Dec  7  2020 resource.h
+-rw-r--r-- 1 root root  4140 Dec  7  2020 select.h
+-rw-r--r-- 1 root root  2036 Dec  7  2020 sem.h
+-rw-r--r-- 1 root root  1805 Dec  7  2020 sendfile.h
+-rw-r--r-- 1 root root  1873 Dec  7  2020 shm.h
+-rw-r--r-- 1 root root    20 Dec  7  2020 signal.h
+-rw-r--r-- 1 root root  1599 Dec  7  2020 signalfd.h
+-rw-r--r-- 1 root root 10203 Dec  7  2020 socket.h
+-rw-r--r-- 1 root root   141 Dec  7  2020 socketvar.h
+-rw-r--r-- 1 root root    29 Dec  7  2020 soundcard.h
+-rw-r--r-- 1 root root 16186 Dec  7  2020 stat.h
+-rw-r--r-- 1 root root  2093 Dec  7  2020 statfs.h
+-rw-r--r-- 1 root root  2819 Dec  7  2020 statvfs.h
+-rw-r--r-- 1 root root    21 Dec  7  2020 stropts.h
+-rw-r--r-- 1 root root  1592 Dec  7  2020 swap.h
+-rw-r--r-- 1 root root  1335 Dec  7  2020 syscall.h
+-rw-r--r-- 1 root root  2004 Dec  7  2020 sysctl.h
+-rw-r--r-- 1 root root  1517 Dec  7  2020 sysinfo.h
+-rw-r--r-- 1 root root  7702 Dec  7  2020 syslog.h
+-rw-r--r-- 1 root root  4030 Dec  7  2020 sysmacros.h
+-rw-r--r-- 1 root root    74 Dec  7  2020 termios.h
+-rw-r--r-- 1 root root  6656 Dec  7  2020 time.h
+-rw-r--r-- 1 root root  1376 Dec  7  2020 timeb.h
+-rw-r--r-- 1 root root  1873 Dec  7  2020 timerfd.h
+-rw-r--r-- 1 root root  1596 Dec  7  2020 times.h
+-rw-r--r-- 1 root root  2205 Dec  7  2020 timex.h
+-rw-r--r-- 1 root root  2499 Dec  7  2020 ttychars.h
+-rw-r--r-- 1 root root  3568 Dec  7  2020 ttydefaults.h
+-rw-r--r-- 1 root root  6584 Dec  7  2020 types.h
+-rw-r--r-- 1 root root  5758 Dec  7  2020 ucontext.h
+-rw-r--r-- 1 root root  6279 Dec  7  2020 uio.h
+-rw-r--r-- 1 root root  1452 Dec  7  2020 un.h
+-rw-r--r-- 1 root root    20 Dec  7  2020 unistd.h
+-rw-r--r-- 1 root root  5207 Dec  7  2020 user.h
+-rw-r--r-- 1 root root  1140 Dec  7  2020 ustat.h
+-rw-r--r-- 1 root root  2480 Dec  7  2020 utsname.h
+-rw-r--r-- 1 root root   161 Dec  7  2020 vfs.h
+-rw-r--r-- 1 root root  1879 Dec  7  2020 vlimit.h
+-rw-r--r-- 1 root root  1198 Dec  7  2020 vm86.h
+-rw-r--r-- 1 root root    22 Dec  7  2020 vt.h
+-rw-r--r-- 1 root root  2462 Dec  7  2020 vtimes.h
+-rw-r--r-- 1 root root  5312 Dec  7  2020 wait.h
+-rw-r--r-- 1 root root  4274 Dec  7  2020 xattr.h
+
+/usr/include/xen:
+total 20
+-rw-r--r-- 1 root root 3553 Dec  8 17:15 evtchn.h
+-rw-r--r-- 1 root root 2619 Dec  8 17:15 gntalloc.h
+-rw-r--r-- 1 root root 7322 Dec  8 17:15 gntdev.h
+-rw-r--r-- 1 root root 3992 Dec  8 17:15 privcmd.h
+
+/usr/include/xfs:
+total 0
